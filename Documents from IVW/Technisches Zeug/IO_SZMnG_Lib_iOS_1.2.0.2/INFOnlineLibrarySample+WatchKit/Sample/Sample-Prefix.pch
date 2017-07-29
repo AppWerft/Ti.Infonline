@@ -1,0 +1,17 @@
+//
+// Prefix header for all source files of the 'Sample' target in the 'Sample' project
+//
+
+#import <Availability.h>
+
+#ifndef __IPHONE_3_0
+#warning "This project uses features only available in iOS SDK 3.0 and later."
+#endif
+
+#define STILL_SUPPORTS_IOS5 (__IPHONE_OS_VERSION_MIN_REQUIRED < __IPHONE_6_0)
+
+#ifdef __OBJC__
+	#import <UIKit/UIKit.h>
+	#import <Foundation/Foundation.h>
+	#import "ObjCSubscripting.h"
+#endif

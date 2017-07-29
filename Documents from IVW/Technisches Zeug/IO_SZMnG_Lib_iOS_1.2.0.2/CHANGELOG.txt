@@ -1,0 +1,143 @@
+CHANGELOG INFONLINE SZMNG LIBRARY IOS
+======================================
+
+V 1.2.0.2 (11.08.2016)
+---------------------
+- optimized event sending handler regarding app life cycle
+
+
+V 1.2.0.1 (28.09.2015)
+---------------------
+- removed CFBundleExecutable from info.plist to avoid App Store submission issue
+
+
+V 1.2.0 (14.09.2015)
+---------------------
+- ensured compatibility with Xcode 7
+- tested successfully with iOS 9
+- enabled bitcode
+- support compiler flag „No common blocks“ = YES 
+
+
+V 1.1.9.1 (31.07.2015)
+---------------------
+- fixed specific compiler warnings regarding WKWebView support
+
+
+V 1.1.9 (15.07.2015)
+---------------------
+- Apple Watch: Support for tracking events in WatchKit 1.0 apps incl. extended sample project
+- WKWebView: Implemented WKWebView support
+- fixed a bundle access error on some devices
+
+
+V 1.1.8 (24.04.2015)
+---------------------
+
+- check expiration date of config when session is started or app returns from background. schedule config update if config is expired.
+- send expiration date of config in all requests if debug mode is enabled
+- added support for ConfigCodes
+- using customerData for mClient tracking
+- increased timestamp precision to seconds.mikroseconds
+- tested successfully with iOS 8.3
+
+
+V 1.1.7.1 (05.11.2014)
+---------------------
+
+- fixed a compatibility issue with a 3rd party framework regarding categories
+- tested successfully with iOS 8.1
+
+
+V 1.1.7 (15.09.2014)
+---------------------
+
+- using IDVA if IDFA not available
+- tested successfully with iOS8 GM seed
+- dropped support for iOS versions below 7.0
+- minor optimizations
+
+
+V 1.1.6 (07.05.2014)
+---------------------
+
+- removed measurement of MAC address as part of UUID
+- enabled usage of lib without linking AdSupport.framework
+- dropped support for iOS versions below 6.0
+- optimized persistency routines
+
+
+V 1.1.5 (20.12.2013)
+---------------------
+
+- added 64bit support
+- added iOS7 support
+- dropped support for iOS versions below 5.1.1
+- dropped support for Xcode 4
+- optimized network format
+- updated sample project
+- better log output
+
+
+V 1.1.4 (08.04.2013)
+---------------------
+
+- preventing crash on configuration update if session is terminated in the same run loop
+- added deprecated attribute to -[IOLWebView multiIdentifierString]
+- updated sample project
+- optimized memory management
+
+
+V 1.1.3 (14.03.2013)
+---------------------
+
+- preventing crash in case country data is not set
+
+
+V 1.1.2 (04.03.2013)
+---------------------
+
+- fixed connection issues with empty responses
+- added error codes for IOLStatistics in order to prevent throwing unnecessary error messages
+
+
+V 1.1.1 (14.02.2013)
+---------------------
+
+- fixed potential crash during event logging in case offer identifier is nil
+
+
+V 1.1.0 (13.02.2013)
+---------------------
+
+- added manual hybrid tracking mode incl. web view
+- changed session initialization to hybrid app
+- added exception if running on 4.3 and SBJSON is not linked
+- change to version 1.1.0, always log IOLError header on config update
+- updated library to work with current sbjson release
+- added interpretation of IOLError header fields
+- add IOLConfiguration update with JSON data
+- optimised configuration log
+- optimised configuration update request
+- added base64 encoding unit test
+- changed status code for NOT-MODIFIED in unit tests
+- added IOLWebView multi identifier
+- deprecated IOLAd and IOLPaid parameter
+
+
+V 1.0.0 (14.01.2013)
+---------------------
+
+- final lib release
+
+
+V 0.9.1 (05.12.2012)
+---------------------
+
+- closed beta version
+
+
+V 0.9.0 (15.10.2012)
+---------------------
+
+- first version

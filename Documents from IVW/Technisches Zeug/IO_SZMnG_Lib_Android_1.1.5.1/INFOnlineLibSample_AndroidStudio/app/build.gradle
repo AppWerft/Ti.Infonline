@@ -1,0 +1,41 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 24
+    buildToolsVersion "23.0.3"
+
+    defaultConfig {
+        applicationId "de.infonline.sample"
+        minSdkVersion 10
+        targetSdkVersion 24
+        versionCode 22
+        versionName "1.1.5.1"
+
+        multiDexEnabled true
+    }
+    buildTypes {
+        release {
+            signingConfig signingConfigs.debug
+        }
+    }
+}
+
+//Das Verzeichnis, in dem sich infonlinelib_X.X.X.aar befindet, muss als Repository angegeben werden
+repositories{
+    flatDir{
+        dirs 'libs'
+    }
+}
+
+dependencies {
+    compile 'com.android.support:appcompat-v7:24.2.1'
+    
+    //Die INFOnline Library benötigt die Google Play Services Library
+    compile 'com.google.android.gms:play-services-ads:10.0.1'
+
+    //MultiDexing
+    compile 'com.android.support:multidex:1.0.1'
+
+    //Die INFOnline Library muss verlinkt werden
+    compile 'de.infonline.lib:infonlinelib_1.1.5.1@aar'
+}

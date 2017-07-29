@@ -1,0 +1,55 @@
+RELEASE NOTES INFONLINE SZMNG LIBRARY ANDROID
+=============================================
+
+INFOnline SZMnG Library for Android v1.1.5.1
+Build: 08e0bc566809b04bc5e02a337603790817bb74b9
+Release Date: 08.12.2016
+
+CONTENTS OF THIS PACKAGE
+========================
+
+This release of INFOnline SZMnG Library for Android consists of the following:
+
+infonlinelib_1.1.5.1.aar
+	The IO SZMnG Lib Android v1.1.5.1 itself as a binary distribution file
+
+INFOnlineLibSample_AndroidStudio
+	A sample application for Android Studio to demonstrate the integration and usage if the INFOnline SZMnG Lib.
+
+CHANGELOG.txt
+   	Version history / change log
+
+RELEASE_NOTES.txt
+   	What you're looking at right now.
+
+
+REQUIREMENTS
+============
+
+Development:
+- Android SDK Release 24 and higher
+- Android Studio 2.0 and above
+- Google Play Services 8.4 and higher
+
+Operation:
+- Android OS v2.3.3 (API Level 10) and higher
+
+
+INTEGRATION/USAGE
+=================
+
+For a detailed instructions, please refer to the corresponding Integration Guide IOLib SZMnG for Android.
+
+
+LICENSING
+=========
+
+INFOnline SZMnG for Android is distributed under MIT license:
+
+Copyright (c) 2016, INFOnline GmbH, Bonn / GERMANY
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.

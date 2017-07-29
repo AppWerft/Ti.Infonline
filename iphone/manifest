@@ -1,0 +1,18 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 0.0.1
+apiversion: 2
+architectures: armv7 arm64 i386 x86_64
+description: ivw
+author: Rainer Knöterich
+license: Specify your license
+copyright: Copyright (c) 2017 by 
+
+# these should not be edited
+name: ivw
+moduleid: ti.ivw
+guid: 2116ea82-ef39-4299-b58c-619744db300b
+platform: iphone
+minsdk: 6.1.1.GA

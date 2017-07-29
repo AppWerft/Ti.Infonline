@@ -1,0 +1,95 @@
+CHANGELOG INFONLINE SZMNG LIBRARY ANDROID
+=========================================
+
+V 1.1.5.1 (08.12.2016)
+---------------------
+- fix: Google Play Services NPE when obtaining AdvertisingIdClient.Info in v9.8.0+
+- improved: Exception handling for Google Play Services. Any exceptions can be considered recoverable und should not prevent the EventDispatcher from dispatching events.
+- improved: Sample now uses AppCompat Light Theme
+
+
+V 1.1.5 (17.08.2016)
+---------------------
+
+- new: SDK 24 (Android N) support for WebViewClient
+- new: Runtime Permission support in Library Sample for devices running Marshmallow (v23 and up)
+- fix: Reinitialization of IOLSession
+- improved: GooglePlayServices support for v8.4.0 and up
+- improved: Thread safety of TrackingThread
+- improved: enabled MultiDexing for Library Sample
+- removed: WIFI-Identifier from UUIDs
+- fix: network values for NoConnection(0), GSM (1), WIFI(2)
+- removed Apache reference in preparation for Android M
+
+
+V 1.1.4 (12.05.2015)
+---------------------
+
+- lib: increased timestamp precision to seconds.milliseconds
+- lib: tested successfully with Android 5.1
+
+
+V 1.1.3 (09.02.2015)
+---------------------
+
+- sample: enabled setting of customerData, event-comment, event-category with input fields
+- lib: added distribution as binary Android library (.aar)
+- lib: added IOLWebView support for Android Lollipop
+- lib: added support for ConfigCodes
+- lib: added public setter/getter for customerData (mClient)
+- lib: improved debug logging - log INFOnline library version, google play services lib version and other information to logcat
+- lib: enforced presence of default config - throw RuntimeException if default config is not available
+- lib: INFOnline library version information now available in de.infonline.lib.BuildConfig
+- lib: check expiration date of config when session is started or app returns from background. schedule config update if config is expired.
+- lib: send expiration date of INFOnline config in all requests if debug mode is enabled
+- lib: bugfixed issue where the MultiIdentifierCallback.onMultiIdentifier() listener was called twice
+- lib: bugfixed issue where hybridIdentifier and customerData were ignored when using initIOLSession(Context context, String offerIdentifier, String hybridIdentifier, String customerData, boolean debugModeEnabled)
+
+
+V 1.1.2 (13.03.2014)
+---------------------
+
+- changed default identifier tracking behavior in order to meet Google Play Developer Program Policies. For details please refer to http://play.google.com/about/developer-content-policy.html . Opt-in of tracking device IDs still possible.
+- updated sample app accordingly
+
+
+V 1.1.1 (04.03.2013)
+---------------------
+
+- fixed potential bug when reading/writing installationID
+- fixed SecurityException(READ_PHONE_STATE) occurring on some devices when TelephonyManager.getSimOperatorName() is called
+- always log IOLError header on config data update
+- optimized error management of config data communication
+
+
+V 1.1.0 (13.02.2013)
+---------------------
+
+- added manual hybrid tracking mode incl. web view
+- changed session initialization for hybrid tracking
+- change to version 1.1.0
+- added interpretation of IOLError header fields
+- add IOLConfiguration update with JSON data
+- optimised configuration logging
+- optimised configuration update request
+- added base64 encoding unit test
+- added IOLWebView multi identifier
+- deprecated IOLAd and IOLPaid parameter
+
+
+V 1.0.0 (11.01.2013)
+---------------------
+
+- final lib release
+
+
+V 0.9.1 (05.12.2012)
+---------------------
+
+- closed beta version
+
+
+V 0.9.0 (15.10.2012)
+---------------------
+
+- initial alpha version

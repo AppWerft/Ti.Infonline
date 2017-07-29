@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder.WatchKit.Storyboard" version="3.0" toolsVersion="7706" systemVersion="14E36b" targetRuntime="watchKit" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" initialViewController="AgC-eL-Hgc">
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="7703"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBWatchKitPlugin" version="7701"/>
+    </dependencies>
+    <scenes>
+        <!--Event Interface Controller-->
+        <scene sceneID="aou-V4-d1y">
+            <objects>
+                <controller id="AgC-eL-Hgc" customClass="EventInterfaceController">
+                    <items>
+                        <table alignment="left" id="zBk-5O-hzx">
+                            <items>
+                                <tableRow identifier="EventTypeRowController" selectable="NO" id="e32-BI-uRC" customClass="EventTypeRowController">
+                                    <group key="rootItem" width="1" height="0.0" alignment="left" id="So7-Bl-ppl">
+                                        <items>
+                                            <label alignment="left" text="Label" id="oAJ-go-Qrr"/>
+                                        </items>
+                                        <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+                                    </group>
+                                    <connections>
+                                        <outlet property="eventTypeLabel" destination="oAJ-go-Qrr" id="9di-qi-rLa"/>
+                                    </connections>
+                                </tableRow>
+                                <tableRow identifier="EventStateRowController" id="duN-3m-yGF" customClass="EventStateRowController">
+                                    <group key="rootItem" width="1" height="48" alignment="left" layout="vertical" id="B7X-mz-jR0">
+                                        <items>
+                                            <label alignment="left" text="Label" id="8x5-VD-83x"/>
+                                            <label alignment="left" text="Label" id="H5g-ZG-piB"/>
+                                        </items>
+                                    </group>
+                                    <connections>
+                                        <outlet property="eventAutomaticLabel" destination="H5g-ZG-piB" id="HMU-d9-cot"/>
+                                        <outlet property="eventStateLabel" destination="8x5-VD-83x" id="Q2j-Ex-5ga"/>
+                                    </connections>
+                                </tableRow>
+                            </items>
+                        </table>
+                    </items>
+                    <connections>
+                        <outlet property="eventTable" destination="zBk-5O-hzx" id="0vQ-Rm-wb4"/>
+                    </connections>
+                </controller>
+            </objects>
+            <point key="canvasLocation" x="235" y="347"/>
+        </scene>
+    </scenes>
+</document>
