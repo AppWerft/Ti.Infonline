@@ -14,52 +14,145 @@ import org.appcelerator.kroll.annotations.Kroll;
 import org.appcelerator.titanium.TiApplication;
 import org.appcelerator.kroll.common.Log;
 import org.appcelerator.kroll.common.TiConfig;
+import de.infonline.lib.*;
 
-
-@Kroll.module(name="Ivw", id="ti.ivw")
-public class IvwModule extends KrollModule
-{
+@Kroll.module(name = "Ivw", id = "ti.ivw")
+public class IvwModule extends KrollModule {
 
 	// Standard Debugging variables
-	private static final String LCAT = "IvwModule";
+	private static final String LCAT = "IVWMod";
 	private static final boolean DBG = TiConfig.LOGD;
+	private String offerIdentifier;
+	private Boolean isSessionopened = false;
+	private Boolean optIn = false;
 
 	// You can define constants with @Kroll.constant, for example:
-	// @Kroll.constant public static final String EXTERNAL_NAME = value;
+	@Kroll.constant
+	public static final String EVENT_VIEW = "view";
+	@Kroll.constant
+	public static final String STATE_VIEW_APPEARED = "appeared";
+	@Kroll.constant
+	public static final String STATE_VIEW_DISAPPEARED = "disappeared";
+	@Kroll.constant
+	public static final String STATE_VIEW_REFRESHED = "refreshed";
 
-	public IvwModule()
-	{
+	@Kroll.constant
+	public static final String EVENT_ADVERTISEMENT = "advertisement";
+	@Kroll.constant
+	public static final String STATE_ADVERTISEMENT_OPEN = "open";
+	@Kroll.constant
+	public static final String STATE_ADVERTISEMENT_CLOSE = "close";
+
+	@Kroll.constant
+	public static final String EVENT_LOGIN = "login";
+	@Kroll.constant
+	public static final String STATE_LOGIN_SUCCEEDED = "succeeded";
+	@Kroll.constant
+	public static final String STATE_LOGIN_FAILED = "failed";
+	@Kroll.constant
+	public static final String STATE_LOGIN_LOGOUT = "logout";
+
+	@Kroll.constant
+	public static final String EVENT_IAP = "iap";
+	@Kroll.constant
+	public static final String STATE_IAP_STARTED = "started";
+	@Kroll.constant
+	public static final String STATE_IAP_FINISHED = "finished";
+	@Kroll.constant
+	public static final String STATE_IAP_CANCELLED = "cancelled";
+
+	@Kroll.constant
+	public static final String EVENT_DATA = "data";
+	@Kroll.constant
+	public static final String EVENT_DOCUMENT = "document";
+	@Kroll.constant
+	public static final String EVENT_DOWNLOAD = "download";
+	@Kroll.constant
+	public static final String EVENT_GAME = "game";
+
+	public IvwModule() {
 		super();
 	}
 
 	@Kroll.onAppCreate
-	public static void onAppCreate(TiApplication app)
-	{
+	public static void onAppCreate(TiApplication app) {
 		Log.d(LCAT, "inside onAppCreate");
-		// put module init code that needs to run when the application is created
+		// put module init code that needs to run when the application is
+		// created
+	}
+
+	@Kroll.method
+	@Kroll.setProperty
+	public void optIn() {
+		optIn = true;
+	}
+
+	@Kroll.method
+	@Kroll.setProperty
+	public void optOut() {
+		optIn = false;
+	}
+
+	@Kroll.method
+	public void logEvent(Object _event, Object _state, Object _code,
+			Object _comment) {
+		String event = "";
+		String state = "";
+		String code = "";
+		String comment = "";
+		if (!optIn)
+			return;
+		if (_event instanceof String) {
+			event = (String) _event;
+		} else
+			Log.e(LCAT, "wrong type for event");
+		if (_state instanceof String) {
+			state = (String) _state;
+		} else
+			Log.e(LCAT, "wrong type for state");
+		if (_code instanceof String) {
+			code = (String) _code;
+		} else
+			Log.e(LCAT, "wrong type for code");
+		if (_comment instanceof String) {
+			comment = (String) _comment;
+		} else
+			Log.e(LCAT, "wrong type for comment");
+		if (_event instanceof String) {
+			event = (String) _event;
+		} else
+			Log.e(LCAT, "wrong type for event");
+		if (offerIdentifier == null) {
+			Log.e(LCAT, "offerIdentifier not set");
+		}
+		// Converting String event into internal type:
+		IOLEventType type = Utils.getEventTypeFromString(event + "." + state);
+		if (!isSessionopened)
+			IOLSession.startSession();
+		IOLSession.logEvent(type, code, comment);
+		IOLSession.sendLoggedEvents();
 	}
 
 	// Methods
 	@Kroll.method
-	public String example()
-	{
-		Log.d(LCAT, "example called");
-		return "hello world";
+	public void startSession() {
+		IOLSession.startSession();
+		isSessionopened = true;
+
 	}
 
-	// Properties
-	@Kroll.getProperty
-	public String getExampleProp()
-	{
-		Log.d(LCAT, "get example property");
-		return "hello world";
-	}
+	// Methods
+	@Kroll.method
+	public void stopSession() {
+		IOLSession.terminateSession();
+		isSessionopened = false;
 
+	}
 
 	@Kroll.setProperty
-	public void setExampleProp(String value) {
-		Log.d(LCAT, "set example property: " + value);
+	public void setOfferIdentifier(String value) {
+
+		offerIdentifier = value;
 	}
 
 }
-
