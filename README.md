@@ -150,6 +150,10 @@ just call the optOut() function and the logEvent / startSession functions will r
 #### infonline.optIn()
 Re enable event logging after having called optOut()
 
+#### infonline.enableDebug()
+#### infonline.disableDebug()
+
+
 ### Properties
 #### infonline.offerIdentifier
 The INFOnline provided offer identifier.
