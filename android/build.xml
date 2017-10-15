@@ -1,6 +1,6 @@
-<project name="ivw" default="dist">
+<project name="infoline" default="dist">
 	<description>
-		Ant build script for Titanium Android module ivw
+		Ant build script for Titanium Android module infoline
 	</description>
 
 	<property name="ti.module.root" location="${basedir}"/>
