@@ -28,7 +28,6 @@ public class InfolineModule extends KrollModule {
 	private Boolean isOptIn = false;
 	private Boolean dbg = false;
 
-	// You can define constants with @Kroll.constant, for example:
 	@Kroll.constant
 	public static final String EVENT_VIEW = "view";
 	@Kroll.constant
@@ -66,12 +65,56 @@ public class InfolineModule extends KrollModule {
 	@Kroll.constant
 	public static final String EVENT_DATA = "data";
 	@Kroll.constant
+	public static final String STATE_DATA_CANCELLED = "cancelled";
+	@Kroll.constant
+	public static final String STATE_DATA_REFRESH = "refresh";
+	@Kroll.constant
+	public static final String STATE_DATA_SUCCEEDED = "succeeded";
+	@Kroll.constant
+	public static final String STATE_DATA_FAILED = "failed";
+	
+	@Kroll.constant
 	public static final String EVENT_DOCUMENT = "document";
+	@Kroll.constant
+	public static final String STATE_DOCUMENT_OPEN = "open";
+	@Kroll.constant
+	public static final String STATE_DOCUMENT_EDIT = "edit";
+	@Kroll.constant
+	public static final String STATE_DOCUMENT_CLOSE = "close";
+	
+	
 	@Kroll.constant
 	public static final String EVENT_DOWNLOAD = "download";
 	@Kroll.constant
+	public static final String STATE_DOWNLOAD_CANCELLED = "cancelled";
+	@Kroll.constant
+	public static final String STATE_DOWNLOAD_START = "start";
+	@Kroll.constant
+	public static final String STATE_DOWNLOAD_FAILED = "failed";
+	@Kroll.constant
+	public static final String STATE_DOWNLOAD_SUCCEDED = "succeeded";
+	
+	
+	
+	@Kroll.constant
 	public static final String EVENT_GAME = "game";
+	@Kroll.constant
+	public static final String STATE_GAME_ACTION = "action";
+	@Kroll.constant
+	public static final String STATE_GAME_STARTED = "started";
+	@Kroll.constant
+	public static final String STATE_GAME_FINISHED = "finished";
+	@Kroll.constant
+	public static final String STATE_GAME_WON = "won";
+	@Kroll.constant
+	public static final String STATE_GAME_LOST = "lost";
+	@Kroll.constant
+	public static final String STATE_GAME_NEWHIGHSCORE = "newhighscore";
+	@Kroll.constant
+	public static final String STATE_GAME_NewAchievement = "newachievement";
 
+	
+	
 	public InfolineModule() {
 		super();
 	}
@@ -173,23 +216,23 @@ public class InfolineModule extends KrollModule {
 		this.dbg = true;
 		IOLSession.setDebugModeEnabled(true);
 	}
-	
+
 	@Kroll.method
 	public void disableDebug() {
 		this.dbg = false;
 		IOLSession.setDebugModeEnabled(false);
 	}
-	
+
 	@Kroll.method
 	public String getVersion() {
 		return IOLSession.getVersion();
 	}
-	
+
 	@Kroll.method
 	public void setDeviceIdEnabled(Boolean enabled) {
 		IOLSession.setDeviceIDsEnabled(enabled);
 	}
-	
+
 	@Kroll.setProperty
 	public void setCostumerData(String data) {
 		IOLSession.setCustomerData(data);

@@ -29,8 +29,12 @@ private:
 	static v8::Persistent<v8::FunctionTemplate> proxyTemplate;
 
 	// Methods -----------------------------------------------------------
+	static void getVersion(const v8::FunctionCallbackInfo<v8::Value>&);
 	static void optOut(const v8::FunctionCallbackInfo<v8::Value>&);
 	static void sendLoggedEvents(const v8::FunctionCallbackInfo<v8::Value>&);
+	static void enableDebug(const v8::FunctionCallbackInfo<v8::Value>&);
+	static void disableDebug(const v8::FunctionCallbackInfo<v8::Value>&);
+	static void setDeviceIdEnabled(const v8::FunctionCallbackInfo<v8::Value>&);
 	static void optIn(const v8::FunctionCallbackInfo<v8::Value>&);
 	static void stopSession(const v8::FunctionCallbackInfo<v8::Value>&);
 	static void startSession(const v8::FunctionCallbackInfo<v8::Value>&);
