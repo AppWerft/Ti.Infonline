@@ -2,7 +2,7 @@
 ![](http://www.ivw.eu/profiles/ivw_website/themes/ivw_theme/logo.png)
 ## Description
 
-Axway Titanium Module for INFOnline. Infoline is the solution for [IVW-tracking](http://www.ivw.eu/digital/digital). 
+Axway Titanium Module for INFOnline. Infoline is the solution for [IVW-tracking](http://www.ivw.eu/digital/digital). The developmenbt was sponsored by [4D Media GmbH](https://4dmedia.de/) in Düsseldorf.
 
 ## About IVW
 
