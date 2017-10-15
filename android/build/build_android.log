@@ -1,5 +1,5 @@
 
-2017-10-15 16:14:49
+2017-10-15 16:40:17
 
 Operating System
   Name                        = Mac OS X
@@ -37,7 +37,6 @@ Command
 [INFO]   Processing Android module resources and assets
 [INFO]   Merging resources
 [TRACE]  Processing module resources: /Library/Application Support/Titanium/mobilesdk/osx/6.2.2.GA/android/modules/titanium-appcompat.res.zip
-[INFO]   Extracting module resources: /Library/Application Support/Titanium/mobilesdk/osx/6.2.2.GA/android/modules/titanium-appcompat.res.zip
 [DEBUG]  Copying /Users/fuerst/Documents/MLearning/Ti.IVW/android/build/intermediates/res/timodules/titanium-appcompat/res/anim/abc_fade_in.xml => /Users/fuerst/Documents/MLearning/Ti.IVW/android/build/intermediates/res/merged/anim/abc_fade_in.xml
 [DEBUG]  Copying /Users/fuerst/Documents/MLearning/Ti.IVW/android/build/intermediates/res/timodules/titanium-appcompat/res/anim/abc_fade_in.xml => /Users/fuerst/Documents/MLearning/Ti.IVW/android/build/intermediates/res/merged/anim/abc_fade_in.xml
 [DEBUG]  Copying /Users/fuerst/Documents/MLearning/Ti.IVW/android/build/intermediates/res/timodules/titanium-appcompat/res/anim/abc_fade_out.xml => /Users/fuerst/Documents/MLearning/Ti.IVW/android/build/intermediates/res/merged/anim/abc_fade_out.xml
@@ -623,11 +622,9 @@ Command
 [DEBUG]  Copying /Users/fuerst/Documents/MLearning/Ti.IVW/android/build/intermediates/res/timodules/titanium-appcompat/res/values-zh-rTW/values-zh-rTW.xml => /Users/fuerst/Documents/MLearning/Ti.IVW/android/build/intermediates/res/merged/values-zh-rTW/values-zh-rTW.xml
 [DEBUG]  Copying /Users/fuerst/Documents/MLearning/Ti.IVW/android/build/intermediates/res/timodules/titanium-appcompat/res/values-zu/values-zu.xml => /Users/fuerst/Documents/MLearning/Ti.IVW/android/build/intermediates/res/merged/values-zu/values-zu.xml
 [TRACE]  Processing module resources: /Library/Application Support/Titanium/mobilesdk/osx/6.2.2.GA/android/modules/titanium-cardview.res.zip
-[INFO]   Extracting module resources: /Library/Application Support/Titanium/mobilesdk/osx/6.2.2.GA/android/modules/titanium-cardview.res.zip
 [DEBUG]  Merging /Users/fuerst/Documents/MLearning/Ti.IVW/android/build/intermediates/res/timodules/titanium-cardview/res/values/values.xml => /Users/fuerst/Documents/MLearning/Ti.IVW/android/build/intermediates/res/merged/values/values.xml
 [DEBUG]  Merging /Users/fuerst/Documents/MLearning/Ti.IVW/android/build/intermediates/res/timodules/titanium-cardview/res/values-v23/values-v23.xml => /Users/fuerst/Documents/MLearning/Ti.IVW/android/build/intermediates/res/merged/values-v23/values-v23.xml
 [TRACE]  Processing module resources: /Library/Application Support/Titanium/mobilesdk/osx/6.2.2.GA/android/modules/titanium-compat.res.zip
-[INFO]   Extracting module resources: /Library/Application Support/Titanium/mobilesdk/osx/6.2.2.GA/android/modules/titanium-compat.res.zip
 [DEBUG]  Copying /Users/fuerst/Documents/MLearning/Ti.IVW/android/build/intermediates/res/timodules/titanium-compat/res/drawable/notification_bg.xml => /Users/fuerst/Documents/MLearning/Ti.IVW/android/build/intermediates/res/merged/drawable/notification_bg.xml
 [DEBUG]  Copying /Users/fuerst/Documents/MLearning/Ti.IVW/android/build/intermediates/res/timodules/titanium-compat/res/drawable/notification_bg.xml => /Users/fuerst/Documents/MLearning/Ti.IVW/android/build/intermediates/res/merged/drawable/notification_bg.xml
 [DEBUG]  Copying /Users/fuerst/Documents/MLearning/Ti.IVW/android/build/intermediates/res/timodules/titanium-compat/res/drawable/notification_bg_low.xml => /Users/fuerst/Documents/MLearning/Ti.IVW/android/build/intermediates/res/merged/drawable/notification_bg_low.xml
@@ -845,7 +842,6 @@ Command
 [DEBUG]  Merging /Users/fuerst/Documents/MLearning/Ti.IVW/android/build/intermediates/res/timodules/titanium-compat/res/values-zu/values-zu.xml => /Users/fuerst/Documents/MLearning/Ti.IVW/android/build/intermediates/res/merged/values-zu/values-zu.xml
 [WARN]   Overwriting XML node status_bar_notification_info_overflow in file /Users/fuerst/Documents/MLearning/Ti.IVW/android/build/intermediates/res/merged/values-zu/values-zu.xml
 [TRACE]  Processing module resources: /Library/Application Support/Titanium/mobilesdk/osx/6.2.2.GA/android/modules/titanium-design.res.zip
-[INFO]   Extracting module resources: /Library/Application Support/Titanium/mobilesdk/osx/6.2.2.GA/android/modules/titanium-design.res.zip
 [DEBUG]  Copying /Users/fuerst/Documents/MLearning/Ti.IVW/android/build/intermediates/res/timodules/titanium-design/res/anim/design_bottom_sheet_slide_in.xml => /Users/fuerst/Documents/MLearning/Ti.IVW/android/build/intermediates/res/merged/anim/design_bottom_sheet_slide_in.xml
 [DEBUG]  Copying /Users/fuerst/Documents/MLearning/Ti.IVW/android/build/intermediates/res/timodules/titanium-design/res/anim/design_bottom_sheet_slide_in.xml => /Users/fuerst/Documents/MLearning/Ti.IVW/android/build/intermediates/res/merged/anim/design_bottom_sheet_slide_in.xml
 [DEBUG]  Copying /Users/fuerst/Documents/MLearning/Ti.IVW/android/build/intermediates/res/timodules/titanium-design/res/anim/design_bottom_sheet_slide_out.xml => /Users/fuerst/Documents/MLearning/Ti.IVW/android/build/intermediates/res/merged/anim/design_bottom_sheet_slide_out.xml
@@ -934,7 +930,6 @@ Command
 [DEBUG]  Merging /Users/fuerst/Documents/MLearning/Ti.IVW/android/build/intermediates/res/timodules/titanium-design/res/values-v21/values-v21.xml => /Users/fuerst/Documents/MLearning/Ti.IVW/android/build/intermediates/res/merged/values-v21/values-v21.xml
 [DEBUG]  Merging /Users/fuerst/Documents/MLearning/Ti.IVW/android/build/intermediates/res/timodules/titanium-design/res/values-v26/values-v26.xml => /Users/fuerst/Documents/MLearning/Ti.IVW/android/build/intermediates/res/merged/values-v26/values-v26.xml
 [TRACE]  Processing module resources: /Library/Application Support/Titanium/mobilesdk/osx/6.2.2.GA/android/modules/titanium-ui.res.zip
-[INFO]   Extracting module resources: /Library/Application Support/Titanium/mobilesdk/osx/6.2.2.GA/android/modules/titanium-ui.res.zip
 [DEBUG]  Copying /Users/fuerst/Documents/MLearning/Ti.IVW/android/build/intermediates/res/timodules/titanium-ui/res/drawable/btn_check_buttonless_on_144.png => /Users/fuerst/Documents/MLearning/Ti.IVW/android/build/intermediates/res/merged/drawable/btn_check_buttonless_on_144.png
 [DEBUG]  Copying /Users/fuerst/Documents/MLearning/Ti.IVW/android/build/intermediates/res/timodules/titanium-ui/res/drawable/btn_check_buttonless_on_192.png => /Users/fuerst/Documents/MLearning/Ti.IVW/android/build/intermediates/res/merged/drawable/btn_check_buttonless_on_192.png
 [DEBUG]  Copying /Users/fuerst/Documents/MLearning/Ti.IVW/android/build/intermediates/res/timodules/titanium-ui/res/drawable/btn_check_buttonless_on_36.png => /Users/fuerst/Documents/MLearning/Ti.IVW/android/build/intermediates/res/merged/drawable/btn_check_buttonless_on_36.png
@@ -989,7 +984,7 @@ Generating runtime bindings
 [INFO]   Producing [ModuleName]Bootstrap files using /Users/fuerst/Documents/MLearning/Ti.IVW/android/build/generated/json/org/appcelerator/titanium/bindings/infoline.json
 Generating BootstrapJS.cpp from bootstrap.js
 [INFO]   Verifying build architectures
-[INFO]   No native compiled libraries found, assume architectures are sane
+[INFO]   Build architectures are sane
 [INFO]   Running the Android NDK ndk-build
 [DEBUG]  Running: /Users/fuerst/Library/Android/ndk/ndk-build TI_MOBILE_SDK=/Library/Application Support/Titanium/mobilesdk/osx/6.2.2.GA NDK_PROJECT_PATH=/Users/fuerst/Documents/MLearning/Ti.IVW/android/build/generated NDK_APPLICATION_MK=/Users/fuerst/Documents/MLearning/Ti.IVW/android/build/generated/Application.mk PYTHON=python V=0
 Compiling all java source files generated
@@ -997,4 +992,4 @@ Compiling all java source files generated
 [INFO]   Packaging the module
 [INFO]   Creating module zip
 [INFO]   Writing module zip: /Users/fuerst/Documents/MLearning/Ti.IVW/android/dist/ti.infoline-android-0.0.1.zip
-[INFO]   Project built successfully in 11s 418ms
+[INFO]   Project built successfully in 9s 682ms

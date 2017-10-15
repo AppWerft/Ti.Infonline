@@ -13,6 +13,8 @@ import org.appcelerator.kroll.annotations.Kroll;
 import org.appcelerator.kroll.common.Log;
 import org.appcelerator.titanium.TiApplication;
 
+import android.app.Activity;
+import android.content.Context;
 import de.infonline.lib.IOLEventType;
 import de.infonline.lib.IOLSession;
 
@@ -24,6 +26,7 @@ public class InfolineModule extends KrollModule {
 	private String offerIdentifier;
 	private Boolean isSessionopened = false;
 	private Boolean isOptIn = false;
+	private Boolean dbg = false;
 
 	// You can define constants with @Kroll.constant, for example:
 	@Kroll.constant
@@ -80,7 +83,6 @@ public class InfolineModule extends KrollModule {
 		// created
 	}
 
-
 	@Kroll.method
 	public void optIn() {
 		isOptIn = true;
@@ -89,15 +91,13 @@ public class InfolineModule extends KrollModule {
 	@Kroll.method
 	public void optOut() {
 		isOptIn = false;
+		IOLSession.terminateSession();
 	}
-	
-
 
 	@Kroll.method
 	public void sendLoggedEvents() {
 		IOLSession.sendLoggedEvents();
 	}
-	
 
 	@Kroll.method
 	public void logEvent(Object _event, Object _state, Object _code,
@@ -136,7 +136,7 @@ public class InfolineModule extends KrollModule {
 		if (!isSessionopened)
 			IOLSession.startSession();
 		IOLSession.logEvent(type, code, comment);
-		
+
 	}
 
 	// Methods
@@ -157,12 +157,39 @@ public class InfolineModule extends KrollModule {
 
 	@Kroll.setProperty
 	public void setOfferIdentifier(String value) {
-
 		offerIdentifier = value;
+		Context ctx = TiApplication.getInstance().getApplicationContext();
+		IOLSession.initIOLSession(ctx, offerIdentifier, dbg);
 	}
-	
+
+	@Kroll.setProperty
+	public void setDbg(Boolean dbg) {
+		this.dbg = dbg;
+		IOLSession.setDebugModeEnabled(dbg);
+	}
+
+	@Kroll.method
+	public void enableDebug() {
+		this.dbg = true;
+		IOLSession.setDebugModeEnabled(true);
+	}
+	@Kroll.method
+	public void disableDebug() {
+		this.dbg = false;
+		IOLSession.setDebugModeEnabled(false);
+	}
 	@Kroll.setProperty
 	public void setCostumerData(String data) {
 		IOLSession.setCustomerData(data);
+	}
+
+	public void onStart(Activity activity) {
+		super.onStart(activity);
+		IOLSession.onActivityStart();
+	}
+
+	public void onStop(Activity activity) {
+		IOLSession.onActivityStop();
+		super.onStop(activity);
 	}
 }

@@ -146,6 +146,12 @@ Local<FunctionTemplate> InfolineModule::getProxyTemplate(Isolate* isolate)
 
 
 	// Dynamic properties -----------------------------------------------------
+	instanceTemplate->SetAccessor(NEW_SYMBOL(isolate, "dbg"),
+			titanium::Proxy::getProperty,
+			InfolineModule::setter_dbg,
+			Local<Value>(), DEFAULT,
+			static_cast<v8::PropertyAttribute>(v8::DontDelete)
+		);
 	instanceTemplate->SetAccessor(NEW_SYMBOL(isolate, "costumerData"),
 			titanium::Proxy::getProperty,
 			InfolineModule::setter_costumerData,
@@ -557,6 +563,72 @@ void InfolineModule::logEvent(const FunctionCallbackInfo<Value>& args)
 }
 
 // Dynamic property accessors -------------------------------------------------
+
+
+void InfolineModule::setter_dbg(Local<Name> property, Local<Value> value, const PropertyCallbackInfo<void>& args)
+{
+	Isolate* isolate = args.GetIsolate();
+	HandleScope scope(isolate);
+
+	JNIEnv *env = titanium::JNIScope::getEnv();
+	if (!env) {
+		LOGE(TAG, "Failed to get environment, dbg wasn't set");
+		return;
+	}
+
+	static jmethodID methodID = NULL;
+	if (!methodID) {
+		methodID = env->GetMethodID(InfolineModule::javaClass, "setDbg", "(Ljava/lang/Boolean;)V");
+		if (!methodID) {
+			const char *error = "Couldn't find proxy method 'setDbg' with signature '(Ljava/lang/Boolean;)V'";
+			LOGE(TAG, error);
+		}
+	}
+
+	titanium::Proxy* proxy = titanium::Proxy::unwrap(args.Holder());
+	if (!proxy) {
+		return;
+	}
+
+	jvalue jArguments[1];
+
+	bool isNew_0;
+
+	if (!value->IsNull()) {
+		Local<Value> arg_0 = value;
+		jArguments[0].l =
+			titanium::TypeConverter::jsValueToJavaObject(
+				isolate,
+				env, arg_0, &isNew_0);
+	} else {
+		jArguments[0].l = NULL;
+	}
+
+	jobject javaProxy = proxy->getJavaObject();
+	env->CallVoidMethodA(javaProxy, methodID, jArguments);
+
+	if (!JavaObject::useGlobalRefs) {
+		env->DeleteLocalRef(javaProxy);
+	}
+
+
+
+			if (isNew_0) {
+				env->DeleteLocalRef(jArguments[0].l);
+			}
+
+
+	if (env->ExceptionCheck()) {
+		titanium::JSException::fromJavaException(isolate);
+		env->ExceptionClear();
+	}
+
+
+
+
+	Proxy::setProperty(property, value, args);
+}
+
 
 
 void InfolineModule::setter_costumerData(Local<Name> property, Local<Value> value, const PropertyCallbackInfo<void>& args)
