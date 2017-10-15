@@ -92,6 +92,14 @@ public class IvwModule extends KrollModule {
 	public void optOut() {
 		optIn = false;
 	}
+	
+
+
+	@Kroll.method
+	public void sendLoggedEvents() {
+		IOLSession.sendLoggedEvents();
+	}
+	
 
 	@Kroll.method
 	public void logEvent(Object _event, Object _state, Object _code,
@@ -130,7 +138,7 @@ public class IvwModule extends KrollModule {
 		if (!isSessionopened)
 			IOLSession.startSession();
 		IOLSession.logEvent(type, code, comment);
-		IOLSession.sendLoggedEvents();
+		
 	}
 
 	// Methods
