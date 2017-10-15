@@ -1,39 +1,77 @@
-# ivw Module
+# infonline Module
 
 ## Description
 
-TODO: Enter your module description here
+Module for INFOnline 
 
-## Accessing the ivw Module
+## Accessing the infonline Module
 
 To access this module from JavaScript, you would do the following:
 
-    var ivw = require("ti.ivw");
+    var infonline = require("ti.infonline");
 
-The ivw variable is a reference to the Module object.
+The infonline variable is a reference to the Module object.
 
 ## Reference
 
-TODO: If your module has an API, you should document
-the reference here.
+### Constants
+#### Event Types:
+Event categories with the following naming convention:
+- EVENT_VIEW,... (see module source or SDK for available values)
 
-### ivw.function
+#### Event States
+Event Type specific states with the following naming convention
+- STATE_VIEW_APPEARED
 
-TODO: This is an example of a module function.
+##Functions
+#### infonline.startSession()
+Start a session. You have to set the offer identifier before calling this function!
 
-### ivw.property
+#### infonline.stopSession()
+Stops a previously initiated session.
 
-TODO: This is an example of a module property.
+#### infonline.logEvent(EventType,EventState,Code,Comment)
+Log a single event. Events will be queued until configured threshold is reached.
+
+| Parameter  | Meaning |
+| ------------- | ------------- |
+| EventType  | see EventType constants for supported values  |
+| EventState  | a state matching the EventType. See EvenState constants for supported values  |
+| Code  | code as assigned in/by INFOnline portal. Unassigned codes will lead to errors/warnings in the backend |
+| Comment  | a comment you (maybe) can define  |
+ 
+
+#### infonline.sendLoggedEvents()
+Forced send of all queued events
+
+#### infonline.optOut()
+The user must have the option to opt out. If you don't want to handle the value in your own code,
+just call the optOut() function and the logEvent / startSession functions will respect that
+
+#### infonline.optIn()
+Re enable event logging after having called optOut()
+
+###Properties
+#### infonline.offerIdentifier
+The INFOnline provided offer identifier. 
+NOTE: You have to set it, before calling startSession()!
+
+#### infonline.customerData
+Customer data according INFOnline SDK documentation
+
 
 ## Usage
 
-TODO: Enter your usage example here
+	var iol = require("ti.infonline");
+	iol.setOfferIdentifier("appXXX");
+	iol.startSession();
+	iol.logEvent(iol.EVENT_VIEW,iol.STATE_VIEW_APPEARED,"My code","My comment");
+
 
 ## Author
 
-TODO: Enter your author name, email and other contact
-details you want to share here.
+(C) 2017 by Stefan Gross (st.gross@gmx.net)
 
 ## License
 
-TODO: Enter your license/legal information here.
+MIT License

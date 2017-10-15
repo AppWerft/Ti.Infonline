@@ -13,16 +13,16 @@ win.add(label);
 win.open();
 
 // TODO: write your module tests here
-var ivw = require('ti.ivw');
-Ti.API.info("module is => " + ivw);
+var infonline = require('ti.infonline');
+Ti.API.info("module is => " + infonline);
 
-label.text = ivw.example();
+label.text = infonline.example();
 
-Ti.API.info("module exampleProp is => " + ivw.exampleProp);
-ivw.exampleProp = "This is a test value";
+Ti.API.info("module exampleProp is => " + infonline.exampleProp);
+infonline.exampleProp = "This is a test value";
 
 if (Ti.Platform.name == "android") {
-	var proxy = ivw.createExample({
+	var proxy = infonline.createExample({
 		message: "Creating an example Proxy",
 		backgroundColor: "red",
 		width: 100,
