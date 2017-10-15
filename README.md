@@ -150,8 +150,13 @@ just call the optOut() function and the logEvent / startSession functions will r
 #### infonline.optIn()
 Re enable event logging after having called optOut()
 
+### Android only functions:
 #### infonline.enableDebug()
 #### infonline.disableDebug()
+#### infonline.getVersion()
+#### setDeviceIdEnabled()  
+Needs runtime permission "PHONE_STATE"
+
 
 
 ### Properties

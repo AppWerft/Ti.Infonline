@@ -173,11 +173,23 @@ public class InfolineModule extends KrollModule {
 		this.dbg = true;
 		IOLSession.setDebugModeEnabled(true);
 	}
+	
 	@Kroll.method
 	public void disableDebug() {
 		this.dbg = false;
 		IOLSession.setDebugModeEnabled(false);
 	}
+	
+	@Kroll.method
+	public String getVersion() {
+		return IOLSession.getVersion();
+	}
+	
+	@Kroll.method
+	public void setDeviceIdEnabled(Boolean enabled) {
+		IOLSession.setDeviceIDsEnabled(enabled);
+	}
+	
 	@Kroll.setProperty
 	public void setCostumerData(String data) {
 		IOLSession.setCustomerData(data);
