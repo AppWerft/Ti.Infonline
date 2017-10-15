@@ -2,7 +2,7 @@
 
 ## Description
 
-Module for INFOnline 
+Module for INFOnline
 
 ## Accessing the infonline Module
 
@@ -70,7 +70,9 @@ Customer data according INFOnline SDK documentation
 
 ## Author
 
-(C) 2017 by Stefan Gross (st.gross@gmx.net)
+(C) 2017 by Stefan Gross (st.gross@gmx.net) (iOS)
+(C) 2017 by Rainer Schleevoigt (rs@hamburger-appwerft.de) (Android)
+
 
 ## License
 
