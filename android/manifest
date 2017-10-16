@@ -2,7 +2,7 @@
 # this is your module manifest and used by Titanium
 # during compilation, packaging, distribution, etc.
 #
-version: 0.0.1
+version: 0.0.2
 apiversion: 3
 architectures: armeabi-v7a x86
 description: Infoline
@@ -15,4 +15,4 @@ name: infoline
 moduleid: ti.infoline
 guid: 0b6c46a7-780f-4a36-859b-7783d43c96e9
 platform: android
-minsdk: 6.0.0.GA
+minsdk: 6.0.0.
