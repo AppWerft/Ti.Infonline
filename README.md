@@ -21,7 +21,7 @@ Behind the system of circulation certification, digital measurement applications
 
 To access this module from JavaScript, you would do the following:
 
-    var Infonline = require("ti.infonline");
+    var iol = require("ti.infonline");
 
 The infonline variable is a reference to the Module object.
 
@@ -32,104 +32,105 @@ The infonline variable is a reference to the Module object.
 Event categories with the following naming convention:
 
 ```
-Infoline.EVENT_VIEW
-Infoline.EVENT_IAP
-Infoline.EVENT_DATA
-Infoline.EVENT_GAME
-Infoline.EVENT_AUDIO
-Infoline.EVENT_VIDEO
-Infoline.EVENT_AD
-Infoline.EVENT_PUSH
-Infoline.EVENT_LOGIN
-Infoline.EVENT_DEVICE_ORIENTATION
-Infoline.EVENT_DOWNLOAD
-Infoline.EVENT_UPLOAD
-Infoline.EVENT_DOCUMENT
-Infoline.EVENT_HARDWARE_BUTTON
-Infoline.EVENT_GESTURE
+let iol = require('ti.infoline');
+iol.EVENT_VIEW
+iol.EVENT_IAP
+iol.Event_DATA
+iol.Event_GAME
+iol.Event_AUDIO
+iol.Event_VIDEO
+iol.Event_AD
+iol.Event_PUSH
+iol.Event_LOGIN
+iol.Event_DEVICE_ORIENTATION
+iol.Event_DOWNLOAD
+iol.Event_UPLOAD
+iol.Event_DOCUMENT
+iol.Event_HARDWARE_BUTTON
+iol.Event_GESTURE
 ```
 #### Event States
 Event Type specific states with the following naming convention
 
 ```
-Infoline.STATE_VIEW_APPEARED
-Infoline.STATE_VIEW_REFRESHED
-Infoline.STATE_VIEW_DISAPPEARED
+iol.STATE_VIEW_APPEARED
+iol.STATE_VIEW_REFRESHED
+iol.STATE_VIEW_DISAPPEARED
 
-Infoline.STATE_DATA_CANCELLED
-Infoline.STATE_DATA_REFRESH
-Infoline.STATE_DATA_SUCCEEDED
-Infoline.STATE_DATA_FAILED
+iol.STATE_DATA_CANCELLED
+iol.STATE_DATA_REFRESH
+iol.STATE_DATA_SUCCEEDED
+iol.STATE_DATA_FAILED
 
-Infoline.STATE_DOCUMENT_OPEN
-Infoline.STATE_DOCUMENT_CLOSE
-Infoline.STATE_DOCUMENT_EDIT
+iol.STATE_DOCUMENT_OPEN
+iol.STATE_DOCUMENT_CLOSE
+iol.STATE_DOCUMENT_EDIT
 
-Infoline.STATE_DOWNLOAD_CANCELLED
-Infoline.STATE_DOWNLOAD_START
-Infoline.STATE_DOWNLOAD_SUCCEEDED
-Infoline.STATE_DOWNLOAD_FAILED
+iol.STATE_DOWNLOAD_CANCELLED
+iol.STATE_DOWNLOAD_START
+iol.STATE_DOWNLOAD_SUCCEEDED
+iol.STATE_DOWNLOAD_FAILED
 
-Infoline.STATE_GAME_ACTION
-Infoline.STATE_GAME_STARTED
-Infoline.STATE_GAME_FINISHED
-Infoline.STATE_GAME_WON
-Infoline.STATE_GAME_LOST
-Infoline.STATE_GAME_NEW_HIGHSCORE
-Infoline.STATE_GAME_NEW_ACHIEVEMENT
+iol.STATE_GAME_ACTION
+iol.STATE_GAME_STARTED
+iol.STATE_GAME_FINISHED
+iol.STATE_GAME_WON
+iol.STATE_GAME_LOST
+iol.STATE_GAME_NEW_HIGHSCORE
+iol.STATE_GAME_NEW_ACHIEVEMENT
 
-Infoline.STATE_GESTURE_SHAKE
+iol.STATE_GESTURE_SHAKE
 
-Infoline.STATE_HARDWARE_BUTTON_PUSHED
+iol.STATE_HARDWARE_BUTTON_PUSHED
 
-Infoline.STATE_IAP_STARTED
-Infoline.STATE_IAP_FINISHED
-Infoline.STATE_IAP_CANCELLED
+iol.STATE_IAP_STARTED
+iol.STATE_IAP_FINISHED
+iol.STATE_IAP_CANCELLED
 
-Infoline.STATE_LOGIN_SUCCEEDED
-Infoline.STATE_LOGIN_FAILED
-Infoline.STATE_LOGIN_LOGOUT
+iol.STATE_LOGIN_SUCCEEDED
+iol.STATE_LOGIN_FAILED
+iol.STATE_LOGIN_LOGOUT
 
-Infoline.STATE_AUDIO_PLAY
-Infoline.STATE_AUDIO_PAUSE
-Infoline.STATE_AUDIO_STOP
-Infoline.STATE_AUDIO_NEXT
-Infoline.STATE_AUDIO_PREVIOUS
-Infoline.STATE_AUDIO_REPLAY
-Infoline.STATE_AUDIO_SEEK_BACK
-Infoline.STATE_AUDIO_SEEK_FORWARD
+iol.STATE_AUDIO_PLAY
+iol.STATE_AUDIO_PAUSE
+iol.STATE_AUDIO_STOP
+iol.STATE_AUDIO_NEXT
+iol.STATE_AUDIO_PREVIOUS
+iol.STATE_AUDIO_REPLAY
+iol.STATE_AUDIO_SEEK_BACK
+iol.STATE_AUDIO_SEEK_FORWARD
 
-Infoline.STATE_VIDEO_PLAY
-Infoline.STATE_VIDEO_PAUSE
-Infoline.STATE_VIDEO_STOP
-Infoline.STATE_VIDEO_NEXT
-Infoline.STATE_VIDEO_PREVIOUS
-Infoline.STATE_VIDEO_REPLAY
-Infoline.STATE_VIDEO_SEEK_BACK
-Infoline.STATE_VIDEO_SEEK_FORWARD
+iol.STATE_VIDEO_PLAY
+iol.STATE_VIDEO_PAUSE
+iol.STATE_VIDEO_STOP
+iol.STATE_VIDEO_NEXT
+iol.STATE_VIDEO_PREVIOUS
+iol.STATE_VIDEO_REPLAY
+iol.STATE_VIDEO_SEEK_BACK
+iol.STATE_VIDEO_SEEK_FORWARD
 
-Infoline.STATE_PUSH_RECEIVED
+iol.STATE_PUSH_RECEIVED
 
-Infoline.STATE_UPLOAD_START
-Infoline.STATE_UPLOAD_FAILED
-Infoline.STATE_UPLOAD_CANCELLED
-Infoline.STATE_UPLOAD_SUCCEEDED
+iol.STATE_UPLOAD_START
+iol.STATE_UPLOAD_FAILED
+iol.STATE_UPLOAD_CANCELLED
+iol.STATE_UPLOAD_SUCCEEDED
 
 
-Infoline.STATE_AD_OPEN
-Infoline.STATE_AD_CLOSE
+iol.STATE_AD_OPEN
+iol.STATE_AD_CLOSE
 
-Infoline.STATE_ORIENTATION_CHANGED
+iol.STATE_ORIENTATION_CHANGED
 ```
 
 ## Functions
-#### infonline.startSession()
+#### iol.startSession()
 Start a session. You have to set the offer identifier before calling this function!
 
-#### infonline.stopSession()
+#### iol.stopSession()
 Stops a previously initiated session.
 
-#### infonline.logEvent(EventType,EventState,Code,Comment)
+#### iol.logEvent(EventType,EventState,Code,Comment)
 Log a single event. Events will be queued until configured threshold is reached.
 
 | Parameter  | Meaning |
@@ -151,10 +152,10 @@ just call the optOut() function and the logEvent / startSession functions will r
 Re enable event logging after having called optOut()
 
 ### Android only functions:
-#### infonline.enableDebug()
-#### infonline.disableDebug()
-#### infonline.getVersion()
-#### setDeviceIdEnabled()  
+#### iol.enableDebug()
+#### iol.disableDebug()
+#### iol.getVersion()
+#### iol.setDeviceIdEnabled()  
 Needs runtime permission "PHONE_STATE"
 
 
