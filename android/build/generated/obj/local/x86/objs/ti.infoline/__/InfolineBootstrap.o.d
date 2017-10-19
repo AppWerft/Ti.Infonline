@@ -1,4 +1,4 @@
-/Users/fuerst/Documents/MLearning/Ti.IVW/android/build/generated/obj/local/x86/objs/ti.infoline/__/InfolineBootstrap.o: \
+/Users/fuerst/Documents/MLearning/Ti.Infoline/android/build/generated/obj/local/x86/objs/ti.infoline/__/InfolineBootstrap.o: \
  jni/../InfolineBootstrap.cpp \
  /Library/Application\ Support/Titanium/mobilesdk/osx/6.2.2.GA/android/native/include/v8.h \
  /Users/fuerst/Library/Android/ndk/sources/cxx-stl/llvm-libc++/../../android/support/include/stdint.h \

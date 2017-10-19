@@ -17,13 +17,14 @@ import android.app.Activity;
 import android.content.Context;
 import de.infonline.lib.IOLEventType;
 import de.infonline.lib.IOLSession;
+import org.appcelerator.titanium.TiProperties;
 
 @Kroll.module(name = "Infoline", id = "ti.infoline")
 public class InfolineModule extends KrollModule {
 
 	// Standard Debugging variables
 	private static final String LCAT = "IVWMod";
-	private String offerIdentifier;
+	private String offerIdentifier =  TiApplication.getInstance().getAppProperties().getString("IVW_OFFERID","offerIdentifier");
 	private Boolean isSessionopened = false;
 	private Boolean isOptIn = false;
 	private Boolean dbg = false;
@@ -72,7 +73,7 @@ public class InfolineModule extends KrollModule {
 	public static final String STATE_DATA_SUCCEEDED = "succeeded";
 	@Kroll.constant
 	public static final String STATE_DATA_FAILED = "failed";
-	
+
 	@Kroll.constant
 	public static final String EVENT_DOCUMENT = "document";
 	@Kroll.constant
@@ -81,8 +82,7 @@ public class InfolineModule extends KrollModule {
 	public static final String STATE_DOCUMENT_EDIT = "edit";
 	@Kroll.constant
 	public static final String STATE_DOCUMENT_CLOSE = "close";
-	
-	
+
 	@Kroll.constant
 	public static final String EVENT_DOWNLOAD = "download";
 	@Kroll.constant
@@ -93,9 +93,7 @@ public class InfolineModule extends KrollModule {
 	public static final String STATE_DOWNLOAD_FAILED = "failed";
 	@Kroll.constant
 	public static final String STATE_DOWNLOAD_SUCCEDED = "succeeded";
-	
-	
-	
+
 	@Kroll.constant
 	public static final String EVENT_GAME = "game";
 	@Kroll.constant
@@ -113,8 +111,6 @@ public class InfolineModule extends KrollModule {
 	@Kroll.constant
 	public static final String STATE_GAME_NewAchievement = "newachievement";
 
-	
-	
 	public InfolineModule() {
 		super();
 	}
@@ -197,14 +193,15 @@ public class InfolineModule extends KrollModule {
 
 	}
 
-	@Kroll.setProperty
-	public void setOfferIdentifier(String value) {
-		offerIdentifier = value;
+	
+	@Kroll.method
+	public void setOfferIdentifier(String id) {
+		this.offerIdentifier = id;
 		Context ctx = TiApplication.getInstance().getApplicationContext();
-		IOLSession.initIOLSession(ctx, offerIdentifier, dbg);
+		IOLSession.initIOLSession(ctx, this.offerIdentifier, dbg);
 	}
 
-	@Kroll.setProperty
+	@Kroll.method
 	public void setDbg(Boolean dbg) {
 		this.dbg = dbg;
 		IOLSession.setDebugModeEnabled(dbg);
@@ -239,11 +236,15 @@ public class InfolineModule extends KrollModule {
 
 	public void onStart(Activity activity) {
 		super.onStart(activity);
-		IOLSession.onActivityStart();
+		
+		if (offerIdentifier != null)
+			IOLSession.onActivityStart();
 	}
 
 	public void onStop(Activity activity) {
-		IOLSession.onActivityStop();
+		if (offerIdentifier != null)
+			IOLSession.onActivityStop();
 		super.onStop(activity);
 	}
+
 }

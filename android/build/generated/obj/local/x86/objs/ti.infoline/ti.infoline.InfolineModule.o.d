@@ -1,4 +1,4 @@
-/Users/fuerst/Documents/MLearning/Ti.IVW/android/build/generated/obj/local/x86/objs/ti.infoline/ti.infoline.InfolineModule.o: \
+/Users/fuerst/Documents/MLearning/Ti.Infoline/android/build/generated/obj/local/x86/objs/ti.infoline/ti.infoline.InfolineModule.o: \
  jni/ti.infoline.InfolineModule.cpp jni/ti.infoline.InfolineModule.h \
  /Library/Application\ Support/Titanium/mobilesdk/osx/6.2.2.GA/android/native/include/Proxy.h \
  /Library/Application\ Support/Titanium/mobilesdk/osx/6.2.2.GA/android/native/include/v8.h \

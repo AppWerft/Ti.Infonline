@@ -1,8 +1,8 @@
 /* C++ code produced by gperf version 3.0.3 */
-/* Command-line: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/gperf -L C++ -E -t /Users/fuerst/Documents/MLearning/Ti.IVW/android/build/generated/KrollGeneratedBindings.gperf  */
+/* Command-line: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/gperf -L C++ -E -t /Users/fuerst/Documents/MLearning/Ti.Infoline/android/build/generated/KrollGeneratedBindings.gperf  */
 /* Computed positions: -k'' */
 
-#line 3 "/Users/fuerst/Documents/MLearning/Ti.IVW/android/build/generated/KrollGeneratedBindings.gperf"
+#line 3 "/Users/fuerst/Documents/MLearning/Ti.Infoline/android/build/generated/KrollGeneratedBindings.gperf"
 
 
 #include <string.h>
@@ -14,7 +14,7 @@
 
 namespace titanium {
 namespace bindings {
-#line 15 "/Users/fuerst/Documents/MLearning/Ti.IVW/android/build/generated/KrollGeneratedBindings.gperf"
+#line 15 "/Users/fuerst/Documents/MLearning/Ti.Infoline/android/build/generated/KrollGeneratedBindings.gperf"
 struct BindEntry;
 /* maximum key range = 1, duplicates = 0 */
 
@@ -50,7 +50,7 @@ InfolineBindings::lookupGeneratedInit (register const char *str, register unsign
       {""}, {""}, {""}, {""}, {""}, {""}, {""}, {""}, {""},
       {""}, {""}, {""}, {""}, {""}, {""}, {""}, {""}, {""},
       {""}, {""}, {""}, {""}, {""}, {""}, {""}, {""},
-#line 17 "/Users/fuerst/Documents/MLearning/Ti.IVW/android/build/generated/KrollGeneratedBindings.gperf"
+#line 17 "/Users/fuerst/Documents/MLearning/Ti.Infoline/android/build/generated/KrollGeneratedBindings.gperf"
       {"ti.infoline.InfolineModule",::ti::infoline::InfolineModule::bindProxy,::ti::infoline::InfolineModule::dispose}
     };
 
@@ -68,7 +68,7 @@ InfolineBindings::lookupGeneratedInit (register const char *str, register unsign
     }
   return 0;
 }
-#line 18 "/Users/fuerst/Documents/MLearning/Ti.IVW/android/build/generated/KrollGeneratedBindings.gperf"
+#line 18 "/Users/fuerst/Documents/MLearning/Ti.Infoline/android/build/generated/KrollGeneratedBindings.gperf"
 
 }
 }
