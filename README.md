@@ -199,15 +199,15 @@ In some cases you find a reference like:
 ```xml
 <application>
      <meta-data
- 	  	android:name="com.google.android.gms.version"
- 	    android:value="@integer/google_play_services_version"/>
+     	android:name="com.google.android.gms.version"
+     	android:value="@integer/google_play_services_version"/>
 </application>
 ```
 In this case you fimnd the version inside this file `android/platform/android/res/values/version.xml`
 
 this entry:
 
-````xml
+```xml
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <integer name="google_play_services_version">10298000</integer>
