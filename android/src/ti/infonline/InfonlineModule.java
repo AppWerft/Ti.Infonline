@@ -116,9 +116,15 @@ public class InfonlineModule extends KrollModule {
 
 	@Kroll.onAppCreate
 	public static void onAppCreate(TiApplication app) {
-		String offerIdentifier = TiApplication.getInstance().getAppProperties().getString("IVW_OFFER_ID_ANDROID","offerIdentifier");
-		Context ctx = app.getInstance().getApplicationContext();
-		IOLSession.initIOLSession(ctx, offerIdentifier, false);
+		String KEY = "IVW_OFFER_ID_ANDROID";
+		TiProperties props = TiApplication.getInstance().getAppProperties();
+		if (props.hasProperty(KEY)) {
+			String offerIdentifier = props.getString(KEY, "");
+			Context ctx = app.getInstance().getApplicationContext();
+			IOLSession.initIOLSession(ctx, offerIdentifier, false);
+		} else
+			Log.e(LCAT,
+					"You need to add a property with name 'IVW_OFFER_ID_ANDROID'");
 	}
 
 	@Kroll.method
@@ -166,7 +172,7 @@ public class InfonlineModule extends KrollModule {
 			event = (String) _event;
 		} else
 			Log.e(LCAT, "wrong type for event");
-	
+
 		// Converting String event into internal type:
 		IOLEventType type = Utils.getEventTypeFromString(event + "." + state);
 		if (!isSessionopened)
@@ -191,9 +197,6 @@ public class InfonlineModule extends KrollModule {
 
 	}
 
-	
-	
-
 	@Kroll.method
 	public void setDbg(Boolean dbg) {
 		this.dbg = dbg;
@@ -214,6 +217,7 @@ public class InfonlineModule extends KrollModule {
 
 	@Kroll.method
 	public String getVersion() {
+		Log.d(LCAT, "Version of Ti.InfOnline: " + IOLSession.getVersion());
 		return IOLSession.getVersion();
 	}
 
