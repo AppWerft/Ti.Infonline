@@ -24,7 +24,6 @@ public class InfolineModule extends KrollModule {
 
 	// Standard Debugging variables
 	private static final String LCAT = "IVWMod";
-	private String offerIdentifier =  TiApplication.getInstance().getAppProperties().getString("IVW_OFFERID","offerIdentifier");
 	private Boolean isSessionopened = false;
 	private Boolean isOptIn = false;
 	private Boolean dbg = false;
@@ -117,8 +116,9 @@ public class InfolineModule extends KrollModule {
 
 	@Kroll.onAppCreate
 	public static void onAppCreate(TiApplication app) {
-		Log.d(LCAT, "inside onAppCreate");
-		
+		String offerIdentifier = TiApplication.getInstance().getAppProperties().getString("IVW_OFFER_ID","offerIdentifier");
+		Context ctx = app.getInstance().getApplicationContext();
+		IOLSession.initIOLSession(ctx, offerIdentifier, false);
 	}
 
 	@Kroll.method
@@ -166,9 +166,7 @@ public class InfolineModule extends KrollModule {
 			event = (String) _event;
 		} else
 			Log.e(LCAT, "wrong type for event");
-		if (offerIdentifier == null) {
-			Log.e(LCAT, "offerIdentifier not set");
-		}
+	
 		// Converting String event into internal type:
 		IOLEventType type = Utils.getEventTypeFromString(event + "." + state);
 		if (!isSessionopened)
@@ -194,12 +192,7 @@ public class InfolineModule extends KrollModule {
 	}
 
 	
-	@Kroll.method
-	public void setOfferIdentifier(String id) {
-		this.offerIdentifier = id;
-		Context ctx = TiApplication.getInstance().getApplicationContext();
-		IOLSession.initIOLSession(ctx, this.offerIdentifier, dbg);
-	}
+	
 
 	@Kroll.method
 	public void setDbg(Boolean dbg) {
@@ -236,14 +229,11 @@ public class InfolineModule extends KrollModule {
 
 	public void onStart(Activity activity) {
 		super.onStart(activity);
-		
-		if (offerIdentifier != null)
-			IOLSession.onActivityStart();
+		IOLSession.onActivityStart();
 	}
 
 	public void onStop(Activity activity) {
-		if (offerIdentifier != null)
-			IOLSession.onActivityStop();
+		IOLSession.onActivityStop();
 		super.onStop(activity);
 	}
 
