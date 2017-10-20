@@ -116,7 +116,7 @@ public class InfonlineModule extends KrollModule {
 
 	@Kroll.onAppCreate
 	public static void onAppCreate(TiApplication app) {
-		String offerIdentifier = TiApplication.getInstance().getAppProperties().getString("IVW_OFFER_ID","offerIdentifier");
+		String offerIdentifier = TiApplication.getInstance().getAppProperties().getString("IVW_OFFER_ID_ANDROID","offerIdentifier");
 		Context ctx = app.getInstance().getApplicationContext();
 		IOLSession.initIOLSession(ctx, offerIdentifier, false);
 	}

@@ -1,7 +1,7 @@
 #!/bin/bash
 
 APPID=ti.infonline
-VERSION=0.0.5
+VERSION=0.0.6
 
 export JAVA_HOME="/Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/"
 

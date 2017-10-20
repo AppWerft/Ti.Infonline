@@ -126,7 +126,8 @@ The module  needs an offerId, you will get this id from IVW.
 Please put the string into your tiapp.xml:
 
 ```xml
-<property name="IVW_OFFERID" type="string">YOUR_ID</property>
+<property name="IVW_OFFERID_ANDROID" type="string">YOUR_ID</property>
+<property name="IVW_OFFERID_IOS" type="string">YOUR_ID</property>
 ```
 
 
