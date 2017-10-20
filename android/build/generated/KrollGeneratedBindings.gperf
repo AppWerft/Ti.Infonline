@@ -1,12 +1,12 @@
 %define lookup-function-name lookupGeneratedInit
-%define class-name InfolineBindings
+%define class-name InfonlineBindings
 %{
 
 #include <string.h>
 #include <v8.h>
 #include <KrollBindings.h>
 
-#include "ti.infonline.InfolineModule.h"
+#include "ti.infonline.InfonlineModule.h"
 
 
 namespace titanium {
@@ -14,7 +14,7 @@ namespace bindings {
 %}
 struct BindEntry;
 %%
-ti.infonline.InfolineModule,::ti::infonline::InfolineModule::bindProxy,::ti::infonline::InfolineModule::dispose
+ti.infonline.InfonlineModule,::ti::infonline::InfonlineModule::bindProxy,::ti::infonline::InfonlineModule::dispose
 %%
 }
 }

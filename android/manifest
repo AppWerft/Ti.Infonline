@@ -11,7 +11,7 @@ license: Specify your license
 copyright: Copyright (c) 2017 by 
 
 # these should not be edited
-name: infoline
+name: infonline
 moduleid: ti.infonline
 guid: 0b6c46a7-780f-4a36-859b-7783d43c96e9
 platform: android

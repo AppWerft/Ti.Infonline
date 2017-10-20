@@ -9,7 +9,7 @@
 #include <v8.h>
 #include <KrollBindings.h>
 
-#include "ti.infonline.InfolineModule.h"
+#include "ti.infonline.InfonlineModule.h"
 
 
 namespace titanium {
@@ -18,7 +18,7 @@ namespace bindings {
 struct BindEntry;
 /* maximum key range = 1, duplicates = 0 */
 
-class InfolineBindings
+class InfonlineBindings
 {
 private:
   static inline unsigned int hash (const char *str, unsigned int len);
@@ -28,21 +28,21 @@ public:
 
 inline /*ARGSUSED*/
 unsigned int
-InfolineBindings::hash (register const char *str, register unsigned int len)
+InfonlineBindings::hash (register const char *str, register unsigned int len)
 {
   return len;
 }
 
 struct BindEntry *
-InfolineBindings::lookupGeneratedInit (register const char *str, register unsigned int len)
+InfonlineBindings::lookupGeneratedInit (register const char *str, register unsigned int len)
 {
   enum
     {
       TOTAL_KEYWORDS = 1,
-      MIN_WORD_LENGTH = 27,
-      MAX_WORD_LENGTH = 27,
-      MIN_HASH_VALUE = 27,
-      MAX_HASH_VALUE = 27
+      MIN_WORD_LENGTH = 28,
+      MAX_WORD_LENGTH = 28,
+      MIN_HASH_VALUE = 28,
+      MAX_HASH_VALUE = 28
     };
 
   static struct BindEntry wordlist[] =
@@ -50,8 +50,9 @@ InfolineBindings::lookupGeneratedInit (register const char *str, register unsign
       {""}, {""}, {""}, {""}, {""}, {""}, {""}, {""}, {""},
       {""}, {""}, {""}, {""}, {""}, {""}, {""}, {""}, {""},
       {""}, {""}, {""}, {""}, {""}, {""}, {""}, {""}, {""},
+      {""},
 #line 17 "/Users/fuerst/Documents/MLearning/Ti.Infoline/android/build/generated/KrollGeneratedBindings.gperf"
-      {"ti.infonline.InfolineModule",::ti::infonline::InfolineModule::bindProxy,::ti::infonline::InfolineModule::dispose}
+      {"ti.infonline.InfonlineModule",::ti::infonline::InfonlineModule::bindProxy,::ti::infonline::InfonlineModule::dispose}
     };
 
   if (len <= MAX_WORD_LENGTH && len >= MIN_WORD_LENGTH)
