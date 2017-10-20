@@ -3793,35 +3793,35 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ActionBar_background ti.infoline:background}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_backgroundSplit ti.infoline:backgroundSplit}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_backgroundStacked ti.infoline:backgroundStacked}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetEnd ti.infoline:contentInsetEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetEndWithActions ti.infoline:contentInsetEndWithActions}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetLeft ti.infoline:contentInsetLeft}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetRight ti.infoline:contentInsetRight}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetStart ti.infoline:contentInsetStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetStartWithNavigation ti.infoline:contentInsetStartWithNavigation}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_customNavigationLayout ti.infoline:customNavigationLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_displayOptions ti.infoline:displayOptions}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_divider ti.infoline:divider}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_elevation ti.infoline:elevation}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_height ti.infoline:height}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_hideOnContentScroll ti.infoline:hideOnContentScroll}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_homeAsUpIndicator ti.infoline:homeAsUpIndicator}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_homeLayout ti.infoline:homeLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_icon ti.infoline:icon}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_indeterminateProgressStyle ti.infoline:indeterminateProgressStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_itemPadding ti.infoline:itemPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_logo ti.infoline:logo}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_navigationMode ti.infoline:navigationMode}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_popupTheme ti.infoline:popupTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_progressBarPadding ti.infoline:progressBarPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_progressBarStyle ti.infoline:progressBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_subtitle ti.infoline:subtitle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_subtitleTextStyle ti.infoline:subtitleTextStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_title ti.infoline:title}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_titleTextStyle ti.infoline:titleTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_background ti.infonline:background}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_backgroundSplit ti.infonline:backgroundSplit}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_backgroundStacked ti.infonline:backgroundStacked}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetEnd ti.infonline:contentInsetEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetEndWithActions ti.infonline:contentInsetEndWithActions}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetLeft ti.infonline:contentInsetLeft}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetRight ti.infonline:contentInsetRight}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetStart ti.infonline:contentInsetStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetStartWithNavigation ti.infonline:contentInsetStartWithNavigation}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_customNavigationLayout ti.infonline:customNavigationLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_displayOptions ti.infonline:displayOptions}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_divider ti.infonline:divider}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_elevation ti.infonline:elevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_height ti.infonline:height}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_hideOnContentScroll ti.infonline:hideOnContentScroll}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_homeAsUpIndicator ti.infonline:homeAsUpIndicator}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_homeLayout ti.infonline:homeLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_icon ti.infonline:icon}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_indeterminateProgressStyle ti.infonline:indeterminateProgressStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_itemPadding ti.infonline:itemPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_logo ti.infonline:logo}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_navigationMode ti.infonline:navigationMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_popupTheme ti.infonline:popupTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_progressBarPadding ti.infonline:progressBarPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_progressBarStyle ti.infonline:progressBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_subtitle ti.infonline:subtitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_subtitleTextStyle ti.infonline:subtitleTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_title ti.infonline:title}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_titleTextStyle ti.infonline:titleTextStyle}</code></td><td></td></tr>
            </table>
            @see #ActionBar_background
            @see #ActionBar_backgroundSplit
@@ -3864,17 +3864,17 @@ containing a value of this type.
             0x7f010164
         };
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#background}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#background}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ti.infoline:background
+          @attr name ti.infonline:background
         */
         public static int ActionBar_background = 8;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#backgroundSplit}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#backgroundSplit}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3882,11 +3882,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name ti.infoline:backgroundSplit
+          @attr name ti.infonline:backgroundSplit
         */
         public static int ActionBar_backgroundSplit = 10;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#backgroundStacked}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#backgroundStacked}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3894,11 +3894,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name ti.infoline:backgroundStacked
+          @attr name ti.infonline:backgroundStacked
         */
         public static int ActionBar_backgroundStacked = 9;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#contentInsetEnd}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#contentInsetEnd}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3910,11 +3910,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ti.infoline:contentInsetEnd
+          @attr name ti.infonline:contentInsetEnd
         */
         public static int ActionBar_contentInsetEnd = 19;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#contentInsetEndWithActions}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#contentInsetEndWithActions}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3926,11 +3926,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ti.infoline:contentInsetEndWithActions
+          @attr name ti.infonline:contentInsetEndWithActions
         */
         public static int ActionBar_contentInsetEndWithActions = 23;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#contentInsetLeft}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#contentInsetLeft}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3942,11 +3942,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ti.infoline:contentInsetLeft
+          @attr name ti.infonline:contentInsetLeft
         */
         public static int ActionBar_contentInsetLeft = 20;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#contentInsetRight}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#contentInsetRight}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3958,11 +3958,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ti.infoline:contentInsetRight
+          @attr name ti.infonline:contentInsetRight
         */
         public static int ActionBar_contentInsetRight = 21;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#contentInsetStart}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#contentInsetStart}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3974,11 +3974,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ti.infoline:contentInsetStart
+          @attr name ti.infonline:contentInsetStart
         */
         public static int ActionBar_contentInsetStart = 18;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#contentInsetStartWithNavigation}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#contentInsetStartWithNavigation}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3990,21 +3990,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ti.infoline:contentInsetStartWithNavigation
+          @attr name ti.infonline:contentInsetStartWithNavigation
         */
         public static int ActionBar_contentInsetStartWithNavigation = 22;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#customNavigationLayout}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#customNavigationLayout}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ti.infoline:customNavigationLayout
+          @attr name ti.infonline:customNavigationLayout
         */
         public static int ActionBar_customNavigationLayout = 11;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#displayOptions}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#displayOptions}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -4022,21 +4022,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>showCustom</code></td><td>0x10</td><td></td></tr>
 <tr><td><code>disableHome</code></td><td>0x20</td><td></td></tr>
 </table>
-          @attr name ti.infoline:displayOptions
+          @attr name ti.infonline:displayOptions
         */
         public static int ActionBar_displayOptions = 1;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#divider}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#divider}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ti.infoline:divider
+          @attr name ti.infonline:divider
         */
         public static int ActionBar_divider = 7;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#elevation}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#elevation}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -4048,11 +4048,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ti.infoline:elevation
+          @attr name ti.infonline:elevation
         */
         public static int ActionBar_elevation = 24;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#height}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#height}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -4064,11 +4064,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ti.infoline:height
+          @attr name ti.infonline:height
         */
         public static int ActionBar_height = 27;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#hideOnContentScroll}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#hideOnContentScroll}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -4078,51 +4078,51 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ti.infoline:hideOnContentScroll
+          @attr name ti.infonline:hideOnContentScroll
         */
         public static int ActionBar_hideOnContentScroll = 17;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#homeAsUpIndicator}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#homeAsUpIndicator}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ti.infoline:homeAsUpIndicator
+          @attr name ti.infonline:homeAsUpIndicator
         */
         public static int ActionBar_homeAsUpIndicator = 26;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#homeLayout}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#homeLayout}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ti.infoline:homeLayout
+          @attr name ti.infonline:homeLayout
         */
         public static int ActionBar_homeLayout = 12;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#icon}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#icon}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ti.infoline:icon
+          @attr name ti.infonline:icon
         */
         public static int ActionBar_icon = 5;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#indeterminateProgressStyle}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#indeterminateProgressStyle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ti.infoline:indeterminateProgressStyle
+          @attr name ti.infonline:indeterminateProgressStyle
         */
         public static int ActionBar_indeterminateProgressStyle = 14;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#itemPadding}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#itemPadding}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -4134,21 +4134,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ti.infoline:itemPadding
+          @attr name ti.infonline:itemPadding
         */
         public static int ActionBar_itemPadding = 16;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#logo}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#logo}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ti.infoline:logo
+          @attr name ti.infonline:logo
         */
         public static int ActionBar_logo = 6;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#navigationMode}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#navigationMode}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -4162,21 +4162,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>listMode</code></td><td>1</td><td></td></tr>
 <tr><td><code>tabMode</code></td><td>2</td><td></td></tr>
 </table>
-          @attr name ti.infoline:navigationMode
+          @attr name ti.infonline:navigationMode
         */
         public static int ActionBar_navigationMode = 0;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#popupTheme}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#popupTheme}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ti.infoline:popupTheme
+          @attr name ti.infonline:popupTheme
         */
         public static int ActionBar_popupTheme = 25;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#progressBarPadding}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#progressBarPadding}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -4188,21 +4188,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ti.infoline:progressBarPadding
+          @attr name ti.infonline:progressBarPadding
         */
         public static int ActionBar_progressBarPadding = 15;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#progressBarStyle}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#progressBarStyle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ti.infoline:progressBarStyle
+          @attr name ti.infonline:progressBarStyle
         */
         public static int ActionBar_progressBarStyle = 13;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#subtitle}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#subtitle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -4212,21 +4212,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ti.infoline:subtitle
+          @attr name ti.infonline:subtitle
         */
         public static int ActionBar_subtitle = 2;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#subtitleTextStyle}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#subtitleTextStyle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ti.infoline:subtitleTextStyle
+          @attr name ti.infonline:subtitleTextStyle
         */
         public static int ActionBar_subtitleTextStyle = 4;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#title}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#title}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -4236,17 +4236,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ti.infoline:title
+          @attr name ti.infonline:title
         */
         public static int ActionBar_title = 28;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#titleTextStyle}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#titleTextStyle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ti.infoline:titleTextStyle
+          @attr name ti.infonline:titleTextStyle
         */
         public static int ActionBar_titleTextStyle = 3;
         /** Attributes that can be used with a ActionBarLayout.
@@ -4298,12 +4298,12 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ActionMode_background ti.infoline:background}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_backgroundSplit ti.infoline:backgroundSplit}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_closeItemLayout ti.infoline:closeItemLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_height ti.infoline:height}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_subtitleTextStyle ti.infoline:subtitleTextStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_titleTextStyle ti.infoline:titleTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_background ti.infonline:background}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_backgroundSplit ti.infonline:backgroundSplit}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_closeItemLayout ti.infonline:closeItemLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_height ti.infonline:height}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_subtitleTextStyle ti.infonline:subtitleTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_titleTextStyle ti.infonline:titleTextStyle}</code></td><td></td></tr>
            </table>
            @see #ActionMode_background
            @see #ActionMode_backgroundSplit
@@ -4317,17 +4317,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f010023, 0x7f010162
         };
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#background}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#background}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ti.infoline:background
+          @attr name ti.infonline:background
         */
         public static int ActionMode_background = 2;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#backgroundSplit}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#backgroundSplit}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
@@ -4335,21 +4335,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name ti.infoline:backgroundSplit
+          @attr name ti.infonline:backgroundSplit
         */
         public static int ActionMode_backgroundSplit = 3;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#closeItemLayout}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#closeItemLayout}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ti.infoline:closeItemLayout
+          @attr name ti.infonline:closeItemLayout
         */
         public static int ActionMode_closeItemLayout = 4;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#height}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#height}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
@@ -4361,27 +4361,27 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ti.infoline:height
+          @attr name ti.infonline:height
         */
         public static int ActionMode_height = 5;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#subtitleTextStyle}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#subtitleTextStyle}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ti.infoline:subtitleTextStyle
+          @attr name ti.infonline:subtitleTextStyle
         */
         public static int ActionMode_subtitleTextStyle = 1;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#titleTextStyle}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#titleTextStyle}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ti.infoline:titleTextStyle
+          @attr name ti.infonline:titleTextStyle
         */
         public static int ActionMode_titleTextStyle = 0;
         /** Attributes that can be used with a ActivityChooserView.
@@ -4390,8 +4390,8 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ActivityChooserView_expandActivityOverflowButtonDrawable ti.infoline:expandActivityOverflowButtonDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActivityChooserView_initialActivityCount ti.infoline:initialActivityCount}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActivityChooserView_expandActivityOverflowButtonDrawable ti.infonline:expandActivityOverflowButtonDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActivityChooserView_initialActivityCount ti.infonline:initialActivityCount}</code></td><td></td></tr>
            </table>
            @see #ActivityChooserView_expandActivityOverflowButtonDrawable
            @see #ActivityChooserView_initialActivityCount
@@ -4400,17 +4400,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f010024, 0x7f010025
         };
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#expandActivityOverflowButtonDrawable}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#expandActivityOverflowButtonDrawable}
           attribute's value can be found in the {@link #ActivityChooserView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ti.infoline:expandActivityOverflowButtonDrawable
+          @attr name ti.infonline:expandActivityOverflowButtonDrawable
         */
         public static int ActivityChooserView_expandActivityOverflowButtonDrawable = 1;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#initialActivityCount}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#initialActivityCount}
           attribute's value can be found in the {@link #ActivityChooserView} array.
 
 
@@ -4420,7 +4420,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ti.infoline:initialActivityCount
+          @attr name ti.infonline:initialActivityCount
         */
         public static int ActivityChooserView_initialActivityCount = 0;
         /** Attributes that can be used with a AlertDialog.
@@ -4430,12 +4430,12 @@ containing a value of this type.
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #AlertDialog_android_layout android:layout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_buttonPanelSideLayout ti.infoline:buttonPanelSideLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_listItemLayout ti.infoline:listItemLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_listLayout ti.infoline:listLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_multiChoiceItemLayout ti.infoline:multiChoiceItemLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_showTitle ti.infoline:showTitle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_singleChoiceItemLayout ti.infoline:singleChoiceItemLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_buttonPanelSideLayout ti.infonline:buttonPanelSideLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_listItemLayout ti.infonline:listItemLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_listLayout ti.infonline:listLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_multiChoiceItemLayout ti.infonline:multiChoiceItemLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_showTitle ti.infonline:showTitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_singleChoiceItemLayout ti.infonline:singleChoiceItemLayout}</code></td><td></td></tr>
            </table>
            @see #AlertDialog_android_layout
            @see #AlertDialog_buttonPanelSideLayout
@@ -4456,47 +4456,47 @@ containing a value of this type.
         */
         public static int AlertDialog_android_layout = 0;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#buttonPanelSideLayout}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#buttonPanelSideLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ti.infoline:buttonPanelSideLayout
+          @attr name ti.infonline:buttonPanelSideLayout
         */
         public static int AlertDialog_buttonPanelSideLayout = 1;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#listItemLayout}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#listItemLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ti.infoline:listItemLayout
+          @attr name ti.infonline:listItemLayout
         */
         public static int AlertDialog_listItemLayout = 5;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#listLayout}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#listLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ti.infoline:listLayout
+          @attr name ti.infonline:listLayout
         */
         public static int AlertDialog_listLayout = 2;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#multiChoiceItemLayout}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#multiChoiceItemLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ti.infoline:multiChoiceItemLayout
+          @attr name ti.infonline:multiChoiceItemLayout
         */
         public static int AlertDialog_multiChoiceItemLayout = 3;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#showTitle}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#showTitle}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
@@ -4506,17 +4506,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ti.infoline:showTitle
+          @attr name ti.infonline:showTitle
         */
         public static int AlertDialog_showTitle = 6;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#singleChoiceItemLayout}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#singleChoiceItemLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ti.infoline:singleChoiceItemLayout
+          @attr name ti.infonline:singleChoiceItemLayout
         */
         public static int AlertDialog_singleChoiceItemLayout = 4;
         /** Attributes that can be used with a AppBarLayout.
@@ -4528,8 +4528,8 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <tr><td><code>{@link #AppBarLayout_android_background android:background}</code></td><td></td></tr>
            <tr><td><code>{@link #AppBarLayout_android_keyboardNavigationCluster android:keyboardNavigationCluster}</code></td><td></td></tr>
            <tr><td><code>{@link #AppBarLayout_android_touchscreenBlocksFocus android:touchscreenBlocksFocus}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppBarLayout_elevation ti.infoline:elevation}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppBarLayout_expanded ti.infoline:expanded}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppBarLayout_elevation ti.infonline:elevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppBarLayout_expanded ti.infonline:expanded}</code></td><td></td></tr>
            </table>
            @see #AppBarLayout_android_background
            @see #AppBarLayout_android_keyboardNavigationCluster
@@ -4560,7 +4560,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static int AppBarLayout_android_touchscreenBlocksFocus = 1;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#elevation}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#elevation}
           attribute's value can be found in the {@link #AppBarLayout} array.
 
 
@@ -4572,11 +4572,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ti.infoline:elevation
+          @attr name ti.infonline:elevation
         */
         public static int AppBarLayout_elevation = 3;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#expanded}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#expanded}
           attribute's value can be found in the {@link #AppBarLayout} array.
 
 
@@ -4586,7 +4586,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ti.infoline:expanded
+          @attr name ti.infonline:expanded
         */
         public static int AppBarLayout_expanded = 4;
         /** Attributes that can be used with a AppBarLayoutStates.
@@ -4595,8 +4595,8 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #AppBarLayoutStates_state_collapsed ti.infoline:state_collapsed}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppBarLayoutStates_state_collapsible ti.infoline:state_collapsible}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppBarLayoutStates_state_collapsed ti.infonline:state_collapsed}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppBarLayoutStates_state_collapsible ti.infonline:state_collapsible}</code></td><td></td></tr>
            </table>
            @see #AppBarLayoutStates_state_collapsed
            @see #AppBarLayoutStates_state_collapsible
@@ -4605,7 +4605,7 @@ containing a value of this type.
             0x7f010110, 0x7f010111
         };
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#state_collapsed}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#state_collapsed}
           attribute's value can be found in the {@link #AppBarLayoutStates} array.
 
 
@@ -4615,11 +4615,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ti.infoline:state_collapsed
+          @attr name ti.infonline:state_collapsed
         */
         public static int AppBarLayoutStates_state_collapsed = 0;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#state_collapsible}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#state_collapsible}
           attribute's value can be found in the {@link #AppBarLayoutStates} array.
 
 
@@ -4629,7 +4629,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ti.infoline:state_collapsible
+          @attr name ti.infonline:state_collapsible
         */
         public static int AppBarLayoutStates_state_collapsible = 1;
         /** Attributes that can be used with a AppBarLayout_Layout.
@@ -4638,8 +4638,8 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #AppBarLayout_Layout_layout_scrollFlags ti.infoline:layout_scrollFlags}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppBarLayout_Layout_layout_scrollInterpolator ti.infoline:layout_scrollInterpolator}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppBarLayout_Layout_layout_scrollFlags ti.infonline:layout_scrollFlags}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppBarLayout_Layout_layout_scrollInterpolator ti.infonline:layout_scrollInterpolator}</code></td><td></td></tr>
            </table>
            @see #AppBarLayout_Layout_layout_scrollFlags
            @see #AppBarLayout_Layout_layout_scrollInterpolator
@@ -4648,7 +4648,7 @@ containing a value of this type.
             0x7f010112, 0x7f010113
         };
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#layout_scrollFlags}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#layout_scrollFlags}
           attribute's value can be found in the {@link #AppBarLayout_Layout} array.
 
 
@@ -4664,17 +4664,17 @@ containing a value of this type.
 <tr><td><code>enterAlwaysCollapsed</code></td><td>0x8</td><td></td></tr>
 <tr><td><code>snap</code></td><td>0x10</td><td></td></tr>
 </table>
-          @attr name ti.infoline:layout_scrollFlags
+          @attr name ti.infonline:layout_scrollFlags
         */
         public static int AppBarLayout_Layout_layout_scrollFlags = 0;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#layout_scrollInterpolator}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#layout_scrollInterpolator}
           attribute's value can be found in the {@link #AppBarLayout_Layout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ti.infoline:layout_scrollInterpolator
+          @attr name ti.infonline:layout_scrollInterpolator
         */
         public static int AppBarLayout_Layout_layout_scrollInterpolator = 1;
         /** Attributes that can be used with a AppCompatImageView.
@@ -4684,9 +4684,9 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #AppCompatImageView_android_src android:src}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatImageView_srcCompat ti.infoline:srcCompat}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatImageView_tint ti.infoline:tint}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatImageView_tintMode ti.infoline:tintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatImageView_srcCompat ti.infonline:srcCompat}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatImageView_tint ti.infonline:tint}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatImageView_tintMode ti.infonline:tintMode}</code></td><td></td></tr>
            </table>
            @see #AppCompatImageView_android_src
            @see #AppCompatImageView_srcCompat
@@ -4703,17 +4703,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static int AppCompatImageView_android_src = 0;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#srcCompat}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#srcCompat}
           attribute's value can be found in the {@link #AppCompatImageView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ti.infoline:srcCompat
+          @attr name ti.infonline:srcCompat
         */
         public static int AppCompatImageView_srcCompat = 1;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#tint}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#tint}
           attribute's value can be found in the {@link #AppCompatImageView} array.
 
 
@@ -4724,11 +4724,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ti.infoline:tint
+          @attr name ti.infonline:tint
         */
         public static int AppCompatImageView_tint = 2;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#tintMode}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#tintMode}
           attribute's value can be found in the {@link #AppCompatImageView} array.
 
 
@@ -4744,7 +4744,7 @@ containing a value of this type.
 <tr><td><code>multiply</code></td><td>14</td><td></td></tr>
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 </table>
-          @attr name ti.infoline:tintMode
+          @attr name ti.infonline:tintMode
         */
         public static int AppCompatImageView_tintMode = 3;
         /** Attributes that can be used with a AppCompatSeekBar.
@@ -4754,9 +4754,9 @@ containing a value of this type.
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #AppCompatSeekBar_android_thumb android:thumb}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatSeekBar_tickMark ti.infoline:tickMark}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatSeekBar_tickMarkTint ti.infoline:tickMarkTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatSeekBar_tickMarkTintMode ti.infoline:tickMarkTintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatSeekBar_tickMark ti.infonline:tickMark}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatSeekBar_tickMarkTint ti.infonline:tickMarkTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatSeekBar_tickMarkTintMode ti.infonline:tickMarkTintMode}</code></td><td></td></tr>
            </table>
            @see #AppCompatSeekBar_android_thumb
            @see #AppCompatSeekBar_tickMark
@@ -4773,17 +4773,17 @@ containing a value of this type.
         */
         public static int AppCompatSeekBar_android_thumb = 0;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#tickMark}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#tickMark}
           attribute's value can be found in the {@link #AppCompatSeekBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ti.infoline:tickMark
+          @attr name ti.infonline:tickMark
         */
         public static int AppCompatSeekBar_tickMark = 1;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#tickMarkTint}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#tickMarkTint}
           attribute's value can be found in the {@link #AppCompatSeekBar} array.
 
 
@@ -4794,11 +4794,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ti.infoline:tickMarkTint
+          @attr name ti.infonline:tickMarkTint
         */
         public static int AppCompatSeekBar_tickMarkTint = 2;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#tickMarkTintMode}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#tickMarkTintMode}
           attribute's value can be found in the {@link #AppCompatSeekBar} array.
 
 
@@ -4815,7 +4815,7 @@ containing a value of this type.
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 <tr><td><code>add</code></td><td>16</td><td></td></tr>
 </table>
-          @attr name ti.infoline:tickMarkTintMode
+          @attr name ti.infonline:tickMarkTintMode
         */
         public static int AppCompatSeekBar_tickMarkTintMode = 3;
         /** Attributes that can be used with a AppCompatTextHelper.
@@ -4893,13 +4893,13 @@ containing a value of this type.
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #AppCompatTextView_android_textAppearance android:textAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTextView_autoSizeMaxTextSize ti.infoline:autoSizeMaxTextSize}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTextView_autoSizeMinTextSize ti.infoline:autoSizeMinTextSize}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTextView_autoSizePresetSizes ti.infoline:autoSizePresetSizes}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTextView_autoSizeStepGranularity ti.infoline:autoSizeStepGranularity}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTextView_autoSizeTextType ti.infoline:autoSizeTextType}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTextView_fontFamily ti.infoline:fontFamily}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTextView_textAllCaps ti.infoline:textAllCaps}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTextView_autoSizeMaxTextSize ti.infonline:autoSizeMaxTextSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTextView_autoSizeMinTextSize ti.infonline:autoSizeMinTextSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTextView_autoSizePresetSizes ti.infonline:autoSizePresetSizes}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTextView_autoSizeStepGranularity ti.infonline:autoSizeStepGranularity}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTextView_autoSizeTextType ti.infonline:autoSizeTextType}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTextView_fontFamily ti.infonline:fontFamily}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTextView_textAllCaps ti.infonline:textAllCaps}</code></td><td></td></tr>
            </table>
            @see #AppCompatTextView_android_textAppearance
            @see #AppCompatTextView_autoSizeMaxTextSize
@@ -4921,7 +4921,7 @@ containing a value of this type.
         */
         public static int AppCompatTextView_android_textAppearance = 0;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#autoSizeMaxTextSize}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#autoSizeMaxTextSize}
           attribute's value can be found in the {@link #AppCompatTextView} array.
 
 
@@ -4933,11 +4933,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ti.infoline:autoSizeMaxTextSize
+          @attr name ti.infonline:autoSizeMaxTextSize
         */
         public static int AppCompatTextView_autoSizeMaxTextSize = 6;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#autoSizeMinTextSize}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#autoSizeMinTextSize}
           attribute's value can be found in the {@link #AppCompatTextView} array.
 
 
@@ -4949,21 +4949,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ti.infoline:autoSizeMinTextSize
+          @attr name ti.infonline:autoSizeMinTextSize
         */
         public static int AppCompatTextView_autoSizeMinTextSize = 5;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#autoSizePresetSizes}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#autoSizePresetSizes}
           attribute's value can be found in the {@link #AppCompatTextView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ti.infoline:autoSizePresetSizes
+          @attr name ti.infonline:autoSizePresetSizes
         */
         public static int AppCompatTextView_autoSizePresetSizes = 4;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#autoSizeStepGranularity}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#autoSizeStepGranularity}
           attribute's value can be found in the {@link #AppCompatTextView} array.
 
 
@@ -4975,11 +4975,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ti.infoline:autoSizeStepGranularity
+          @attr name ti.infonline:autoSizeStepGranularity
         */
         public static int AppCompatTextView_autoSizeStepGranularity = 3;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#autoSizeTextType}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#autoSizeTextType}
           attribute's value can be found in the {@link #AppCompatTextView} array.
 
 
@@ -4992,11 +4992,11 @@ containing a value of this type.
 <tr><td><code>none</code></td><td>0</td><td></td></tr>
 <tr><td><code>uniform</code></td><td>1</td><td></td></tr>
 </table>
-          @attr name ti.infoline:autoSizeTextType
+          @attr name ti.infonline:autoSizeTextType
         */
         public static int AppCompatTextView_autoSizeTextType = 2;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#fontFamily}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#fontFamily}
           attribute's value can be found in the {@link #AppCompatTextView} array.
 
 
@@ -5006,18 +5006,18 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ti.infoline:fontFamily
+          @attr name ti.infonline:fontFamily
         */
         public static int AppCompatTextView_fontFamily = 7;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#textAllCaps}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#textAllCaps}
           attribute's value can be found in the {@link #AppCompatTextView} array.
 
 
           <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a boolean value, either "<code>true</code>" or "<code>false</code>".
-          @attr name ti.infoline:textAllCaps
+          @attr name ti.infonline:textAllCaps
         */
         public static int AppCompatTextView_textAllCaps = 1;
         /** Attributes that can be used with a AppCompatTheme.
@@ -5026,125 +5026,125 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarDivider ti.infoline:actionBarDivider}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarItemBackground ti.infoline:actionBarItemBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarPopupTheme ti.infoline:actionBarPopupTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarSize ti.infoline:actionBarSize}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarSplitStyle ti.infoline:actionBarSplitStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarStyle ti.infoline:actionBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarTabBarStyle ti.infoline:actionBarTabBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarTabStyle ti.infoline:actionBarTabStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarTabTextStyle ti.infoline:actionBarTabTextStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarTheme ti.infoline:actionBarTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarWidgetTheme ti.infoline:actionBarWidgetTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionButtonStyle ti.infoline:actionButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionDropDownStyle ti.infoline:actionDropDownStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionMenuTextAppearance ti.infoline:actionMenuTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionMenuTextColor ti.infoline:actionMenuTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeBackground ti.infoline:actionModeBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeCloseButtonStyle ti.infoline:actionModeCloseButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeCloseDrawable ti.infoline:actionModeCloseDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeCopyDrawable ti.infoline:actionModeCopyDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeCutDrawable ti.infoline:actionModeCutDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeFindDrawable ti.infoline:actionModeFindDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModePasteDrawable ti.infoline:actionModePasteDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModePopupWindowStyle ti.infoline:actionModePopupWindowStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeSelectAllDrawable ti.infoline:actionModeSelectAllDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeShareDrawable ti.infoline:actionModeShareDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeSplitBackground ti.infoline:actionModeSplitBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeStyle ti.infoline:actionModeStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeWebSearchDrawable ti.infoline:actionModeWebSearchDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionOverflowButtonStyle ti.infoline:actionOverflowButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionOverflowMenuStyle ti.infoline:actionOverflowMenuStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_activityChooserViewStyle ti.infoline:activityChooserViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_alertDialogButtonGroupStyle ti.infoline:alertDialogButtonGroupStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_alertDialogCenterButtons ti.infoline:alertDialogCenterButtons}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_alertDialogStyle ti.infoline:alertDialogStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_alertDialogTheme ti.infoline:alertDialogTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarDivider ti.infonline:actionBarDivider}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarItemBackground ti.infonline:actionBarItemBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarPopupTheme ti.infonline:actionBarPopupTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarSize ti.infonline:actionBarSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarSplitStyle ti.infonline:actionBarSplitStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarStyle ti.infonline:actionBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarTabBarStyle ti.infonline:actionBarTabBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarTabStyle ti.infonline:actionBarTabStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarTabTextStyle ti.infonline:actionBarTabTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarTheme ti.infonline:actionBarTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarWidgetTheme ti.infonline:actionBarWidgetTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionButtonStyle ti.infonline:actionButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionDropDownStyle ti.infonline:actionDropDownStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionMenuTextAppearance ti.infonline:actionMenuTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionMenuTextColor ti.infonline:actionMenuTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeBackground ti.infonline:actionModeBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeCloseButtonStyle ti.infonline:actionModeCloseButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeCloseDrawable ti.infonline:actionModeCloseDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeCopyDrawable ti.infonline:actionModeCopyDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeCutDrawable ti.infonline:actionModeCutDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeFindDrawable ti.infonline:actionModeFindDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModePasteDrawable ti.infonline:actionModePasteDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModePopupWindowStyle ti.infonline:actionModePopupWindowStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeSelectAllDrawable ti.infonline:actionModeSelectAllDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeShareDrawable ti.infonline:actionModeShareDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeSplitBackground ti.infonline:actionModeSplitBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeStyle ti.infonline:actionModeStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeWebSearchDrawable ti.infonline:actionModeWebSearchDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionOverflowButtonStyle ti.infonline:actionOverflowButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionOverflowMenuStyle ti.infonline:actionOverflowMenuStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_activityChooserViewStyle ti.infonline:activityChooserViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_alertDialogButtonGroupStyle ti.infonline:alertDialogButtonGroupStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_alertDialogCenterButtons ti.infonline:alertDialogCenterButtons}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_alertDialogStyle ti.infonline:alertDialogStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_alertDialogTheme ti.infonline:alertDialogTheme}</code></td><td></td></tr>
            <tr><td><code>{@link #AppCompatTheme_android_windowAnimationStyle android:windowAnimationStyle}</code></td><td></td></tr>
            <tr><td><code>{@link #AppCompatTheme_android_windowIsFloating android:windowIsFloating}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_autoCompleteTextViewStyle ti.infoline:autoCompleteTextViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_borderlessButtonStyle ti.infoline:borderlessButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_buttonBarButtonStyle ti.infoline:buttonBarButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_buttonBarNegativeButtonStyle ti.infoline:buttonBarNegativeButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_buttonBarNeutralButtonStyle ti.infoline:buttonBarNeutralButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_buttonBarPositiveButtonStyle ti.infoline:buttonBarPositiveButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_buttonBarStyle ti.infoline:buttonBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_buttonStyle ti.infoline:buttonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_buttonStyleSmall ti.infoline:buttonStyleSmall}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_checkboxStyle ti.infoline:checkboxStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_checkedTextViewStyle ti.infoline:checkedTextViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorAccent ti.infoline:colorAccent}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorBackgroundFloating ti.infoline:colorBackgroundFloating}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorButtonNormal ti.infoline:colorButtonNormal}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorControlActivated ti.infoline:colorControlActivated}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorControlHighlight ti.infoline:colorControlHighlight}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorControlNormal ti.infoline:colorControlNormal}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorError ti.infoline:colorError}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorPrimary ti.infoline:colorPrimary}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorPrimaryDark ti.infoline:colorPrimaryDark}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorSwitchThumbNormal ti.infoline:colorSwitchThumbNormal}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_controlBackground ti.infoline:controlBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_dialogPreferredPadding ti.infoline:dialogPreferredPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_dialogTheme ti.infoline:dialogTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_dividerHorizontal ti.infoline:dividerHorizontal}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_dividerVertical ti.infoline:dividerVertical}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_dropDownListViewStyle ti.infoline:dropDownListViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_dropdownListPreferredItemHeight ti.infoline:dropdownListPreferredItemHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_editTextBackground ti.infoline:editTextBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_editTextColor ti.infoline:editTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_editTextStyle ti.infoline:editTextStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_homeAsUpIndicator ti.infoline:homeAsUpIndicator}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_imageButtonStyle ti.infoline:imageButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listChoiceBackgroundIndicator ti.infoline:listChoiceBackgroundIndicator}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listDividerAlertDialog ti.infoline:listDividerAlertDialog}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listMenuViewStyle ti.infoline:listMenuViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listPopupWindowStyle ti.infoline:listPopupWindowStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeight ti.infoline:listPreferredItemHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightLarge ti.infoline:listPreferredItemHeightLarge}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightSmall ti.infoline:listPreferredItemHeightSmall}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingLeft ti.infoline:listPreferredItemPaddingLeft}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingRight ti.infoline:listPreferredItemPaddingRight}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_panelBackground ti.infoline:panelBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_panelMenuListTheme ti.infoline:panelMenuListTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_panelMenuListWidth ti.infoline:panelMenuListWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_popupMenuStyle ti.infoline:popupMenuStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_popupWindowStyle ti.infoline:popupWindowStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_radioButtonStyle ti.infoline:radioButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_ratingBarStyle ti.infoline:ratingBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_ratingBarStyleIndicator ti.infoline:ratingBarStyleIndicator}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_ratingBarStyleSmall ti.infoline:ratingBarStyleSmall}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_searchViewStyle ti.infoline:searchViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_seekBarStyle ti.infoline:seekBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_selectableItemBackground ti.infoline:selectableItemBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_selectableItemBackgroundBorderless ti.infoline:selectableItemBackgroundBorderless}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_spinnerDropDownItemStyle ti.infoline:spinnerDropDownItemStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_spinnerStyle ti.infoline:spinnerStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_switchStyle ti.infoline:switchStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textAppearanceLargePopupMenu ti.infoline:textAppearanceLargePopupMenu}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textAppearanceListItem ti.infoline:textAppearanceListItem}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textAppearanceListItemSecondary ti.infoline:textAppearanceListItemSecondary}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textAppearanceListItemSmall ti.infoline:textAppearanceListItemSmall}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textAppearancePopupMenuHeader ti.infoline:textAppearancePopupMenuHeader}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultSubtitle ti.infoline:textAppearanceSearchResultSubtitle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultTitle ti.infoline:textAppearanceSearchResultTitle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textAppearanceSmallPopupMenu ti.infoline:textAppearanceSmallPopupMenu}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textColorAlertDialogListItem ti.infoline:textColorAlertDialogListItem}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textColorSearchUrl ti.infoline:textColorSearchUrl}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_toolbarNavigationButtonStyle ti.infoline:toolbarNavigationButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_toolbarStyle ti.infoline:toolbarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_tooltipForegroundColor ti.infoline:tooltipForegroundColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_tooltipFrameBackground ti.infoline:tooltipFrameBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowActionBar ti.infoline:windowActionBar}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowActionBarOverlay ti.infoline:windowActionBarOverlay}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowActionModeOverlay ti.infoline:windowActionModeOverlay}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMajor ti.infoline:windowFixedHeightMajor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMinor ti.infoline:windowFixedHeightMinor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMajor ti.infoline:windowFixedWidthMajor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMinor ti.infoline:windowFixedWidthMinor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowMinWidthMajor ti.infoline:windowMinWidthMajor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowMinWidthMinor ti.infoline:windowMinWidthMinor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowNoTitle ti.infoline:windowNoTitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_autoCompleteTextViewStyle ti.infonline:autoCompleteTextViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_borderlessButtonStyle ti.infonline:borderlessButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_buttonBarButtonStyle ti.infonline:buttonBarButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_buttonBarNegativeButtonStyle ti.infonline:buttonBarNegativeButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_buttonBarNeutralButtonStyle ti.infonline:buttonBarNeutralButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_buttonBarPositiveButtonStyle ti.infonline:buttonBarPositiveButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_buttonBarStyle ti.infonline:buttonBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_buttonStyle ti.infonline:buttonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_buttonStyleSmall ti.infonline:buttonStyleSmall}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_checkboxStyle ti.infonline:checkboxStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_checkedTextViewStyle ti.infonline:checkedTextViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorAccent ti.infonline:colorAccent}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorBackgroundFloating ti.infonline:colorBackgroundFloating}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorButtonNormal ti.infonline:colorButtonNormal}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorControlActivated ti.infonline:colorControlActivated}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorControlHighlight ti.infonline:colorControlHighlight}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorControlNormal ti.infonline:colorControlNormal}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorError ti.infonline:colorError}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorPrimary ti.infonline:colorPrimary}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorPrimaryDark ti.infonline:colorPrimaryDark}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorSwitchThumbNormal ti.infonline:colorSwitchThumbNormal}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_controlBackground ti.infonline:controlBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_dialogPreferredPadding ti.infonline:dialogPreferredPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_dialogTheme ti.infonline:dialogTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_dividerHorizontal ti.infonline:dividerHorizontal}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_dividerVertical ti.infonline:dividerVertical}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_dropDownListViewStyle ti.infonline:dropDownListViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_dropdownListPreferredItemHeight ti.infonline:dropdownListPreferredItemHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_editTextBackground ti.infonline:editTextBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_editTextColor ti.infonline:editTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_editTextStyle ti.infonline:editTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_homeAsUpIndicator ti.infonline:homeAsUpIndicator}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_imageButtonStyle ti.infonline:imageButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listChoiceBackgroundIndicator ti.infonline:listChoiceBackgroundIndicator}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listDividerAlertDialog ti.infonline:listDividerAlertDialog}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listMenuViewStyle ti.infonline:listMenuViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listPopupWindowStyle ti.infonline:listPopupWindowStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeight ti.infonline:listPreferredItemHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightLarge ti.infonline:listPreferredItemHeightLarge}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightSmall ti.infonline:listPreferredItemHeightSmall}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingLeft ti.infonline:listPreferredItemPaddingLeft}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingRight ti.infonline:listPreferredItemPaddingRight}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_panelBackground ti.infonline:panelBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_panelMenuListTheme ti.infonline:panelMenuListTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_panelMenuListWidth ti.infonline:panelMenuListWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_popupMenuStyle ti.infonline:popupMenuStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_popupWindowStyle ti.infonline:popupWindowStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_radioButtonStyle ti.infonline:radioButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_ratingBarStyle ti.infonline:ratingBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_ratingBarStyleIndicator ti.infonline:ratingBarStyleIndicator}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_ratingBarStyleSmall ti.infonline:ratingBarStyleSmall}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_searchViewStyle ti.infonline:searchViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_seekBarStyle ti.infonline:seekBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_selectableItemBackground ti.infonline:selectableItemBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_selectableItemBackgroundBorderless ti.infonline:selectableItemBackgroundBorderless}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_spinnerDropDownItemStyle ti.infonline:spinnerDropDownItemStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_spinnerStyle ti.infonline:spinnerStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_switchStyle ti.infonline:switchStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textAppearanceLargePopupMenu ti.infonline:textAppearanceLargePopupMenu}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textAppearanceListItem ti.infonline:textAppearanceListItem}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textAppearanceListItemSecondary ti.infonline:textAppearanceListItemSecondary}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textAppearanceListItemSmall ti.infonline:textAppearanceListItemSmall}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textAppearancePopupMenuHeader ti.infonline:textAppearancePopupMenuHeader}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultSubtitle ti.infonline:textAppearanceSearchResultSubtitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultTitle ti.infonline:textAppearanceSearchResultTitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textAppearanceSmallPopupMenu ti.infonline:textAppearanceSmallPopupMenu}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textColorAlertDialogListItem ti.infonline:textColorAlertDialogListItem}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textColorSearchUrl ti.infonline:textColorSearchUrl}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_toolbarNavigationButtonStyle ti.infonline:toolbarNavigationButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_toolbarStyle ti.infonline:toolbarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_tooltipForegroundColor ti.infonline:tooltipForegroundColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_tooltipFrameBackground ti.infonline:tooltipFrameBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowActionBar ti.infonline:windowActionBar}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowActionBarOverlay ti.infonline:windowActionBarOverlay}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowActionModeOverlay ti.infonline:windowActionModeOverlay}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMajor ti.infonline:windowFixedHeightMajor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMinor ti.infonline:windowFixedHeightMinor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMajor ti.infonline:windowFixedWidthMajor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMinor ti.infonline:windowFixedWidthMinor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowMinWidthMajor ti.infonline:windowMinWidthMajor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowMinWidthMinor ti.infonline:windowMinWidthMinor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowNoTitle ti.infonline:windowNoTitle}</code></td><td></td></tr>
            </table>
            @see #AppCompatTheme_actionBarDivider
            @see #AppCompatTheme_actionBarItemBackground
@@ -5299,37 +5299,37 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f0100ab, 0x7f0100ac, 0x7f0100ad
         };
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#actionBarDivider}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#actionBarDivider}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ti.infoline:actionBarDivider
+          @attr name ti.infonline:actionBarDivider
         */
         public static int AppCompatTheme_actionBarDivider = 23;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#actionBarItemBackground}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#actionBarItemBackground}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ti.infoline:actionBarItemBackground
+          @attr name ti.infonline:actionBarItemBackground
         */
         public static int AppCompatTheme_actionBarItemBackground = 24;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#actionBarPopupTheme}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#actionBarPopupTheme}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ti.infoline:actionBarPopupTheme
+          @attr name ti.infonline:actionBarPopupTheme
         */
         public static int AppCompatTheme_actionBarPopupTheme = 17;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#actionBarSize}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#actionBarSize}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5349,111 +5349,111 @@ containing a value of this type.
 <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
 <tr><td><code>wrap_content</code></td><td>0</td><td></td></tr>
 </table>
-          @attr name ti.infoline:actionBarSize
+          @attr name ti.infonline:actionBarSize
         */
         public static int AppCompatTheme_actionBarSize = 22;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#actionBarSplitStyle}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#actionBarSplitStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ti.infoline:actionBarSplitStyle
+          @attr name ti.infonline:actionBarSplitStyle
         */
         public static int AppCompatTheme_actionBarSplitStyle = 19;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#actionBarStyle}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#actionBarStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ti.infoline:actionBarStyle
+          @attr name ti.infonline:actionBarStyle
         */
         public static int AppCompatTheme_actionBarStyle = 18;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#actionBarTabBarStyle}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#actionBarTabBarStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ti.infoline:actionBarTabBarStyle
+          @attr name ti.infonline:actionBarTabBarStyle
         */
         public static int AppCompatTheme_actionBarTabBarStyle = 13;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#actionBarTabStyle}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#actionBarTabStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ti.infoline:actionBarTabStyle
+          @attr name ti.infonline:actionBarTabStyle
         */
         public static int AppCompatTheme_actionBarTabStyle = 12;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#actionBarTabTextStyle}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#actionBarTabTextStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ti.infoline:actionBarTabTextStyle
+          @attr name ti.infonline:actionBarTabTextStyle
         */
         public static int AppCompatTheme_actionBarTabTextStyle = 14;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#actionBarTheme}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#actionBarTheme}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ti.infoline:actionBarTheme
+          @attr name ti.infonline:actionBarTheme
         */
         public static int AppCompatTheme_actionBarTheme = 20;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#actionBarWidgetTheme}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#actionBarWidgetTheme}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ti.infoline:actionBarWidgetTheme
+          @attr name ti.infonline:actionBarWidgetTheme
         */
         public static int AppCompatTheme_actionBarWidgetTheme = 21;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#actionButtonStyle}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#actionButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ti.infoline:actionButtonStyle
+          @attr name ti.infonline:actionButtonStyle
         */
         public static int AppCompatTheme_actionButtonStyle = 50;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#actionDropDownStyle}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#actionDropDownStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ti.infoline:actionDropDownStyle
+          @attr name ti.infonline:actionDropDownStyle
         */
         public static int AppCompatTheme_actionDropDownStyle = 46;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#actionMenuTextAppearance}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#actionMenuTextAppearance}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ti.infoline:actionMenuTextAppearance
+          @attr name ti.infonline:actionMenuTextAppearance
         */
         public static int AppCompatTheme_actionMenuTextAppearance = 25;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#actionMenuTextColor}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#actionMenuTextColor}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5461,181 +5461,181 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name ti.infoline:actionMenuTextColor
+          @attr name ti.infonline:actionMenuTextColor
         */
         public static int AppCompatTheme_actionMenuTextColor = 26;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#actionModeBackground}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#actionModeBackground}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ti.infoline:actionModeBackground
+          @attr name ti.infonline:actionModeBackground
         */
         public static int AppCompatTheme_actionModeBackground = 29;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#actionModeCloseButtonStyle}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#actionModeCloseButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ti.infoline:actionModeCloseButtonStyle
+          @attr name ti.infonline:actionModeCloseButtonStyle
         */
         public static int AppCompatTheme_actionModeCloseButtonStyle = 28;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#actionModeCloseDrawable}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#actionModeCloseDrawable}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ti.infoline:actionModeCloseDrawable
+          @attr name ti.infonline:actionModeCloseDrawable
         */
         public static int AppCompatTheme_actionModeCloseDrawable = 31;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#actionModeCopyDrawable}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#actionModeCopyDrawable}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ti.infoline:actionModeCopyDrawable
+          @attr name ti.infonline:actionModeCopyDrawable
         */
         public static int AppCompatTheme_actionModeCopyDrawable = 33;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#actionModeCutDrawable}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#actionModeCutDrawable}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ti.infoline:actionModeCutDrawable
+          @attr name ti.infonline:actionModeCutDrawable
         */
         public static int AppCompatTheme_actionModeCutDrawable = 32;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#actionModeFindDrawable}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#actionModeFindDrawable}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ti.infoline:actionModeFindDrawable
+          @attr name ti.infonline:actionModeFindDrawable
         */
         public static int AppCompatTheme_actionModeFindDrawable = 37;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#actionModePasteDrawable}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#actionModePasteDrawable}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ti.infoline:actionModePasteDrawable
+          @attr name ti.infonline:actionModePasteDrawable
         */
         public static int AppCompatTheme_actionModePasteDrawable = 34;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#actionModePopupWindowStyle}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#actionModePopupWindowStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ti.infoline:actionModePopupWindowStyle
+          @attr name ti.infonline:actionModePopupWindowStyle
         */
         public static int AppCompatTheme_actionModePopupWindowStyle = 39;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#actionModeSelectAllDrawable}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#actionModeSelectAllDrawable}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ti.infoline:actionModeSelectAllDrawable
+          @attr name ti.infonline:actionModeSelectAllDrawable
         */
         public static int AppCompatTheme_actionModeSelectAllDrawable = 35;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#actionModeShareDrawable}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#actionModeShareDrawable}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ti.infoline:actionModeShareDrawable
+          @attr name ti.infonline:actionModeShareDrawable
         */
         public static int AppCompatTheme_actionModeShareDrawable = 36;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#actionModeSplitBackground}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#actionModeSplitBackground}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ti.infoline:actionModeSplitBackground
+          @attr name ti.infonline:actionModeSplitBackground
         */
         public static int AppCompatTheme_actionModeSplitBackground = 30;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#actionModeStyle}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#actionModeStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ti.infoline:actionModeStyle
+          @attr name ti.infonline:actionModeStyle
         */
         public static int AppCompatTheme_actionModeStyle = 27;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#actionModeWebSearchDrawable}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#actionModeWebSearchDrawable}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ti.infoline:actionModeWebSearchDrawable
+          @attr name ti.infonline:actionModeWebSearchDrawable
         */
         public static int AppCompatTheme_actionModeWebSearchDrawable = 38;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#actionOverflowButtonStyle}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#actionOverflowButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ti.infoline:actionOverflowButtonStyle
+          @attr name ti.infonline:actionOverflowButtonStyle
         */
         public static int AppCompatTheme_actionOverflowButtonStyle = 15;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#actionOverflowMenuStyle}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#actionOverflowMenuStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ti.infoline:actionOverflowMenuStyle
+          @attr name ti.infonline:actionOverflowMenuStyle
         */
         public static int AppCompatTheme_actionOverflowMenuStyle = 16;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#activityChooserViewStyle}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#activityChooserViewStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ti.infoline:activityChooserViewStyle
+          @attr name ti.infonline:activityChooserViewStyle
         */
         public static int AppCompatTheme_activityChooserViewStyle = 58;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#alertDialogButtonGroupStyle}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#alertDialogButtonGroupStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ti.infoline:alertDialogButtonGroupStyle
+          @attr name ti.infonline:alertDialogButtonGroupStyle
         */
         public static int AppCompatTheme_alertDialogButtonGroupStyle = 95;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#alertDialogCenterButtons}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#alertDialogCenterButtons}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5645,27 +5645,27 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ti.infoline:alertDialogCenterButtons
+          @attr name ti.infonline:alertDialogCenterButtons
         */
         public static int AppCompatTheme_alertDialogCenterButtons = 96;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#alertDialogStyle}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#alertDialogStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ti.infoline:alertDialogStyle
+          @attr name ti.infonline:alertDialogStyle
         */
         public static int AppCompatTheme_alertDialogStyle = 94;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#alertDialogTheme}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#alertDialogTheme}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ti.infoline:alertDialogTheme
+          @attr name ti.infonline:alertDialogTheme
         */
         public static int AppCompatTheme_alertDialogTheme = 97;
         /**
@@ -5681,117 +5681,117 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static int AppCompatTheme_android_windowIsFloating = 0;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#autoCompleteTextViewStyle}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#autoCompleteTextViewStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ti.infoline:autoCompleteTextViewStyle
+          @attr name ti.infonline:autoCompleteTextViewStyle
         */
         public static int AppCompatTheme_autoCompleteTextViewStyle = 102;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#borderlessButtonStyle}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#borderlessButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ti.infoline:borderlessButtonStyle
+          @attr name ti.infonline:borderlessButtonStyle
         */
         public static int AppCompatTheme_borderlessButtonStyle = 55;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#buttonBarButtonStyle}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#buttonBarButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ti.infoline:buttonBarButtonStyle
+          @attr name ti.infonline:buttonBarButtonStyle
         */
         public static int AppCompatTheme_buttonBarButtonStyle = 52;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#buttonBarNegativeButtonStyle}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#buttonBarNegativeButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ti.infoline:buttonBarNegativeButtonStyle
+          @attr name ti.infonline:buttonBarNegativeButtonStyle
         */
         public static int AppCompatTheme_buttonBarNegativeButtonStyle = 100;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#buttonBarNeutralButtonStyle}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#buttonBarNeutralButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ti.infoline:buttonBarNeutralButtonStyle
+          @attr name ti.infonline:buttonBarNeutralButtonStyle
         */
         public static int AppCompatTheme_buttonBarNeutralButtonStyle = 101;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#buttonBarPositiveButtonStyle}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#buttonBarPositiveButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ti.infoline:buttonBarPositiveButtonStyle
+          @attr name ti.infonline:buttonBarPositiveButtonStyle
         */
         public static int AppCompatTheme_buttonBarPositiveButtonStyle = 99;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#buttonBarStyle}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#buttonBarStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ti.infoline:buttonBarStyle
+          @attr name ti.infonline:buttonBarStyle
         */
         public static int AppCompatTheme_buttonBarStyle = 51;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#buttonStyle}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#buttonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ti.infoline:buttonStyle
+          @attr name ti.infonline:buttonStyle
         */
         public static int AppCompatTheme_buttonStyle = 103;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#buttonStyleSmall}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#buttonStyleSmall}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ti.infoline:buttonStyleSmall
+          @attr name ti.infonline:buttonStyleSmall
         */
         public static int AppCompatTheme_buttonStyleSmall = 104;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#checkboxStyle}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#checkboxStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ti.infoline:checkboxStyle
+          @attr name ti.infonline:checkboxStyle
         */
         public static int AppCompatTheme_checkboxStyle = 105;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#checkedTextViewStyle}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#checkedTextViewStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ti.infoline:checkedTextViewStyle
+          @attr name ti.infonline:checkedTextViewStyle
         */
         public static int AppCompatTheme_checkedTextViewStyle = 106;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#colorAccent}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#colorAccent}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5802,11 +5802,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ti.infoline:colorAccent
+          @attr name ti.infonline:colorAccent
         */
         public static int AppCompatTheme_colorAccent = 86;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#colorBackgroundFloating}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#colorBackgroundFloating}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5817,11 +5817,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ti.infoline:colorBackgroundFloating
+          @attr name ti.infonline:colorBackgroundFloating
         */
         public static int AppCompatTheme_colorBackgroundFloating = 93;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#colorButtonNormal}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#colorButtonNormal}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5832,11 +5832,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ti.infoline:colorButtonNormal
+          @attr name ti.infonline:colorButtonNormal
         */
         public static int AppCompatTheme_colorButtonNormal = 90;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#colorControlActivated}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#colorControlActivated}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5847,11 +5847,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ti.infoline:colorControlActivated
+          @attr name ti.infonline:colorControlActivated
         */
         public static int AppCompatTheme_colorControlActivated = 88;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#colorControlHighlight}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#colorControlHighlight}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5862,11 +5862,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ti.infoline:colorControlHighlight
+          @attr name ti.infonline:colorControlHighlight
         */
         public static int AppCompatTheme_colorControlHighlight = 89;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#colorControlNormal}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#colorControlNormal}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5877,11 +5877,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ti.infoline:colorControlNormal
+          @attr name ti.infonline:colorControlNormal
         */
         public static int AppCompatTheme_colorControlNormal = 87;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#colorError}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#colorError}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5889,11 +5889,11 @@ containing a value of this type.
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name ti.infoline:colorError
+          @attr name ti.infonline:colorError
         */
         public static int AppCompatTheme_colorError = 118;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#colorPrimary}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#colorPrimary}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5904,11 +5904,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ti.infoline:colorPrimary
+          @attr name ti.infonline:colorPrimary
         */
         public static int AppCompatTheme_colorPrimary = 84;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#colorPrimaryDark}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#colorPrimaryDark}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5919,11 +5919,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ti.infoline:colorPrimaryDark
+          @attr name ti.infonline:colorPrimaryDark
         */
         public static int AppCompatTheme_colorPrimaryDark = 85;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#colorSwitchThumbNormal}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#colorSwitchThumbNormal}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5934,21 +5934,21 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ti.infoline:colorSwitchThumbNormal
+          @attr name ti.infonline:colorSwitchThumbNormal
         */
         public static int AppCompatTheme_colorSwitchThumbNormal = 91;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#controlBackground}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#controlBackground}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ti.infoline:controlBackground
+          @attr name ti.infonline:controlBackground
         */
         public static int AppCompatTheme_controlBackground = 92;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#dialogPreferredPadding}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#dialogPreferredPadding}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5960,51 +5960,51 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ti.infoline:dialogPreferredPadding
+          @attr name ti.infonline:dialogPreferredPadding
         */
         public static int AppCompatTheme_dialogPreferredPadding = 44;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#dialogTheme}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#dialogTheme}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ti.infoline:dialogTheme
+          @attr name ti.infonline:dialogTheme
         */
         public static int AppCompatTheme_dialogTheme = 43;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#dividerHorizontal}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#dividerHorizontal}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ti.infoline:dividerHorizontal
+          @attr name ti.infonline:dividerHorizontal
         */
         public static int AppCompatTheme_dividerHorizontal = 57;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#dividerVertical}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#dividerVertical}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ti.infoline:dividerVertical
+          @attr name ti.infonline:dividerVertical
         */
         public static int AppCompatTheme_dividerVertical = 56;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#dropDownListViewStyle}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#dropDownListViewStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ti.infoline:dropDownListViewStyle
+          @attr name ti.infonline:dropDownListViewStyle
         */
         public static int AppCompatTheme_dropDownListViewStyle = 75;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#dropdownListPreferredItemHeight}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#dropdownListPreferredItemHeight}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6016,21 +6016,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ti.infoline:dropdownListPreferredItemHeight
+          @attr name ti.infonline:dropdownListPreferredItemHeight
         */
         public static int AppCompatTheme_dropdownListPreferredItemHeight = 47;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#editTextBackground}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#editTextBackground}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ti.infoline:editTextBackground
+          @attr name ti.infonline:editTextBackground
         */
         public static int AppCompatTheme_editTextBackground = 64;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#editTextColor}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#editTextColor}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6038,81 +6038,81 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name ti.infoline:editTextColor
+          @attr name ti.infonline:editTextColor
         */
         public static int AppCompatTheme_editTextColor = 63;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#editTextStyle}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#editTextStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ti.infoline:editTextStyle
+          @attr name ti.infonline:editTextStyle
         */
         public static int AppCompatTheme_editTextStyle = 107;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#homeAsUpIndicator}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#homeAsUpIndicator}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ti.infoline:homeAsUpIndicator
+          @attr name ti.infonline:homeAsUpIndicator
         */
         public static int AppCompatTheme_homeAsUpIndicator = 49;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#imageButtonStyle}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#imageButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ti.infoline:imageButtonStyle
+          @attr name ti.infonline:imageButtonStyle
         */
         public static int AppCompatTheme_imageButtonStyle = 65;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#listChoiceBackgroundIndicator}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#listChoiceBackgroundIndicator}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ti.infoline:listChoiceBackgroundIndicator
+          @attr name ti.infonline:listChoiceBackgroundIndicator
         */
         public static int AppCompatTheme_listChoiceBackgroundIndicator = 83;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#listDividerAlertDialog}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#listDividerAlertDialog}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ti.infoline:listDividerAlertDialog
+          @attr name ti.infonline:listDividerAlertDialog
         */
         public static int AppCompatTheme_listDividerAlertDialog = 45;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#listMenuViewStyle}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#listMenuViewStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ti.infoline:listMenuViewStyle
+          @attr name ti.infonline:listMenuViewStyle
         */
         public static int AppCompatTheme_listMenuViewStyle = 115;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#listPopupWindowStyle}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#listPopupWindowStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ti.infoline:listPopupWindowStyle
+          @attr name ti.infonline:listPopupWindowStyle
         */
         public static int AppCompatTheme_listPopupWindowStyle = 76;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#listPreferredItemHeight}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#listPreferredItemHeight}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6124,11 +6124,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ti.infoline:listPreferredItemHeight
+          @attr name ti.infonline:listPreferredItemHeight
         */
         public static int AppCompatTheme_listPreferredItemHeight = 70;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#listPreferredItemHeightLarge}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#listPreferredItemHeightLarge}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6140,11 +6140,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ti.infoline:listPreferredItemHeightLarge
+          @attr name ti.infonline:listPreferredItemHeightLarge
         */
         public static int AppCompatTheme_listPreferredItemHeightLarge = 72;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#listPreferredItemHeightSmall}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#listPreferredItemHeightSmall}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6156,11 +6156,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ti.infoline:listPreferredItemHeightSmall
+          @attr name ti.infonline:listPreferredItemHeightSmall
         */
         public static int AppCompatTheme_listPreferredItemHeightSmall = 71;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#listPreferredItemPaddingLeft}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#listPreferredItemPaddingLeft}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6172,11 +6172,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ti.infoline:listPreferredItemPaddingLeft
+          @attr name ti.infonline:listPreferredItemPaddingLeft
         */
         public static int AppCompatTheme_listPreferredItemPaddingLeft = 73;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#listPreferredItemPaddingRight}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#listPreferredItemPaddingRight}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6188,31 +6188,31 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ti.infoline:listPreferredItemPaddingRight
+          @attr name ti.infonline:listPreferredItemPaddingRight
         */
         public static int AppCompatTheme_listPreferredItemPaddingRight = 74;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#panelBackground}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#panelBackground}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ti.infoline:panelBackground
+          @attr name ti.infonline:panelBackground
         */
         public static int AppCompatTheme_panelBackground = 80;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#panelMenuListTheme}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#panelMenuListTheme}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ti.infoline:panelMenuListTheme
+          @attr name ti.infonline:panelMenuListTheme
         */
         public static int AppCompatTheme_panelMenuListTheme = 82;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#panelMenuListWidth}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#panelMenuListWidth}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6224,221 +6224,221 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ti.infoline:panelMenuListWidth
+          @attr name ti.infonline:panelMenuListWidth
         */
         public static int AppCompatTheme_panelMenuListWidth = 81;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#popupMenuStyle}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#popupMenuStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ti.infoline:popupMenuStyle
+          @attr name ti.infonline:popupMenuStyle
         */
         public static int AppCompatTheme_popupMenuStyle = 61;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#popupWindowStyle}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#popupWindowStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ti.infoline:popupWindowStyle
+          @attr name ti.infonline:popupWindowStyle
         */
         public static int AppCompatTheme_popupWindowStyle = 62;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#radioButtonStyle}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#radioButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ti.infoline:radioButtonStyle
+          @attr name ti.infonline:radioButtonStyle
         */
         public static int AppCompatTheme_radioButtonStyle = 108;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#ratingBarStyle}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#ratingBarStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ti.infoline:ratingBarStyle
+          @attr name ti.infonline:ratingBarStyle
         */
         public static int AppCompatTheme_ratingBarStyle = 109;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#ratingBarStyleIndicator}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#ratingBarStyleIndicator}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ti.infoline:ratingBarStyleIndicator
+          @attr name ti.infonline:ratingBarStyleIndicator
         */
         public static int AppCompatTheme_ratingBarStyleIndicator = 110;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#ratingBarStyleSmall}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#ratingBarStyleSmall}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ti.infoline:ratingBarStyleSmall
+          @attr name ti.infonline:ratingBarStyleSmall
         */
         public static int AppCompatTheme_ratingBarStyleSmall = 111;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#searchViewStyle}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#searchViewStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ti.infoline:searchViewStyle
+          @attr name ti.infonline:searchViewStyle
         */
         public static int AppCompatTheme_searchViewStyle = 69;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#seekBarStyle}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#seekBarStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ti.infoline:seekBarStyle
+          @attr name ti.infonline:seekBarStyle
         */
         public static int AppCompatTheme_seekBarStyle = 112;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#selectableItemBackground}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#selectableItemBackground}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ti.infoline:selectableItemBackground
+          @attr name ti.infonline:selectableItemBackground
         */
         public static int AppCompatTheme_selectableItemBackground = 53;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#selectableItemBackgroundBorderless}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#selectableItemBackgroundBorderless}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ti.infoline:selectableItemBackgroundBorderless
+          @attr name ti.infonline:selectableItemBackgroundBorderless
         */
         public static int AppCompatTheme_selectableItemBackgroundBorderless = 54;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#spinnerDropDownItemStyle}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#spinnerDropDownItemStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ti.infoline:spinnerDropDownItemStyle
+          @attr name ti.infonline:spinnerDropDownItemStyle
         */
         public static int AppCompatTheme_spinnerDropDownItemStyle = 48;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#spinnerStyle}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#spinnerStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ti.infoline:spinnerStyle
+          @attr name ti.infonline:spinnerStyle
         */
         public static int AppCompatTheme_spinnerStyle = 113;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#switchStyle}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#switchStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ti.infoline:switchStyle
+          @attr name ti.infonline:switchStyle
         */
         public static int AppCompatTheme_switchStyle = 114;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#textAppearanceLargePopupMenu}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#textAppearanceLargePopupMenu}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ti.infoline:textAppearanceLargePopupMenu
+          @attr name ti.infonline:textAppearanceLargePopupMenu
         */
         public static int AppCompatTheme_textAppearanceLargePopupMenu = 40;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#textAppearanceListItem}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#textAppearanceListItem}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ti.infoline:textAppearanceListItem
+          @attr name ti.infonline:textAppearanceListItem
         */
         public static int AppCompatTheme_textAppearanceListItem = 77;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#textAppearanceListItemSecondary}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#textAppearanceListItemSecondary}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ti.infoline:textAppearanceListItemSecondary
+          @attr name ti.infonline:textAppearanceListItemSecondary
         */
         public static int AppCompatTheme_textAppearanceListItemSecondary = 78;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#textAppearanceListItemSmall}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#textAppearanceListItemSmall}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ti.infoline:textAppearanceListItemSmall
+          @attr name ti.infonline:textAppearanceListItemSmall
         */
         public static int AppCompatTheme_textAppearanceListItemSmall = 79;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#textAppearancePopupMenuHeader}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#textAppearancePopupMenuHeader}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ti.infoline:textAppearancePopupMenuHeader
+          @attr name ti.infonline:textAppearancePopupMenuHeader
         */
         public static int AppCompatTheme_textAppearancePopupMenuHeader = 42;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#textAppearanceSearchResultSubtitle}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#textAppearanceSearchResultSubtitle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ti.infoline:textAppearanceSearchResultSubtitle
+          @attr name ti.infonline:textAppearanceSearchResultSubtitle
         */
         public static int AppCompatTheme_textAppearanceSearchResultSubtitle = 67;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#textAppearanceSearchResultTitle}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#textAppearanceSearchResultTitle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ti.infoline:textAppearanceSearchResultTitle
+          @attr name ti.infonline:textAppearanceSearchResultTitle
         */
         public static int AppCompatTheme_textAppearanceSearchResultTitle = 66;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#textAppearanceSmallPopupMenu}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#textAppearanceSmallPopupMenu}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ti.infoline:textAppearanceSmallPopupMenu
+          @attr name ti.infonline:textAppearanceSmallPopupMenu
         */
         public static int AppCompatTheme_textAppearanceSmallPopupMenu = 41;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#textColorAlertDialogListItem}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#textColorAlertDialogListItem}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6446,11 +6446,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name ti.infoline:textColorAlertDialogListItem
+          @attr name ti.infonline:textColorAlertDialogListItem
         */
         public static int AppCompatTheme_textColorAlertDialogListItem = 98;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#textColorSearchUrl}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#textColorSearchUrl}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6458,31 +6458,31 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name ti.infoline:textColorSearchUrl
+          @attr name ti.infonline:textColorSearchUrl
         */
         public static int AppCompatTheme_textColorSearchUrl = 68;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#toolbarNavigationButtonStyle}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#toolbarNavigationButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ti.infoline:toolbarNavigationButtonStyle
+          @attr name ti.infonline:toolbarNavigationButtonStyle
         */
         public static int AppCompatTheme_toolbarNavigationButtonStyle = 60;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#toolbarStyle}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#toolbarStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ti.infoline:toolbarStyle
+          @attr name ti.infonline:toolbarStyle
         */
         public static int AppCompatTheme_toolbarStyle = 59;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#tooltipForegroundColor}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#tooltipForegroundColor}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6490,21 +6490,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name ti.infoline:tooltipForegroundColor
+          @attr name ti.infonline:tooltipForegroundColor
         */
         public static int AppCompatTheme_tooltipForegroundColor = 117;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#tooltipFrameBackground}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#tooltipFrameBackground}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ti.infoline:tooltipFrameBackground
+          @attr name ti.infonline:tooltipFrameBackground
         */
         public static int AppCompatTheme_tooltipFrameBackground = 116;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#windowActionBar}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#windowActionBar}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6514,11 +6514,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ti.infoline:windowActionBar
+          @attr name ti.infonline:windowActionBar
         */
         public static int AppCompatTheme_windowActionBar = 2;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#windowActionBarOverlay}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#windowActionBarOverlay}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6528,11 +6528,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ti.infoline:windowActionBarOverlay
+          @attr name ti.infonline:windowActionBarOverlay
         */
         public static int AppCompatTheme_windowActionBarOverlay = 4;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#windowActionModeOverlay}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#windowActionModeOverlay}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6542,11 +6542,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ti.infoline:windowActionModeOverlay
+          @attr name ti.infonline:windowActionModeOverlay
         */
         public static int AppCompatTheme_windowActionModeOverlay = 5;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#windowFixedHeightMajor}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#windowFixedHeightMajor}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6561,11 +6561,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ti.infoline:windowFixedHeightMajor
+          @attr name ti.infonline:windowFixedHeightMajor
         */
         public static int AppCompatTheme_windowFixedHeightMajor = 9;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#windowFixedHeightMinor}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#windowFixedHeightMinor}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6580,11 +6580,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ti.infoline:windowFixedHeightMinor
+          @attr name ti.infonline:windowFixedHeightMinor
         */
         public static int AppCompatTheme_windowFixedHeightMinor = 7;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#windowFixedWidthMajor}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#windowFixedWidthMajor}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6599,11 +6599,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ti.infoline:windowFixedWidthMajor
+          @attr name ti.infonline:windowFixedWidthMajor
         */
         public static int AppCompatTheme_windowFixedWidthMajor = 6;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#windowFixedWidthMinor}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#windowFixedWidthMinor}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6618,11 +6618,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ti.infoline:windowFixedWidthMinor
+          @attr name ti.infonline:windowFixedWidthMinor
         */
         public static int AppCompatTheme_windowFixedWidthMinor = 8;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#windowMinWidthMajor}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#windowMinWidthMajor}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6637,11 +6637,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ti.infoline:windowMinWidthMajor
+          @attr name ti.infonline:windowMinWidthMajor
         */
         public static int AppCompatTheme_windowMinWidthMajor = 10;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#windowMinWidthMinor}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#windowMinWidthMinor}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6656,11 +6656,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ti.infoline:windowMinWidthMinor
+          @attr name ti.infonline:windowMinWidthMinor
         */
         public static int AppCompatTheme_windowMinWidthMinor = 11;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#windowNoTitle}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#windowNoTitle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6670,7 +6670,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ti.infoline:windowNoTitle
+          @attr name ti.infonline:windowNoTitle
         */
         public static int AppCompatTheme_windowNoTitle = 3;
         /** Attributes that can be used with a BottomNavigationView.
@@ -6679,11 +6679,11 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #BottomNavigationView_elevation ti.infoline:elevation}</code></td><td></td></tr>
-           <tr><td><code>{@link #BottomNavigationView_itemBackground ti.infoline:itemBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #BottomNavigationView_itemIconTint ti.infoline:itemIconTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #BottomNavigationView_itemTextColor ti.infoline:itemTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #BottomNavigationView_menu ti.infoline:menu}</code></td><td></td></tr>
+           <tr><td><code>{@link #BottomNavigationView_elevation ti.infonline:elevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #BottomNavigationView_itemBackground ti.infonline:itemBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #BottomNavigationView_itemIconTint ti.infonline:itemIconTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #BottomNavigationView_itemTextColor ti.infonline:itemTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #BottomNavigationView_menu ti.infonline:menu}</code></td><td></td></tr>
            </table>
            @see #BottomNavigationView_elevation
            @see #BottomNavigationView_itemBackground
@@ -6696,7 +6696,7 @@ containing a value of this type.
             0x7f01013d
         };
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#elevation}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#elevation}
           attribute's value can be found in the {@link #BottomNavigationView} array.
 
 
@@ -6708,21 +6708,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ti.infoline:elevation
+          @attr name ti.infonline:elevation
         */
         public static int BottomNavigationView_elevation = 0;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#itemBackground}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#itemBackground}
           attribute's value can be found in the {@link #BottomNavigationView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ti.infoline:itemBackground
+          @attr name ti.infonline:itemBackground
         */
         public static int BottomNavigationView_itemBackground = 4;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#itemIconTint}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#itemIconTint}
           attribute's value can be found in the {@link #BottomNavigationView} array.
 
 
@@ -6733,11 +6733,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ti.infoline:itemIconTint
+          @attr name ti.infonline:itemIconTint
         */
         public static int BottomNavigationView_itemIconTint = 2;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#itemTextColor}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#itemTextColor}
           attribute's value can be found in the {@link #BottomNavigationView} array.
 
 
@@ -6748,17 +6748,17 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ti.infoline:itemTextColor
+          @attr name ti.infonline:itemTextColor
         */
         public static int BottomNavigationView_itemTextColor = 3;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#menu}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#menu}
           attribute's value can be found in the {@link #BottomNavigationView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ti.infoline:menu
+          @attr name ti.infonline:menu
         */
         public static int BottomNavigationView_menu = 1;
         /** Attributes that can be used with a BottomSheetBehavior_Layout.
@@ -6767,9 +6767,9 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_hideable ti.infoline:behavior_hideable}</code></td><td></td></tr>
-           <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_peekHeight ti.infoline:behavior_peekHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_skipCollapsed ti.infoline:behavior_skipCollapsed}</code></td><td></td></tr>
+           <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_hideable ti.infonline:behavior_hideable}</code></td><td></td></tr>
+           <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_peekHeight ti.infonline:behavior_peekHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_skipCollapsed ti.infonline:behavior_skipCollapsed}</code></td><td></td></tr>
            </table>
            @see #BottomSheetBehavior_Layout_behavior_hideable
            @see #BottomSheetBehavior_Layout_behavior_peekHeight
@@ -6779,7 +6779,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f010114, 0x7f010115, 0x7f010116
         };
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#behavior_hideable}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#behavior_hideable}
           attribute's value can be found in the {@link #BottomSheetBehavior_Layout} array.
 
 
@@ -6789,11 +6789,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ti.infoline:behavior_hideable
+          @attr name ti.infonline:behavior_hideable
         */
         public static int BottomSheetBehavior_Layout_behavior_hideable = 1;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#behavior_peekHeight}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#behavior_peekHeight}
           attribute's value can be found in the {@link #BottomSheetBehavior_Layout} array.
 
 
@@ -6813,11 +6813,11 @@ containing a value of this type.
 <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
 <tr><td><code>auto</code></td><td>-1</td><td></td></tr>
 </table>
-          @attr name ti.infoline:behavior_peekHeight
+          @attr name ti.infonline:behavior_peekHeight
         */
         public static int BottomSheetBehavior_Layout_behavior_peekHeight = 0;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#behavior_skipCollapsed}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#behavior_skipCollapsed}
           attribute's value can be found in the {@link #BottomSheetBehavior_Layout} array.
 
 
@@ -6827,7 +6827,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ti.infoline:behavior_skipCollapsed
+          @attr name ti.infonline:behavior_skipCollapsed
         */
         public static int BottomSheetBehavior_Layout_behavior_skipCollapsed = 2;
         /** Attributes that can be used with a ButtonBarLayout.
@@ -6836,7 +6836,7 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ButtonBarLayout_allowStacking ti.infoline:allowStacking}</code></td><td></td></tr>
+           <tr><td><code>{@link #ButtonBarLayout_allowStacking ti.infonline:allowStacking}</code></td><td></td></tr>
            </table>
            @see #ButtonBarLayout_allowStacking
          */
@@ -6844,7 +6844,7 @@ containing a value of this type.
             0x7f0100ae
         };
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#allowStacking}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#allowStacking}
           attribute's value can be found in the {@link #ButtonBarLayout} array.
 
 
@@ -6854,7 +6854,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ti.infoline:allowStacking
+          @attr name ti.infonline:allowStacking
         */
         public static int ButtonBarLayout_allowStacking = 0;
         /** Attributes that can be used with a CardView.
@@ -6865,17 +6865,17 @@ containing a value of this type.
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #CardView_android_minHeight android:minHeight}</code></td><td></td></tr>
            <tr><td><code>{@link #CardView_android_minWidth android:minWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #CardView_cardBackgroundColor ti.infoline:cardBackgroundColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #CardView_cardCornerRadius ti.infoline:cardCornerRadius}</code></td><td></td></tr>
-           <tr><td><code>{@link #CardView_cardElevation ti.infoline:cardElevation}</code></td><td></td></tr>
-           <tr><td><code>{@link #CardView_cardMaxElevation ti.infoline:cardMaxElevation}</code></td><td></td></tr>
-           <tr><td><code>{@link #CardView_cardPreventCornerOverlap ti.infoline:cardPreventCornerOverlap}</code></td><td></td></tr>
-           <tr><td><code>{@link #CardView_cardUseCompatPadding ti.infoline:cardUseCompatPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #CardView_contentPadding ti.infoline:contentPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #CardView_contentPaddingBottom ti.infoline:contentPaddingBottom}</code></td><td></td></tr>
-           <tr><td><code>{@link #CardView_contentPaddingLeft ti.infoline:contentPaddingLeft}</code></td><td></td></tr>
-           <tr><td><code>{@link #CardView_contentPaddingRight ti.infoline:contentPaddingRight}</code></td><td></td></tr>
-           <tr><td><code>{@link #CardView_contentPaddingTop ti.infoline:contentPaddingTop}</code></td><td></td></tr>
+           <tr><td><code>{@link #CardView_cardBackgroundColor ti.infonline:cardBackgroundColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #CardView_cardCornerRadius ti.infonline:cardCornerRadius}</code></td><td></td></tr>
+           <tr><td><code>{@link #CardView_cardElevation ti.infonline:cardElevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #CardView_cardMaxElevation ti.infonline:cardMaxElevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #CardView_cardPreventCornerOverlap ti.infonline:cardPreventCornerOverlap}</code></td><td></td></tr>
+           <tr><td><code>{@link #CardView_cardUseCompatPadding ti.infonline:cardUseCompatPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #CardView_contentPadding ti.infonline:contentPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #CardView_contentPaddingBottom ti.infonline:contentPaddingBottom}</code></td><td></td></tr>
+           <tr><td><code>{@link #CardView_contentPaddingLeft ti.infonline:contentPaddingLeft}</code></td><td></td></tr>
+           <tr><td><code>{@link #CardView_contentPaddingRight ti.infonline:contentPaddingRight}</code></td><td></td></tr>
+           <tr><td><code>{@link #CardView_contentPaddingTop ti.infonline:contentPaddingTop}</code></td><td></td></tr>
            </table>
            @see #CardView_android_minHeight
            @see #CardView_android_minWidth
@@ -6910,7 +6910,7 @@ containing a value of this type.
         */
         public static int CardView_android_minWidth = 0;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#cardBackgroundColor}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#cardBackgroundColor}
           attribute's value can be found in the {@link #CardView} array.
 
 
@@ -6921,11 +6921,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ti.infoline:cardBackgroundColor
+          @attr name ti.infonline:cardBackgroundColor
         */
         public static int CardView_cardBackgroundColor = 2;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#cardCornerRadius}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#cardCornerRadius}
           attribute's value can be found in the {@link #CardView} array.
 
 
@@ -6937,11 +6937,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ti.infoline:cardCornerRadius
+          @attr name ti.infonline:cardCornerRadius
         */
         public static int CardView_cardCornerRadius = 3;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#cardElevation}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#cardElevation}
           attribute's value can be found in the {@link #CardView} array.
 
 
@@ -6953,11 +6953,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ti.infoline:cardElevation
+          @attr name ti.infonline:cardElevation
         */
         public static int CardView_cardElevation = 4;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#cardMaxElevation}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#cardMaxElevation}
           attribute's value can be found in the {@link #CardView} array.
 
 
@@ -6969,11 +6969,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ti.infoline:cardMaxElevation
+          @attr name ti.infonline:cardMaxElevation
         */
         public static int CardView_cardMaxElevation = 5;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#cardPreventCornerOverlap}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#cardPreventCornerOverlap}
           attribute's value can be found in the {@link #CardView} array.
 
 
@@ -6983,11 +6983,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ti.infoline:cardPreventCornerOverlap
+          @attr name ti.infonline:cardPreventCornerOverlap
         */
         public static int CardView_cardPreventCornerOverlap = 7;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#cardUseCompatPadding}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#cardUseCompatPadding}
           attribute's value can be found in the {@link #CardView} array.
 
 
@@ -6997,11 +6997,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ti.infoline:cardUseCompatPadding
+          @attr name ti.infonline:cardUseCompatPadding
         */
         public static int CardView_cardUseCompatPadding = 6;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#contentPadding}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#contentPadding}
           attribute's value can be found in the {@link #CardView} array.
 
 
@@ -7013,11 +7013,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ti.infoline:contentPadding
+          @attr name ti.infonline:contentPadding
         */
         public static int CardView_contentPadding = 8;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#contentPaddingBottom}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#contentPaddingBottom}
           attribute's value can be found in the {@link #CardView} array.
 
 
@@ -7029,11 +7029,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ti.infoline:contentPaddingBottom
+          @attr name ti.infonline:contentPaddingBottom
         */
         public static int CardView_contentPaddingBottom = 12;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#contentPaddingLeft}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#contentPaddingLeft}
           attribute's value can be found in the {@link #CardView} array.
 
 
@@ -7045,11 +7045,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ti.infoline:contentPaddingLeft
+          @attr name ti.infonline:contentPaddingLeft
         */
         public static int CardView_contentPaddingLeft = 9;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#contentPaddingRight}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#contentPaddingRight}
           attribute's value can be found in the {@link #CardView} array.
 
 
@@ -7061,11 +7061,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ti.infoline:contentPaddingRight
+          @attr name ti.infonline:contentPaddingRight
         */
         public static int CardView_contentPaddingRight = 10;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#contentPaddingTop}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#contentPaddingTop}
           attribute's value can be found in the {@link #CardView} array.
 
 
@@ -7077,7 +7077,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ti.infoline:contentPaddingTop
+          @attr name ti.infonline:contentPaddingTop
         */
         public static int CardView_contentPaddingTop = 11;
         /** Attributes that can be used with a CollapsingToolbarLayout.
@@ -7086,22 +7086,22 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_collapsedTitleGravity ti.infoline:collapsedTitleGravity}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_collapsedTitleTextAppearance ti.infoline:collapsedTitleTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_contentScrim ti.infoline:contentScrim}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleGravity ti.infoline:expandedTitleGravity}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMargin ti.infoline:expandedTitleMargin}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginBottom ti.infoline:expandedTitleMarginBottom}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginEnd ti.infoline:expandedTitleMarginEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginStart ti.infoline:expandedTitleMarginStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginTop ti.infoline:expandedTitleMarginTop}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleTextAppearance ti.infoline:expandedTitleTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_scrimAnimationDuration ti.infoline:scrimAnimationDuration}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_scrimVisibleHeightTrigger ti.infoline:scrimVisibleHeightTrigger}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_statusBarScrim ti.infoline:statusBarScrim}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_title ti.infoline:title}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_titleEnabled ti.infoline:titleEnabled}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_toolbarId ti.infoline:toolbarId}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_collapsedTitleGravity ti.infonline:collapsedTitleGravity}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_collapsedTitleTextAppearance ti.infonline:collapsedTitleTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_contentScrim ti.infonline:contentScrim}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleGravity ti.infonline:expandedTitleGravity}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMargin ti.infonline:expandedTitleMargin}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginBottom ti.infonline:expandedTitleMarginBottom}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginEnd ti.infonline:expandedTitleMarginEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginStart ti.infonline:expandedTitleMarginStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginTop ti.infonline:expandedTitleMarginTop}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleTextAppearance ti.infonline:expandedTitleTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_scrimAnimationDuration ti.infonline:scrimAnimationDuration}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_scrimVisibleHeightTrigger ti.infonline:scrimVisibleHeightTrigger}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_statusBarScrim ti.infonline:statusBarScrim}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_title ti.infonline:title}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_titleEnabled ti.infonline:titleEnabled}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_toolbarId ti.infonline:toolbarId}</code></td><td></td></tr>
            </table>
            @see #CollapsingToolbarLayout_collapsedTitleGravity
            @see #CollapsingToolbarLayout_collapsedTitleTextAppearance
@@ -7127,7 +7127,7 @@ containing a value of this type.
             0x7f010123, 0x7f010124, 0x7f010125, 0x7f010164
         };
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#collapsedTitleGravity}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#collapsedTitleGravity}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -7148,21 +7148,21 @@ containing a value of this type.
 <tr><td><code>start</code></td><td>0x00800003</td><td></td></tr>
 <tr><td><code>end</code></td><td>0x00800005</td><td></td></tr>
 </table>
-          @attr name ti.infoline:collapsedTitleGravity
+          @attr name ti.infonline:collapsedTitleGravity
         */
         public static int CollapsingToolbarLayout_collapsedTitleGravity = 12;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#collapsedTitleTextAppearance}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#collapsedTitleTextAppearance}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ti.infoline:collapsedTitleTextAppearance
+          @attr name ti.infonline:collapsedTitleTextAppearance
         */
         public static int CollapsingToolbarLayout_collapsedTitleTextAppearance = 6;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#contentScrim}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#contentScrim}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -7173,11 +7173,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ti.infoline:contentScrim
+          @attr name ti.infonline:contentScrim
         */
         public static int CollapsingToolbarLayout_contentScrim = 7;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#expandedTitleGravity}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#expandedTitleGravity}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -7198,11 +7198,11 @@ containing a value of this type.
 <tr><td><code>start</code></td><td>0x00800003</td><td></td></tr>
 <tr><td><code>end</code></td><td>0x00800005</td><td></td></tr>
 </table>
-          @attr name ti.infoline:expandedTitleGravity
+          @attr name ti.infonline:expandedTitleGravity
         */
         public static int CollapsingToolbarLayout_expandedTitleGravity = 13;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#expandedTitleMargin}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#expandedTitleMargin}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -7214,11 +7214,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ti.infoline:expandedTitleMargin
+          @attr name ti.infonline:expandedTitleMargin
         */
         public static int CollapsingToolbarLayout_expandedTitleMargin = 0;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#expandedTitleMarginBottom}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#expandedTitleMarginBottom}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -7230,11 +7230,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ti.infoline:expandedTitleMarginBottom
+          @attr name ti.infonline:expandedTitleMarginBottom
         */
         public static int CollapsingToolbarLayout_expandedTitleMarginBottom = 4;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#expandedTitleMarginEnd}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#expandedTitleMarginEnd}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -7246,11 +7246,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ti.infoline:expandedTitleMarginEnd
+          @attr name ti.infonline:expandedTitleMarginEnd
         */
         public static int CollapsingToolbarLayout_expandedTitleMarginEnd = 3;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#expandedTitleMarginStart}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#expandedTitleMarginStart}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -7262,11 +7262,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ti.infoline:expandedTitleMarginStart
+          @attr name ti.infonline:expandedTitleMarginStart
         */
         public static int CollapsingToolbarLayout_expandedTitleMarginStart = 1;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#expandedTitleMarginTop}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#expandedTitleMarginTop}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -7278,21 +7278,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ti.infoline:expandedTitleMarginTop
+          @attr name ti.infonline:expandedTitleMarginTop
         */
         public static int CollapsingToolbarLayout_expandedTitleMarginTop = 2;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#expandedTitleTextAppearance}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#expandedTitleTextAppearance}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ti.infoline:expandedTitleTextAppearance
+          @attr name ti.infonline:expandedTitleTextAppearance
         */
         public static int CollapsingToolbarLayout_expandedTitleTextAppearance = 5;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#scrimAnimationDuration}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#scrimAnimationDuration}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -7302,11 +7302,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ti.infoline:scrimAnimationDuration
+          @attr name ti.infonline:scrimAnimationDuration
         */
         public static int CollapsingToolbarLayout_scrimAnimationDuration = 11;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#scrimVisibleHeightTrigger}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#scrimVisibleHeightTrigger}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -7318,11 +7318,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ti.infoline:scrimVisibleHeightTrigger
+          @attr name ti.infonline:scrimVisibleHeightTrigger
         */
         public static int CollapsingToolbarLayout_scrimVisibleHeightTrigger = 10;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#statusBarScrim}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#statusBarScrim}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -7333,11 +7333,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ti.infoline:statusBarScrim
+          @attr name ti.infonline:statusBarScrim
         */
         public static int CollapsingToolbarLayout_statusBarScrim = 8;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#title}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#title}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -7347,11 +7347,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ti.infoline:title
+          @attr name ti.infonline:title
         */
         public static int CollapsingToolbarLayout_title = 15;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#titleEnabled}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#titleEnabled}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -7361,17 +7361,17 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ti.infoline:titleEnabled
+          @attr name ti.infonline:titleEnabled
         */
         public static int CollapsingToolbarLayout_titleEnabled = 14;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#toolbarId}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#toolbarId}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ti.infoline:toolbarId
+          @attr name ti.infonline:toolbarId
         */
         public static int CollapsingToolbarLayout_toolbarId = 9;
         /** Attributes that can be used with a CollapsingToolbarLayout_Layout.
@@ -7380,8 +7380,8 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_Layout_layout_collapseMode ti.infoline:layout_collapseMode}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier ti.infoline:layout_collapseParallaxMultiplier}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_Layout_layout_collapseMode ti.infonline:layout_collapseMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier ti.infonline:layout_collapseParallaxMultiplier}</code></td><td></td></tr>
            </table>
            @see #CollapsingToolbarLayout_Layout_layout_collapseMode
            @see #CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier
@@ -7390,7 +7390,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f010126, 0x7f010127
         };
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#layout_collapseMode}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#layout_collapseMode}
           attribute's value can be found in the {@link #CollapsingToolbarLayout_Layout} array.
 
 
@@ -7404,11 +7404,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>pin</code></td><td>1</td><td></td></tr>
 <tr><td><code>parallax</code></td><td>2</td><td></td></tr>
 </table>
-          @attr name ti.infoline:layout_collapseMode
+          @attr name ti.infonline:layout_collapseMode
         */
         public static int CollapsingToolbarLayout_Layout_layout_collapseMode = 0;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#layout_collapseParallaxMultiplier}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#layout_collapseParallaxMultiplier}
           attribute's value can be found in the {@link #CollapsingToolbarLayout_Layout} array.
 
 
@@ -7418,7 +7418,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ti.infoline:layout_collapseParallaxMultiplier
+          @attr name ti.infonline:layout_collapseParallaxMultiplier
         */
         public static int CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier = 1;
         /** Attributes that can be used with a ColorStateListItem.
@@ -7427,7 +7427,7 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ColorStateListItem_alpha ti.infoline:alpha}</code></td><td></td></tr>
+           <tr><td><code>{@link #ColorStateListItem_alpha ti.infonline:alpha}</code></td><td></td></tr>
            <tr><td><code>{@link #ColorStateListItem_android_alpha android:alpha}</code></td><td></td></tr>
            <tr><td><code>{@link #ColorStateListItem_android_color android:color}</code></td><td></td></tr>
            </table>
@@ -7439,7 +7439,7 @@ containing a value of this type.
             0x010101a5, 0x0101031f, 0x7f0100af
         };
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#alpha}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#alpha}
           attribute's value can be found in the {@link #ColorStateListItem} array.
 
 
@@ -7449,7 +7449,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ti.infoline:alpha
+          @attr name ti.infonline:alpha
         */
         public static int ColorStateListItem_alpha = 2;
         /**
@@ -7471,8 +7471,8 @@ containing a value of this type.
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #CompoundButton_android_button android:button}</code></td><td></td></tr>
-           <tr><td><code>{@link #CompoundButton_buttonTint ti.infoline:buttonTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #CompoundButton_buttonTintMode ti.infoline:buttonTintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #CompoundButton_buttonTint ti.infonline:buttonTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #CompoundButton_buttonTintMode ti.infonline:buttonTintMode}</code></td><td></td></tr>
            </table>
            @see #CompoundButton_android_button
            @see #CompoundButton_buttonTint
@@ -7488,7 +7488,7 @@ containing a value of this type.
         */
         public static int CompoundButton_android_button = 0;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#buttonTint}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#buttonTint}
           attribute's value can be found in the {@link #CompoundButton} array.
 
 
@@ -7499,11 +7499,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ti.infoline:buttonTint
+          @attr name ti.infonline:buttonTint
         */
         public static int CompoundButton_buttonTint = 1;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#buttonTintMode}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#buttonTintMode}
           attribute's value can be found in the {@link #CompoundButton} array.
 
 
@@ -7519,7 +7519,7 @@ containing a value of this type.
 <tr><td><code>multiply</code></td><td>14</td><td></td></tr>
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 </table>
-          @attr name ti.infoline:buttonTintMode
+          @attr name ti.infonline:buttonTintMode
         */
         public static int CompoundButton_buttonTintMode = 2;
         /** Attributes that can be used with a CoordinatorLayout.
@@ -7528,8 +7528,8 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #CoordinatorLayout_keylines ti.infoline:keylines}</code></td><td></td></tr>
-           <tr><td><code>{@link #CoordinatorLayout_statusBarBackground ti.infoline:statusBarBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #CoordinatorLayout_keylines ti.infonline:keylines}</code></td><td></td></tr>
+           <tr><td><code>{@link #CoordinatorLayout_statusBarBackground ti.infonline:statusBarBackground}</code></td><td></td></tr>
            </table>
            @see #CoordinatorLayout_keylines
            @see #CoordinatorLayout_statusBarBackground
@@ -7538,23 +7538,23 @@ containing a value of this type.
             0x7f010128, 0x7f010129
         };
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#keylines}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#keylines}
           attribute's value can be found in the {@link #CoordinatorLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ti.infoline:keylines
+          @attr name ti.infonline:keylines
         */
         public static int CoordinatorLayout_keylines = 0;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#statusBarBackground}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#statusBarBackground}
           attribute's value can be found in the {@link #CoordinatorLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ti.infoline:statusBarBackground
+          @attr name ti.infonline:statusBarBackground
         */
         public static int CoordinatorLayout_statusBarBackground = 1;
         /** Attributes that can be used with a CoordinatorLayout_Layout.
@@ -7564,12 +7564,12 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #CoordinatorLayout_Layout_android_layout_gravity android:layout_gravity}</code></td><td></td></tr>
-           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_anchor ti.infoline:layout_anchor}</code></td><td></td></tr>
-           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_anchorGravity ti.infoline:layout_anchorGravity}</code></td><td></td></tr>
-           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_behavior ti.infoline:layout_behavior}</code></td><td></td></tr>
-           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_dodgeInsetEdges ti.infoline:layout_dodgeInsetEdges}</code></td><td></td></tr>
-           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_insetEdge ti.infoline:layout_insetEdge}</code></td><td></td></tr>
-           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_keyline ti.infoline:layout_keyline}</code></td><td></td></tr>
+           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_anchor ti.infonline:layout_anchor}</code></td><td></td></tr>
+           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_anchorGravity ti.infonline:layout_anchorGravity}</code></td><td></td></tr>
+           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_behavior ti.infonline:layout_behavior}</code></td><td></td></tr>
+           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_dodgeInsetEdges ti.infonline:layout_dodgeInsetEdges}</code></td><td></td></tr>
+           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_insetEdge ti.infonline:layout_insetEdge}</code></td><td></td></tr>
+           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_keyline ti.infonline:layout_keyline}</code></td><td></td></tr>
            </table>
            @see #CoordinatorLayout_Layout_android_layout_gravity
            @see #CoordinatorLayout_Layout_layout_anchor
@@ -7590,17 +7590,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static int CoordinatorLayout_Layout_android_layout_gravity = 0;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#layout_anchor}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#layout_anchor}
           attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ti.infoline:layout_anchor
+          @attr name ti.infonline:layout_anchor
         */
         public static int CoordinatorLayout_Layout_layout_anchor = 2;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#layout_anchorGravity}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#layout_anchorGravity}
           attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
 
 
@@ -7625,11 +7625,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>start</code></td><td>0x00800003</td><td></td></tr>
 <tr><td><code>end</code></td><td>0x00800005</td><td></td></tr>
 </table>
-          @attr name ti.infoline:layout_anchorGravity
+          @attr name ti.infonline:layout_anchorGravity
         */
         public static int CoordinatorLayout_Layout_layout_anchorGravity = 4;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#layout_behavior}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#layout_behavior}
           attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
 
 
@@ -7639,11 +7639,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ti.infoline:layout_behavior
+          @attr name ti.infonline:layout_behavior
         */
         public static int CoordinatorLayout_Layout_layout_behavior = 1;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#layout_dodgeInsetEdges}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#layout_dodgeInsetEdges}
           attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
 
 
@@ -7662,11 +7662,11 @@ containing a value of this type.
 <tr><td><code>end</code></td><td>0x00800005</td><td></td></tr>
 <tr><td><code>all</code></td><td>0x77</td><td></td></tr>
 </table>
-          @attr name ti.infoline:layout_dodgeInsetEdges
+          @attr name ti.infonline:layout_dodgeInsetEdges
         */
         public static int CoordinatorLayout_Layout_layout_dodgeInsetEdges = 6;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#layout_insetEdge}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#layout_insetEdge}
           attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
 
 
@@ -7684,11 +7684,11 @@ containing a value of this type.
 <tr><td><code>start</code></td><td>0x00800003</td><td></td></tr>
 <tr><td><code>end</code></td><td>0x00800005</td><td></td></tr>
 </table>
-          @attr name ti.infoline:layout_insetEdge
+          @attr name ti.infonline:layout_insetEdge
         */
         public static int CoordinatorLayout_Layout_layout_insetEdge = 5;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#layout_keyline}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#layout_keyline}
           attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
 
 
@@ -7698,7 +7698,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ti.infoline:layout_keyline
+          @attr name ti.infonline:layout_keyline
         */
         public static int CoordinatorLayout_Layout_layout_keyline = 3;
         /** Attributes that can be used with a DesignTheme.
@@ -7707,9 +7707,9 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #DesignTheme_bottomSheetDialogTheme ti.infoline:bottomSheetDialogTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #DesignTheme_bottomSheetStyle ti.infoline:bottomSheetStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #DesignTheme_textColorError ti.infoline:textColorError}</code></td><td></td></tr>
+           <tr><td><code>{@link #DesignTheme_bottomSheetDialogTheme ti.infonline:bottomSheetDialogTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #DesignTheme_bottomSheetStyle ti.infonline:bottomSheetStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #DesignTheme_textColorError ti.infonline:textColorError}</code></td><td></td></tr>
            </table>
            @see #DesignTheme_bottomSheetDialogTheme
            @see #DesignTheme_bottomSheetStyle
@@ -7719,27 +7719,27 @@ containing a value of this type.
             0x7f010130, 0x7f010131, 0x7f010132
         };
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#bottomSheetDialogTheme}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#bottomSheetDialogTheme}
           attribute's value can be found in the {@link #DesignTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ti.infoline:bottomSheetDialogTheme
+          @attr name ti.infonline:bottomSheetDialogTheme
         */
         public static int DesignTheme_bottomSheetDialogTheme = 0;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#bottomSheetStyle}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#bottomSheetStyle}
           attribute's value can be found in the {@link #DesignTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ti.infoline:bottomSheetStyle
+          @attr name ti.infonline:bottomSheetStyle
         */
         public static int DesignTheme_bottomSheetStyle = 1;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#textColorError}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#textColorError}
           attribute's value can be found in the {@link #DesignTheme} array.
 
 
@@ -7747,7 +7747,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name ti.infoline:textColorError
+          @attr name ti.infonline:textColorError
         */
         public static int DesignTheme_textColorError = 2;
         /** Attributes that can be used with a DrawerArrowToggle.
@@ -7756,14 +7756,14 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_arrowHeadLength ti.infoline:arrowHeadLength}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_arrowShaftLength ti.infoline:arrowShaftLength}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_barLength ti.infoline:barLength}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_color ti.infoline:color}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_drawableSize ti.infoline:drawableSize}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_gapBetweenBars ti.infoline:gapBetweenBars}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_spinBars ti.infoline:spinBars}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_thickness ti.infoline:thickness}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_arrowHeadLength ti.infonline:arrowHeadLength}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_arrowShaftLength ti.infonline:arrowShaftLength}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_barLength ti.infonline:barLength}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_color ti.infonline:color}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_drawableSize ti.infonline:drawableSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_gapBetweenBars ti.infonline:gapBetweenBars}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_spinBars ti.infonline:spinBars}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_thickness ti.infonline:thickness}</code></td><td></td></tr>
            </table>
            @see #DrawerArrowToggle_arrowHeadLength
            @see #DrawerArrowToggle_arrowShaftLength
@@ -7779,7 +7779,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f0100b6, 0x7f0100b7, 0x7f0100b8, 0x7f0100b9
         };
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#arrowHeadLength}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#arrowHeadLength}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -7791,11 +7791,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ti.infoline:arrowHeadLength
+          @attr name ti.infonline:arrowHeadLength
         */
         public static int DrawerArrowToggle_arrowHeadLength = 4;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#arrowShaftLength}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#arrowShaftLength}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -7807,11 +7807,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ti.infoline:arrowShaftLength
+          @attr name ti.infonline:arrowShaftLength
         */
         public static int DrawerArrowToggle_arrowShaftLength = 5;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#barLength}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#barLength}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -7823,11 +7823,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ti.infoline:barLength
+          @attr name ti.infonline:barLength
         */
         public static int DrawerArrowToggle_barLength = 6;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#color}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#color}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -7838,11 +7838,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ti.infoline:color
+          @attr name ti.infonline:color
         */
         public static int DrawerArrowToggle_color = 0;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#drawableSize}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#drawableSize}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -7854,11 +7854,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ti.infoline:drawableSize
+          @attr name ti.infonline:drawableSize
         */
         public static int DrawerArrowToggle_drawableSize = 2;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#gapBetweenBars}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#gapBetweenBars}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -7870,11 +7870,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ti.infoline:gapBetweenBars
+          @attr name ti.infonline:gapBetweenBars
         */
         public static int DrawerArrowToggle_gapBetweenBars = 3;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#spinBars}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#spinBars}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -7884,11 +7884,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ti.infoline:spinBars
+          @attr name ti.infonline:spinBars
         */
         public static int DrawerArrowToggle_spinBars = 1;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#thickness}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#thickness}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -7900,7 +7900,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ti.infoline:thickness
+          @attr name ti.infonline:thickness
         */
         public static int DrawerArrowToggle_thickness = 7;
         /** Attributes that can be used with a FloatingActionButton.
@@ -7909,14 +7909,14 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #FloatingActionButton_backgroundTint ti.infoline:backgroundTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionButton_backgroundTintMode ti.infoline:backgroundTintMode}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionButton_borderWidth ti.infoline:borderWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionButton_elevation ti.infoline:elevation}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionButton_fabSize ti.infoline:fabSize}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionButton_pressedTranslationZ ti.infoline:pressedTranslationZ}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionButton_rippleColor ti.infoline:rippleColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionButton_useCompatPadding ti.infoline:useCompatPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_backgroundTint ti.infonline:backgroundTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_backgroundTintMode ti.infonline:backgroundTintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_borderWidth ti.infonline:borderWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_elevation ti.infonline:elevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_fabSize ti.infonline:fabSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_pressedTranslationZ ti.infonline:pressedTranslationZ}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_rippleColor ti.infonline:rippleColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_useCompatPadding ti.infonline:useCompatPadding}</code></td><td></td></tr>
            </table>
            @see #FloatingActionButton_backgroundTint
            @see #FloatingActionButton_backgroundTintMode
@@ -7932,7 +7932,7 @@ containing a value of this type.
             0x7f010134, 0x7f010135, 0x7f010136, 0x7f010137
         };
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#backgroundTint}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#backgroundTint}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -7943,11 +7943,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ti.infoline:backgroundTint
+          @attr name ti.infonline:backgroundTint
         */
         public static int FloatingActionButton_backgroundTint = 1;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#backgroundTintMode}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#backgroundTintMode}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -7963,11 +7963,11 @@ containing a value of this type.
 <tr><td><code>multiply</code></td><td>14</td><td></td></tr>
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 </table>
-          @attr name ti.infoline:backgroundTintMode
+          @attr name ti.infonline:backgroundTintMode
         */
         public static int FloatingActionButton_backgroundTintMode = 2;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#borderWidth}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#borderWidth}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -7979,11 +7979,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ti.infoline:borderWidth
+          @attr name ti.infonline:borderWidth
         */
         public static int FloatingActionButton_borderWidth = 6;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#elevation}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#elevation}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -7995,11 +7995,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ti.infoline:elevation
+          @attr name ti.infonline:elevation
         */
         public static int FloatingActionButton_elevation = 0;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#fabSize}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#fabSize}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -8013,11 +8013,11 @@ containing a value of this type.
 <tr><td><code>normal</code></td><td>0</td><td></td></tr>
 <tr><td><code>mini</code></td><td>1</td><td></td></tr>
 </table>
-          @attr name ti.infoline:fabSize
+          @attr name ti.infonline:fabSize
         */
         public static int FloatingActionButton_fabSize = 4;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#pressedTranslationZ}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#pressedTranslationZ}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -8029,11 +8029,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ti.infoline:pressedTranslationZ
+          @attr name ti.infonline:pressedTranslationZ
         */
         public static int FloatingActionButton_pressedTranslationZ = 5;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#rippleColor}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#rippleColor}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -8044,11 +8044,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ti.infoline:rippleColor
+          @attr name ti.infonline:rippleColor
         */
         public static int FloatingActionButton_rippleColor = 3;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#useCompatPadding}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#useCompatPadding}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -8058,7 +8058,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ti.infoline:useCompatPadding
+          @attr name ti.infonline:useCompatPadding
         */
         public static int FloatingActionButton_useCompatPadding = 7;
         /** Attributes that can be used with a FloatingActionButton_Behavior_Layout.
@@ -8067,7 +8067,7 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #FloatingActionButton_Behavior_Layout_behavior_autoHide ti.infoline:behavior_autoHide}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_Behavior_Layout_behavior_autoHide ti.infonline:behavior_autoHide}</code></td><td></td></tr>
            </table>
            @see #FloatingActionButton_Behavior_Layout_behavior_autoHide
          */
@@ -8075,7 +8075,7 @@ containing a value of this type.
             0x7f010138
         };
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#behavior_autoHide}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#behavior_autoHide}
           attribute's value can be found in the {@link #FloatingActionButton_Behavior_Layout} array.
 
 
@@ -8085,7 +8085,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ti.infoline:behavior_autoHide
+          @attr name ti.infonline:behavior_autoHide
         */
         public static int FloatingActionButton_Behavior_Layout_behavior_autoHide = 0;
         /** Attributes that can be used with a FontFamily.
@@ -8094,12 +8094,12 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #FontFamily_fontProviderAuthority ti.infoline:fontProviderAuthority}</code></td><td></td></tr>
-           <tr><td><code>{@link #FontFamily_fontProviderCerts ti.infoline:fontProviderCerts}</code></td><td></td></tr>
-           <tr><td><code>{@link #FontFamily_fontProviderFetchStrategy ti.infoline:fontProviderFetchStrategy}</code></td><td></td></tr>
-           <tr><td><code>{@link #FontFamily_fontProviderFetchTimeout ti.infoline:fontProviderFetchTimeout}</code></td><td></td></tr>
-           <tr><td><code>{@link #FontFamily_fontProviderPackage ti.infoline:fontProviderPackage}</code></td><td></td></tr>
-           <tr><td><code>{@link #FontFamily_fontProviderQuery ti.infoline:fontProviderQuery}</code></td><td></td></tr>
+           <tr><td><code>{@link #FontFamily_fontProviderAuthority ti.infonline:fontProviderAuthority}</code></td><td></td></tr>
+           <tr><td><code>{@link #FontFamily_fontProviderCerts ti.infonline:fontProviderCerts}</code></td><td></td></tr>
+           <tr><td><code>{@link #FontFamily_fontProviderFetchStrategy ti.infonline:fontProviderFetchStrategy}</code></td><td></td></tr>
+           <tr><td><code>{@link #FontFamily_fontProviderFetchTimeout ti.infonline:fontProviderFetchTimeout}</code></td><td></td></tr>
+           <tr><td><code>{@link #FontFamily_fontProviderPackage ti.infonline:fontProviderPackage}</code></td><td></td></tr>
+           <tr><td><code>{@link #FontFamily_fontProviderQuery ti.infonline:fontProviderQuery}</code></td><td></td></tr>
            </table>
            @see #FontFamily_fontProviderAuthority
            @see #FontFamily_fontProviderCerts
@@ -8113,7 +8113,7 @@ containing a value of this type.
             0x7f01010a, 0x7f01010b
         };
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#fontProviderAuthority}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#fontProviderAuthority}
           attribute's value can be found in the {@link #FontFamily} array.
 
 
@@ -8123,21 +8123,21 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ti.infoline:fontProviderAuthority
+          @attr name ti.infonline:fontProviderAuthority
         */
         public static int FontFamily_fontProviderAuthority = 0;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#fontProviderCerts}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#fontProviderCerts}
           attribute's value can be found in the {@link #FontFamily} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ti.infoline:fontProviderCerts
+          @attr name ti.infonline:fontProviderCerts
         */
         public static int FontFamily_fontProviderCerts = 3;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#fontProviderFetchStrategy}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#fontProviderFetchStrategy}
           attribute's value can be found in the {@link #FontFamily} array.
 
 
@@ -8150,11 +8150,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>blocking</code></td><td>0</td><td></td></tr>
 <tr><td><code>async</code></td><td>1</td><td></td></tr>
 </table>
-          @attr name ti.infoline:fontProviderFetchStrategy
+          @attr name ti.infonline:fontProviderFetchStrategy
         */
         public static int FontFamily_fontProviderFetchStrategy = 4;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#fontProviderFetchTimeout}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#fontProviderFetchTimeout}
           attribute's value can be found in the {@link #FontFamily} array.
 
 
@@ -8172,11 +8172,11 @@ containing a value of this type.
 <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
 <tr><td><code>forever</code></td><td>-1</td><td></td></tr>
 </table>
-          @attr name ti.infoline:fontProviderFetchTimeout
+          @attr name ti.infonline:fontProviderFetchTimeout
         */
         public static int FontFamily_fontProviderFetchTimeout = 5;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#fontProviderPackage}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#fontProviderPackage}
           attribute's value can be found in the {@link #FontFamily} array.
 
 
@@ -8186,11 +8186,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ti.infoline:fontProviderPackage
+          @attr name ti.infonline:fontProviderPackage
         */
         public static int FontFamily_fontProviderPackage = 1;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#fontProviderQuery}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#fontProviderQuery}
           attribute's value can be found in the {@link #FontFamily} array.
 
 
@@ -8200,7 +8200,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ti.infoline:fontProviderQuery
+          @attr name ti.infonline:fontProviderQuery
         */
         public static int FontFamily_fontProviderQuery = 2;
         /** Attributes that can be used with a FontFamilyFont.
@@ -8209,9 +8209,9 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #FontFamilyFont_font ti.infoline:font}</code></td><td></td></tr>
-           <tr><td><code>{@link #FontFamilyFont_fontStyle ti.infoline:fontStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #FontFamilyFont_fontWeight ti.infoline:fontWeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #FontFamilyFont_font ti.infonline:font}</code></td><td></td></tr>
+           <tr><td><code>{@link #FontFamilyFont_fontStyle ti.infonline:fontStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #FontFamilyFont_fontWeight ti.infonline:fontWeight}</code></td><td></td></tr>
            </table>
            @see #FontFamilyFont_font
            @see #FontFamilyFont_fontStyle
@@ -8221,17 +8221,17 @@ containing a value of this type.
             0x7f01010c, 0x7f01010d, 0x7f01010e
         };
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#font}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#font}
           attribute's value can be found in the {@link #FontFamilyFont} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ti.infoline:font
+          @attr name ti.infonline:font
         */
         public static int FontFamilyFont_font = 1;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#fontStyle}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#fontStyle}
           attribute's value can be found in the {@link #FontFamilyFont} array.
 
 
@@ -8244,11 +8244,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>normal</code></td><td>0</td><td></td></tr>
 <tr><td><code>italic</code></td><td>1</td><td></td></tr>
 </table>
-          @attr name ti.infoline:fontStyle
+          @attr name ti.infonline:fontStyle
         */
         public static int FontFamilyFont_fontStyle = 0;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#fontWeight}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#fontWeight}
           attribute's value can be found in the {@link #FontFamilyFont} array.
 
 
@@ -8258,7 +8258,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ti.infoline:fontWeight
+          @attr name ti.infonline:fontWeight
         */
         public static int FontFamilyFont_fontWeight = 2;
         /** Attributes that can be used with a ForegroundLinearLayout.
@@ -8269,7 +8269,7 @@ containing a value of this type.
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #ForegroundLinearLayout_android_foreground android:foreground}</code></td><td></td></tr>
            <tr><td><code>{@link #ForegroundLinearLayout_android_foregroundGravity android:foregroundGravity}</code></td><td></td></tr>
-           <tr><td><code>{@link #ForegroundLinearLayout_foregroundInsidePadding ti.infoline:foregroundInsidePadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #ForegroundLinearLayout_foregroundInsidePadding ti.infonline:foregroundInsidePadding}</code></td><td></td></tr>
            </table>
            @see #ForegroundLinearLayout_android_foreground
            @see #ForegroundLinearLayout_android_foregroundGravity
@@ -8291,7 +8291,7 @@ containing a value of this type.
         */
         public static int ForegroundLinearLayout_android_foregroundGravity = 1;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#foregroundInsidePadding}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#foregroundInsidePadding}
           attribute's value can be found in the {@link #ForegroundLinearLayout} array.
 
 
@@ -8301,7 +8301,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ti.infoline:foregroundInsidePadding
+          @attr name ti.infonline:foregroundInsidePadding
         */
         public static int ForegroundLinearLayout_foregroundInsidePadding = 2;
         /** Attributes that can be used with a LinearLayoutCompat.
@@ -8315,10 +8315,10 @@ containing a value of this type.
            <tr><td><code>{@link #LinearLayoutCompat_android_gravity android:gravity}</code></td><td></td></tr>
            <tr><td><code>{@link #LinearLayoutCompat_android_orientation android:orientation}</code></td><td></td></tr>
            <tr><td><code>{@link #LinearLayoutCompat_android_weightSum android:weightSum}</code></td><td></td></tr>
-           <tr><td><code>{@link #LinearLayoutCompat_divider ti.infoline:divider}</code></td><td></td></tr>
-           <tr><td><code>{@link #LinearLayoutCompat_dividerPadding ti.infoline:dividerPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #LinearLayoutCompat_measureWithLargestChild ti.infoline:measureWithLargestChild}</code></td><td></td></tr>
-           <tr><td><code>{@link #LinearLayoutCompat_showDividers ti.infoline:showDividers}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinearLayoutCompat_divider ti.infonline:divider}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinearLayoutCompat_dividerPadding ti.infonline:dividerPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinearLayoutCompat_measureWithLargestChild ti.infonline:measureWithLargestChild}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinearLayoutCompat_showDividers ti.infonline:showDividers}</code></td><td></td></tr>
            </table>
            @see #LinearLayoutCompat_android_baselineAligned
            @see #LinearLayoutCompat_android_baselineAlignedChildIndex
@@ -8366,17 +8366,17 @@ containing a value of this type.
         */
         public static int LinearLayoutCompat_android_weightSum = 4;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#divider}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#divider}
           attribute's value can be found in the {@link #LinearLayoutCompat} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ti.infoline:divider
+          @attr name ti.infonline:divider
         */
         public static int LinearLayoutCompat_divider = 5;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#dividerPadding}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#dividerPadding}
           attribute's value can be found in the {@link #LinearLayoutCompat} array.
 
 
@@ -8388,11 +8388,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ti.infoline:dividerPadding
+          @attr name ti.infonline:dividerPadding
         */
         public static int LinearLayoutCompat_dividerPadding = 8;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#measureWithLargestChild}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#measureWithLargestChild}
           attribute's value can be found in the {@link #LinearLayoutCompat} array.
 
 
@@ -8402,11 +8402,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ti.infoline:measureWithLargestChild
+          @attr name ti.infonline:measureWithLargestChild
         */
         public static int LinearLayoutCompat_measureWithLargestChild = 6;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#showDividers}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#showDividers}
           attribute's value can be found in the {@link #LinearLayoutCompat} array.
 
 
@@ -8421,7 +8421,7 @@ containing a value of this type.
 <tr><td><code>middle</code></td><td>2</td><td></td></tr>
 <tr><td><code>end</code></td><td>4</td><td></td></tr>
 </table>
-          @attr name ti.infoline:showDividers
+          @attr name ti.infonline:showDividers
         */
         public static int LinearLayoutCompat_showDividers = 7;
         /** Attributes that can be used with a LinearLayoutCompat_Layout.
@@ -8560,10 +8560,10 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #MenuItem_actionLayout ti.infoline:actionLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuItem_actionProviderClass ti.infoline:actionProviderClass}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuItem_actionViewClass ti.infoline:actionViewClass}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuItem_alphabeticModifiers ti.infoline:alphabeticModifiers}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuItem_actionLayout ti.infonline:actionLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuItem_actionProviderClass ti.infonline:actionProviderClass}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuItem_actionViewClass ti.infonline:actionViewClass}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuItem_alphabeticModifiers ti.infonline:alphabeticModifiers}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_alphabeticShortcut android:alphabeticShortcut}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_checkable android:checkable}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_checked android:checked}</code></td><td></td></tr>
@@ -8577,12 +8577,12 @@ containing a value of this type.
            <tr><td><code>{@link #MenuItem_android_title android:title}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_titleCondensed android:titleCondensed}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_visible android:visible}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuItem_contentDescription ti.infoline:contentDescription}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuItem_iconTint ti.infoline:iconTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuItem_iconTintMode ti.infoline:iconTintMode}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuItem_numericModifiers ti.infoline:numericModifiers}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuItem_showAsAction ti.infoline:showAsAction}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuItem_tooltipText ti.infoline:tooltipText}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuItem_contentDescription ti.infonline:contentDescription}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuItem_iconTint ti.infonline:iconTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuItem_iconTintMode ti.infonline:iconTintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuItem_numericModifiers ti.infonline:numericModifiers}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuItem_showAsAction ti.infonline:showAsAction}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuItem_tooltipText ti.infonline:tooltipText}</code></td><td></td></tr>
            </table>
            @see #MenuItem_actionLayout
            @see #MenuItem_actionProviderClass
@@ -8617,17 +8617,17 @@ containing a value of this type.
             0x7f0100c4, 0x7f0100c5, 0x7f0100c6
         };
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#actionLayout}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#actionLayout}
           attribute's value can be found in the {@link #MenuItem} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ti.infoline:actionLayout
+          @attr name ti.infonline:actionLayout
         */
         public static int MenuItem_actionLayout = 16;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#actionProviderClass}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#actionProviderClass}
           attribute's value can be found in the {@link #MenuItem} array.
 
 
@@ -8637,11 +8637,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ti.infoline:actionProviderClass
+          @attr name ti.infonline:actionProviderClass
         */
         public static int MenuItem_actionProviderClass = 18;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#actionViewClass}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#actionViewClass}
           attribute's value can be found in the {@link #MenuItem} array.
 
 
@@ -8651,11 +8651,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ti.infoline:actionViewClass
+          @attr name ti.infonline:actionViewClass
         */
         public static int MenuItem_actionViewClass = 17;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#alphabeticModifiers}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#alphabeticModifiers}
           attribute's value can be found in the {@link #MenuItem} array.
 
 
@@ -8672,7 +8672,7 @@ containing a value of this type.
 <tr><td><code>SYM</code></td><td>0x4</td><td></td></tr>
 <tr><td><code>FUNCTION</code></td><td>0x8</td><td></td></tr>
 </table>
-          @attr name ti.infoline:alphabeticModifiers
+          @attr name ti.infonline:alphabeticModifiers
         */
         public static int MenuItem_alphabeticModifiers = 13;
         /**
@@ -8754,7 +8754,7 @@ containing a value of this type.
         */
         public static int MenuItem_android_visible = 4;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#contentDescription}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#contentDescription}
           attribute's value can be found in the {@link #MenuItem} array.
 
 
@@ -8764,11 +8764,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ti.infoline:contentDescription
+          @attr name ti.infonline:contentDescription
         */
         public static int MenuItem_contentDescription = 19;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#iconTint}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#iconTint}
           attribute's value can be found in the {@link #MenuItem} array.
 
 
@@ -8779,11 +8779,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ti.infoline:iconTint
+          @attr name ti.infonline:iconTint
         */
         public static int MenuItem_iconTint = 21;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#iconTintMode}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#iconTintMode}
           attribute's value can be found in the {@link #MenuItem} array.
 
 
@@ -8800,11 +8800,11 @@ containing a value of this type.
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 <tr><td><code>add</code></td><td>16</td><td></td></tr>
 </table>
-          @attr name ti.infoline:iconTintMode
+          @attr name ti.infonline:iconTintMode
         */
         public static int MenuItem_iconTintMode = 22;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#numericModifiers}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#numericModifiers}
           attribute's value can be found in the {@link #MenuItem} array.
 
 
@@ -8821,11 +8821,11 @@ containing a value of this type.
 <tr><td><code>SYM</code></td><td>0x4</td><td></td></tr>
 <tr><td><code>FUNCTION</code></td><td>0x8</td><td></td></tr>
 </table>
-          @attr name ti.infoline:numericModifiers
+          @attr name ti.infonline:numericModifiers
         */
         public static int MenuItem_numericModifiers = 14;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#showAsAction}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#showAsAction}
           attribute's value can be found in the {@link #MenuItem} array.
 
 
@@ -8841,11 +8841,11 @@ containing a value of this type.
 <tr><td><code>withText</code></td><td>4</td><td></td></tr>
 <tr><td><code>collapseActionView</code></td><td>8</td><td></td></tr>
 </table>
-          @attr name ti.infoline:showAsAction
+          @attr name ti.infonline:showAsAction
         */
         public static int MenuItem_showAsAction = 15;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#tooltipText}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#tooltipText}
           attribute's value can be found in the {@link #MenuItem} array.
 
 
@@ -8855,7 +8855,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ti.infoline:tooltipText
+          @attr name ti.infonline:tooltipText
         */
         public static int MenuItem_tooltipText = 20;
         /** Attributes that can be used with a MenuView.
@@ -8871,8 +8871,8 @@ containing a value of this type.
            <tr><td><code>{@link #MenuView_android_itemTextAppearance android:itemTextAppearance}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuView_android_verticalDivider android:verticalDivider}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuView_android_windowAnimationStyle android:windowAnimationStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuView_preserveIconSpacing ti.infoline:preserveIconSpacing}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuView_subMenuArrow ti.infoline:subMenuArrow}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuView_preserveIconSpacing ti.infonline:preserveIconSpacing}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuView_subMenuArrow ti.infonline:subMenuArrow}</code></td><td></td></tr>
            </table>
            @see #MenuView_android_headerBackground
            @see #MenuView_android_horizontalDivider
@@ -8932,7 +8932,7 @@ containing a value of this type.
         */
         public static int MenuView_android_windowAnimationStyle = 0;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#preserveIconSpacing}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#preserveIconSpacing}
           attribute's value can be found in the {@link #MenuView} array.
 
 
@@ -8942,17 +8942,17 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ti.infoline:preserveIconSpacing
+          @attr name ti.infonline:preserveIconSpacing
         */
         public static int MenuView_preserveIconSpacing = 7;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#subMenuArrow}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#subMenuArrow}
           attribute's value can be found in the {@link #MenuView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ti.infoline:subMenuArrow
+          @attr name ti.infonline:subMenuArrow
         */
         public static int MenuView_subMenuArrow = 8;
         /** Attributes that can be used with a NavigationView.
@@ -8964,13 +8964,13 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <tr><td><code>{@link #NavigationView_android_background android:background}</code></td><td></td></tr>
            <tr><td><code>{@link #NavigationView_android_fitsSystemWindows android:fitsSystemWindows}</code></td><td></td></tr>
            <tr><td><code>{@link #NavigationView_android_maxWidth android:maxWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #NavigationView_elevation ti.infoline:elevation}</code></td><td></td></tr>
-           <tr><td><code>{@link #NavigationView_headerLayout ti.infoline:headerLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #NavigationView_itemBackground ti.infoline:itemBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #NavigationView_itemIconTint ti.infoline:itemIconTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #NavigationView_itemTextAppearance ti.infoline:itemTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #NavigationView_itemTextColor ti.infoline:itemTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #NavigationView_menu ti.infoline:menu}</code></td><td></td></tr>
+           <tr><td><code>{@link #NavigationView_elevation ti.infonline:elevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #NavigationView_headerLayout ti.infonline:headerLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #NavigationView_itemBackground ti.infonline:itemBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #NavigationView_itemIconTint ti.infonline:itemIconTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #NavigationView_itemTextAppearance ti.infonline:itemTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #NavigationView_itemTextColor ti.infonline:itemTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #NavigationView_menu ti.infonline:menu}</code></td><td></td></tr>
            </table>
            @see #NavigationView_android_background
            @see #NavigationView_android_fitsSystemWindows
@@ -9007,7 +9007,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static int NavigationView_android_maxWidth = 2;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#elevation}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#elevation}
           attribute's value can be found in the {@link #NavigationView} array.
 
 
@@ -9019,31 +9019,31 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ti.infoline:elevation
+          @attr name ti.infonline:elevation
         */
         public static int NavigationView_elevation = 3;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#headerLayout}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#headerLayout}
           attribute's value can be found in the {@link #NavigationView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ti.infoline:headerLayout
+          @attr name ti.infonline:headerLayout
         */
         public static int NavigationView_headerLayout = 9;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#itemBackground}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#itemBackground}
           attribute's value can be found in the {@link #NavigationView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ti.infoline:itemBackground
+          @attr name ti.infonline:itemBackground
         */
         public static int NavigationView_itemBackground = 7;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#itemIconTint}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#itemIconTint}
           attribute's value can be found in the {@link #NavigationView} array.
 
 
@@ -9054,21 +9054,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ti.infoline:itemIconTint
+          @attr name ti.infonline:itemIconTint
         */
         public static int NavigationView_itemIconTint = 5;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#itemTextAppearance}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#itemTextAppearance}
           attribute's value can be found in the {@link #NavigationView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ti.infoline:itemTextAppearance
+          @attr name ti.infonline:itemTextAppearance
         */
         public static int NavigationView_itemTextAppearance = 8;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#itemTextColor}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#itemTextColor}
           attribute's value can be found in the {@link #NavigationView} array.
 
 
@@ -9079,17 +9079,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ti.infoline:itemTextColor
+          @attr name ti.infonline:itemTextColor
         */
         public static int NavigationView_itemTextColor = 6;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#menu}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#menu}
           attribute's value can be found in the {@link #NavigationView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ti.infoline:menu
+          @attr name ti.infonline:menu
         */
         public static int NavigationView_menu = 4;
         /** Attributes that can be used with a PopupWindow.
@@ -9100,7 +9100,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #PopupWindow_android_popupAnimationStyle android:popupAnimationStyle}</code></td><td></td></tr>
            <tr><td><code>{@link #PopupWindow_android_popupBackground android:popupBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #PopupWindow_overlapAnchor ti.infoline:overlapAnchor}</code></td><td></td></tr>
+           <tr><td><code>{@link #PopupWindow_overlapAnchor ti.infonline:overlapAnchor}</code></td><td></td></tr>
            </table>
            @see #PopupWindow_android_popupAnimationStyle
            @see #PopupWindow_android_popupBackground
@@ -9122,7 +9122,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static int PopupWindow_android_popupBackground = 0;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#overlapAnchor}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#overlapAnchor}
           attribute's value can be found in the {@link #PopupWindow} array.
 
 
@@ -9132,7 +9132,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ti.infoline:overlapAnchor
+          @attr name ti.infonline:overlapAnchor
         */
         public static int PopupWindow_overlapAnchor = 2;
         /** Attributes that can be used with a PopupWindowBackgroundState.
@@ -9141,7 +9141,7 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #PopupWindowBackgroundState_state_above_anchor ti.infoline:state_above_anchor}</code></td><td></td></tr>
+           <tr><td><code>{@link #PopupWindowBackgroundState_state_above_anchor ti.infonline:state_above_anchor}</code></td><td></td></tr>
            </table>
            @see #PopupWindowBackgroundState_state_above_anchor
          */
@@ -9149,7 +9149,7 @@ containing a value of this type.
             0x7f0100ca
         };
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#state_above_anchor}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#state_above_anchor}
           attribute's value can be found in the {@link #PopupWindowBackgroundState} array.
 
 
@@ -9159,7 +9159,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ti.infoline:state_above_anchor
+          @attr name ti.infonline:state_above_anchor
         */
         public static int PopupWindowBackgroundState_state_above_anchor = 0;
         /** Attributes that can be used with a RecycleListView.
@@ -9168,8 +9168,8 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #RecycleListView_paddingBottomNoButtons ti.infoline:paddingBottomNoButtons}</code></td><td></td></tr>
-           <tr><td><code>{@link #RecycleListView_paddingTopNoTitle ti.infoline:paddingTopNoTitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #RecycleListView_paddingBottomNoButtons ti.infonline:paddingBottomNoButtons}</code></td><td></td></tr>
+           <tr><td><code>{@link #RecycleListView_paddingTopNoTitle ti.infonline:paddingTopNoTitle}</code></td><td></td></tr>
            </table>
            @see #RecycleListView_paddingBottomNoButtons
            @see #RecycleListView_paddingTopNoTitle
@@ -9178,7 +9178,7 @@ containing a value of this type.
             0x7f0100cb, 0x7f0100cc
         };
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#paddingBottomNoButtons}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#paddingBottomNoButtons}
           attribute's value can be found in the {@link #RecycleListView} array.
 
 
@@ -9190,11 +9190,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ti.infoline:paddingBottomNoButtons
+          @attr name ti.infonline:paddingBottomNoButtons
         */
         public static int RecycleListView_paddingBottomNoButtons = 0;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#paddingTopNoTitle}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#paddingTopNoTitle}
           attribute's value can be found in the {@link #RecycleListView} array.
 
 
@@ -9206,7 +9206,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ti.infoline:paddingTopNoTitle
+          @attr name ti.infonline:paddingTopNoTitle
         */
         public static int RecycleListView_paddingTopNoTitle = 1;
         /** Attributes that can be used with a RecyclerView.
@@ -9217,15 +9217,15 @@ containing a value of this type.
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #RecyclerView_android_descendantFocusability android:descendantFocusability}</code></td><td></td></tr>
            <tr><td><code>{@link #RecyclerView_android_orientation android:orientation}</code></td><td></td></tr>
-           <tr><td><code>{@link #RecyclerView_fastScrollEnabled ti.infoline:fastScrollEnabled}</code></td><td></td></tr>
-           <tr><td><code>{@link #RecyclerView_fastScrollHorizontalThumbDrawable ti.infoline:fastScrollHorizontalThumbDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #RecyclerView_fastScrollHorizontalTrackDrawable ti.infoline:fastScrollHorizontalTrackDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #RecyclerView_fastScrollVerticalThumbDrawable ti.infoline:fastScrollVerticalThumbDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #RecyclerView_fastScrollVerticalTrackDrawable ti.infoline:fastScrollVerticalTrackDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #RecyclerView_layoutManager ti.infoline:layoutManager}</code></td><td></td></tr>
-           <tr><td><code>{@link #RecyclerView_reverseLayout ti.infoline:reverseLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #RecyclerView_spanCount ti.infoline:spanCount}</code></td><td></td></tr>
-           <tr><td><code>{@link #RecyclerView_stackFromEnd ti.infoline:stackFromEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #RecyclerView_fastScrollEnabled ti.infonline:fastScrollEnabled}</code></td><td></td></tr>
+           <tr><td><code>{@link #RecyclerView_fastScrollHorizontalThumbDrawable ti.infonline:fastScrollHorizontalThumbDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #RecyclerView_fastScrollHorizontalTrackDrawable ti.infonline:fastScrollHorizontalTrackDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #RecyclerView_fastScrollVerticalThumbDrawable ti.infonline:fastScrollVerticalThumbDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #RecyclerView_fastScrollVerticalTrackDrawable ti.infonline:fastScrollVerticalTrackDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #RecyclerView_layoutManager ti.infonline:layoutManager}</code></td><td></td></tr>
+           <tr><td><code>{@link #RecyclerView_reverseLayout ti.infonline:reverseLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #RecyclerView_spanCount ti.infonline:spanCount}</code></td><td></td></tr>
+           <tr><td><code>{@link #RecyclerView_stackFromEnd ti.infonline:stackFromEnd}</code></td><td></td></tr>
            </table>
            @see #RecyclerView_android_descendantFocusability
            @see #RecyclerView_android_orientation
@@ -9257,7 +9257,7 @@ containing a value of this type.
         */
         public static int RecyclerView_android_orientation = 0;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#fastScrollEnabled}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#fastScrollEnabled}
           attribute's value can be found in the {@link #RecyclerView} array.
 
 
@@ -9267,51 +9267,51 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ti.infoline:fastScrollEnabled
+          @attr name ti.infonline:fastScrollEnabled
         */
         public static int RecyclerView_fastScrollEnabled = 6;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#fastScrollHorizontalThumbDrawable}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#fastScrollHorizontalThumbDrawable}
           attribute's value can be found in the {@link #RecyclerView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ti.infoline:fastScrollHorizontalThumbDrawable
+          @attr name ti.infonline:fastScrollHorizontalThumbDrawable
         */
         public static int RecyclerView_fastScrollHorizontalThumbDrawable = 9;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#fastScrollHorizontalTrackDrawable}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#fastScrollHorizontalTrackDrawable}
           attribute's value can be found in the {@link #RecyclerView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ti.infoline:fastScrollHorizontalTrackDrawable
+          @attr name ti.infonline:fastScrollHorizontalTrackDrawable
         */
         public static int RecyclerView_fastScrollHorizontalTrackDrawable = 10;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#fastScrollVerticalThumbDrawable}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#fastScrollVerticalThumbDrawable}
           attribute's value can be found in the {@link #RecyclerView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ti.infoline:fastScrollVerticalThumbDrawable
+          @attr name ti.infonline:fastScrollVerticalThumbDrawable
         */
         public static int RecyclerView_fastScrollVerticalThumbDrawable = 7;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#fastScrollVerticalTrackDrawable}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#fastScrollVerticalTrackDrawable}
           attribute's value can be found in the {@link #RecyclerView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ti.infoline:fastScrollVerticalTrackDrawable
+          @attr name ti.infonline:fastScrollVerticalTrackDrawable
         */
         public static int RecyclerView_fastScrollVerticalTrackDrawable = 8;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#layoutManager}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#layoutManager}
           attribute's value can be found in the {@link #RecyclerView} array.
 
 
@@ -9321,11 +9321,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ti.infoline:layoutManager
+          @attr name ti.infonline:layoutManager
         */
         public static int RecyclerView_layoutManager = 2;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#reverseLayout}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#reverseLayout}
           attribute's value can be found in the {@link #RecyclerView} array.
 
 
@@ -9335,11 +9335,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ti.infoline:reverseLayout
+          @attr name ti.infonline:reverseLayout
         */
         public static int RecyclerView_reverseLayout = 4;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#spanCount}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#spanCount}
           attribute's value can be found in the {@link #RecyclerView} array.
 
 
@@ -9349,11 +9349,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ti.infoline:spanCount
+          @attr name ti.infonline:spanCount
         */
         public static int RecyclerView_spanCount = 3;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#stackFromEnd}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#stackFromEnd}
           attribute's value can be found in the {@link #RecyclerView} array.
 
 
@@ -9363,7 +9363,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ti.infoline:stackFromEnd
+          @attr name ti.infonline:stackFromEnd
         */
         public static int RecyclerView_stackFromEnd = 5;
         /** Attributes that can be used with a ScrimInsetsFrameLayout.
@@ -9372,7 +9372,7 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ScrimInsetsFrameLayout_insetForeground ti.infoline:insetForeground}</code></td><td></td></tr>
+           <tr><td><code>{@link #ScrimInsetsFrameLayout_insetForeground ti.infonline:insetForeground}</code></td><td></td></tr>
            </table>
            @see #ScrimInsetsFrameLayout_insetForeground
          */
@@ -9380,7 +9380,7 @@ containing a value of this type.
             0x7f010140
         };
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#insetForeground}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#insetForeground}
           attribute's value can be found in the {@link #ScrimInsetsFrameLayout} array.
 
 
@@ -9388,7 +9388,7 @@ containing a value of this type.
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name ti.infoline:insetForeground
+          @attr name ti.infonline:insetForeground
         */
         public static int ScrimInsetsFrameLayout_insetForeground = 0;
         /** Attributes that can be used with a ScrollingViewBehavior_Layout.
@@ -9397,7 +9397,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ScrollingViewBehavior_Layout_behavior_overlapTop ti.infoline:behavior_overlapTop}</code></td><td></td></tr>
+           <tr><td><code>{@link #ScrollingViewBehavior_Layout_behavior_overlapTop ti.infonline:behavior_overlapTop}</code></td><td></td></tr>
            </table>
            @see #ScrollingViewBehavior_Layout_behavior_overlapTop
          */
@@ -9405,7 +9405,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f010141
         };
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#behavior_overlapTop}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#behavior_overlapTop}
           attribute's value can be found in the {@link #ScrollingViewBehavior_Layout} array.
 
 
@@ -9417,7 +9417,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ti.infoline:behavior_overlapTop
+          @attr name ti.infonline:behavior_overlapTop
         */
         public static int ScrollingViewBehavior_Layout_behavior_overlapTop = 0;
         /** Attributes that can be used with a SearchView.
@@ -9430,19 +9430,19 @@ containing a value of this type.
            <tr><td><code>{@link #SearchView_android_imeOptions android:imeOptions}</code></td><td></td></tr>
            <tr><td><code>{@link #SearchView_android_inputType android:inputType}</code></td><td></td></tr>
            <tr><td><code>{@link #SearchView_android_maxWidth android:maxWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_closeIcon ti.infoline:closeIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_commitIcon ti.infoline:commitIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_defaultQueryHint ti.infoline:defaultQueryHint}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_goIcon ti.infoline:goIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_iconifiedByDefault ti.infoline:iconifiedByDefault}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_layout ti.infoline:layout}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_queryBackground ti.infoline:queryBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_queryHint ti.infoline:queryHint}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_searchHintIcon ti.infoline:searchHintIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_searchIcon ti.infoline:searchIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_submitBackground ti.infoline:submitBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_suggestionRowLayout ti.infoline:suggestionRowLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_voiceIcon ti.infoline:voiceIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_closeIcon ti.infonline:closeIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_commitIcon ti.infonline:commitIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_defaultQueryHint ti.infonline:defaultQueryHint}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_goIcon ti.infonline:goIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_iconifiedByDefault ti.infonline:iconifiedByDefault}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_layout ti.infonline:layout}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_queryBackground ti.infonline:queryBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_queryHint ti.infonline:queryHint}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_searchHintIcon ti.infonline:searchHintIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_searchIcon ti.infonline:searchIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_submitBackground ti.infonline:submitBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_suggestionRowLayout ti.infonline:suggestionRowLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_voiceIcon ti.infonline:voiceIcon}</code></td><td></td></tr>
            </table>
            @see #SearchView_android_focusable
            @see #SearchView_android_imeOptions
@@ -9494,27 +9494,27 @@ containing a value of this type.
         */
         public static int SearchView_android_maxWidth = 1;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#closeIcon}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#closeIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ti.infoline:closeIcon
+          @attr name ti.infonline:closeIcon
         */
         public static int SearchView_closeIcon = 8;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#commitIcon}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#commitIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ti.infoline:commitIcon
+          @attr name ti.infonline:commitIcon
         */
         public static int SearchView_commitIcon = 13;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#defaultQueryHint}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#defaultQueryHint}
           attribute's value can be found in the {@link #SearchView} array.
 
 
@@ -9524,21 +9524,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ti.infoline:defaultQueryHint
+          @attr name ti.infonline:defaultQueryHint
         */
         public static int SearchView_defaultQueryHint = 7;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#goIcon}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#goIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ti.infoline:goIcon
+          @attr name ti.infonline:goIcon
         */
         public static int SearchView_goIcon = 9;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#iconifiedByDefault}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#iconifiedByDefault}
           attribute's value can be found in the {@link #SearchView} array.
 
 
@@ -9548,31 +9548,31 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ti.infoline:iconifiedByDefault
+          @attr name ti.infonline:iconifiedByDefault
         */
         public static int SearchView_iconifiedByDefault = 5;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#layout}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#layout}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ti.infoline:layout
+          @attr name ti.infonline:layout
         */
         public static int SearchView_layout = 4;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#queryBackground}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#queryBackground}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ti.infoline:queryBackground
+          @attr name ti.infonline:queryBackground
         */
         public static int SearchView_queryBackground = 15;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#queryHint}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#queryHint}
           attribute's value can be found in the {@link #SearchView} array.
 
 
@@ -9582,57 +9582,57 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ti.infoline:queryHint
+          @attr name ti.infonline:queryHint
         */
         public static int SearchView_queryHint = 6;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#searchHintIcon}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#searchHintIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ti.infoline:searchHintIcon
+          @attr name ti.infonline:searchHintIcon
         */
         public static int SearchView_searchHintIcon = 11;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#searchIcon}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#searchIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ti.infoline:searchIcon
+          @attr name ti.infonline:searchIcon
         */
         public static int SearchView_searchIcon = 10;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#submitBackground}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#submitBackground}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ti.infoline:submitBackground
+          @attr name ti.infonline:submitBackground
         */
         public static int SearchView_submitBackground = 16;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#suggestionRowLayout}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#suggestionRowLayout}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ti.infoline:suggestionRowLayout
+          @attr name ti.infonline:suggestionRowLayout
         */
         public static int SearchView_suggestionRowLayout = 14;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#voiceIcon}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#voiceIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ti.infoline:voiceIcon
+          @attr name ti.infonline:voiceIcon
         */
         public static int SearchView_voiceIcon = 12;
         /** Attributes that can be used with a SnackbarLayout.
@@ -9642,8 +9642,8 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #SnackbarLayout_android_maxWidth android:maxWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #SnackbarLayout_elevation ti.infoline:elevation}</code></td><td></td></tr>
-           <tr><td><code>{@link #SnackbarLayout_maxActionInlineWidth ti.infoline:maxActionInlineWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #SnackbarLayout_elevation ti.infonline:elevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #SnackbarLayout_maxActionInlineWidth ti.infonline:maxActionInlineWidth}</code></td><td></td></tr>
            </table>
            @see #SnackbarLayout_android_maxWidth
            @see #SnackbarLayout_elevation
@@ -9659,7 +9659,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static int SnackbarLayout_android_maxWidth = 0;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#elevation}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#elevation}
           attribute's value can be found in the {@link #SnackbarLayout} array.
 
 
@@ -9671,11 +9671,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ti.infoline:elevation
+          @attr name ti.infonline:elevation
         */
         public static int SnackbarLayout_elevation = 1;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#maxActionInlineWidth}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#maxActionInlineWidth}
           attribute's value can be found in the {@link #SnackbarLayout} array.
 
 
@@ -9687,7 +9687,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ti.infoline:maxActionInlineWidth
+          @attr name ti.infonline:maxActionInlineWidth
         */
         public static int SnackbarLayout_maxActionInlineWidth = 2;
         /** Attributes that can be used with a Spinner.
@@ -9700,7 +9700,7 @@ containing a value of this type.
            <tr><td><code>{@link #Spinner_android_entries android:entries}</code></td><td></td></tr>
            <tr><td><code>{@link #Spinner_android_popupBackground android:popupBackground}</code></td><td></td></tr>
            <tr><td><code>{@link #Spinner_android_prompt android:prompt}</code></td><td></td></tr>
-           <tr><td><code>{@link #Spinner_popupTheme ti.infoline:popupTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #Spinner_popupTheme ti.infonline:popupTheme}</code></td><td></td></tr>
            </table>
            @see #Spinner_android_dropDownWidth
            @see #Spinner_android_entries
@@ -9737,13 +9737,13 @@ containing a value of this type.
         */
         public static int Spinner_android_prompt = 2;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#popupTheme}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#popupTheme}
           attribute's value can be found in the {@link #Spinner} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ti.infoline:popupTheme
+          @attr name ti.infonline:popupTheme
         */
         public static int Spinner_popupTheme = 4;
         /** Attributes that can be used with a SwitchCompat.
@@ -9755,17 +9755,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <tr><td><code>{@link #SwitchCompat_android_textOff android:textOff}</code></td><td></td></tr>
            <tr><td><code>{@link #SwitchCompat_android_textOn android:textOn}</code></td><td></td></tr>
            <tr><td><code>{@link #SwitchCompat_android_thumb android:thumb}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_showText ti.infoline:showText}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_splitTrack ti.infoline:splitTrack}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_switchMinWidth ti.infoline:switchMinWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_switchPadding ti.infoline:switchPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_switchTextAppearance ti.infoline:switchTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_thumbTextPadding ti.infoline:thumbTextPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_thumbTint ti.infoline:thumbTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_thumbTintMode ti.infoline:thumbTintMode}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_track ti.infoline:track}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_trackTint ti.infoline:trackTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_trackTintMode ti.infoline:trackTintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_showText ti.infonline:showText}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_splitTrack ti.infonline:splitTrack}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_switchMinWidth ti.infonline:switchMinWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_switchPadding ti.infonline:switchPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_switchTextAppearance ti.infonline:switchTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_thumbTextPadding ti.infonline:thumbTextPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_thumbTint ti.infonline:thumbTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_thumbTintMode ti.infonline:thumbTintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_track ti.infonline:track}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_trackTint ti.infonline:trackTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_trackTintMode ti.infonline:trackTintMode}</code></td><td></td></tr>
            </table>
            @see #SwitchCompat_android_textOff
            @see #SwitchCompat_android_textOn
@@ -9807,7 +9807,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static int SwitchCompat_android_thumb = 2;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#showText}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#showText}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -9817,11 +9817,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ti.infoline:showText
+          @attr name ti.infonline:showText
         */
         public static int SwitchCompat_showText = 13;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#splitTrack}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#splitTrack}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -9831,11 +9831,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ti.infoline:splitTrack
+          @attr name ti.infonline:splitTrack
         */
         public static int SwitchCompat_splitTrack = 12;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#switchMinWidth}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#switchMinWidth}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -9847,11 +9847,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ti.infoline:switchMinWidth
+          @attr name ti.infonline:switchMinWidth
         */
         public static int SwitchCompat_switchMinWidth = 10;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#switchPadding}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#switchPadding}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -9863,21 +9863,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ti.infoline:switchPadding
+          @attr name ti.infonline:switchPadding
         */
         public static int SwitchCompat_switchPadding = 11;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#switchTextAppearance}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#switchTextAppearance}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ti.infoline:switchTextAppearance
+          @attr name ti.infonline:switchTextAppearance
         */
         public static int SwitchCompat_switchTextAppearance = 9;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#thumbTextPadding}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#thumbTextPadding}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -9889,11 +9889,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ti.infoline:thumbTextPadding
+          @attr name ti.infonline:thumbTextPadding
         */
         public static int SwitchCompat_thumbTextPadding = 8;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#thumbTint}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#thumbTint}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -9904,11 +9904,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ti.infoline:thumbTint
+          @attr name ti.infonline:thumbTint
         */
         public static int SwitchCompat_thumbTint = 3;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#thumbTintMode}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#thumbTintMode}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -9925,21 +9925,21 @@ containing a value of this type.
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 <tr><td><code>add</code></td><td>16</td><td></td></tr>
 </table>
-          @attr name ti.infoline:thumbTintMode
+          @attr name ti.infonline:thumbTintMode
         */
         public static int SwitchCompat_thumbTintMode = 4;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#track}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#track}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ti.infoline:track
+          @attr name ti.infonline:track
         */
         public static int SwitchCompat_track = 5;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#trackTint}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#trackTint}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -9950,11 +9950,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ti.infoline:trackTint
+          @attr name ti.infonline:trackTint
         */
         public static int SwitchCompat_trackTint = 6;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#trackTintMode}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#trackTintMode}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -9971,7 +9971,7 @@ containing a value of this type.
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 <tr><td><code>add</code></td><td>16</td><td></td></tr>
 </table>
-          @attr name ti.infoline:trackTintMode
+          @attr name ti.infonline:trackTintMode
         */
         public static int SwitchCompat_trackTintMode = 7;
         /** Attributes that can be used with a TabItem.
@@ -10015,22 +10015,22 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #TabLayout_tabBackground ti.infoline:tabBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabContentStart ti.infoline:tabContentStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabGravity ti.infoline:tabGravity}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabIndicatorColor ti.infoline:tabIndicatorColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabIndicatorHeight ti.infoline:tabIndicatorHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabMaxWidth ti.infoline:tabMaxWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabMinWidth ti.infoline:tabMinWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabMode ti.infoline:tabMode}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabPadding ti.infoline:tabPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabPaddingBottom ti.infoline:tabPaddingBottom}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabPaddingEnd ti.infoline:tabPaddingEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabPaddingStart ti.infoline:tabPaddingStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabPaddingTop ti.infoline:tabPaddingTop}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabSelectedTextColor ti.infoline:tabSelectedTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabTextAppearance ti.infoline:tabTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabTextColor ti.infoline:tabTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabBackground ti.infonline:tabBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabContentStart ti.infonline:tabContentStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabGravity ti.infonline:tabGravity}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabIndicatorColor ti.infonline:tabIndicatorColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabIndicatorHeight ti.infonline:tabIndicatorHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabMaxWidth ti.infonline:tabMaxWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabMinWidth ti.infonline:tabMinWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabMode ti.infonline:tabMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabPadding ti.infonline:tabPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabPaddingBottom ti.infonline:tabPaddingBottom}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabPaddingEnd ti.infonline:tabPaddingEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabPaddingStart ti.infonline:tabPaddingStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabPaddingTop ti.infonline:tabPaddingTop}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabSelectedTextColor ti.infonline:tabSelectedTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabTextAppearance ti.infonline:tabTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabTextColor ti.infonline:tabTextColor}</code></td><td></td></tr>
            </table>
            @see #TabLayout_tabBackground
            @see #TabLayout_tabContentStart
@@ -10056,17 +10056,17 @@ containing a value of this type.
             0x7f01014f, 0x7f010150, 0x7f010151, 0x7f010152
         };
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#tabBackground}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#tabBackground}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ti.infoline:tabBackground
+          @attr name ti.infonline:tabBackground
         */
         public static int TabLayout_tabBackground = 3;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#tabContentStart}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#tabContentStart}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -10078,11 +10078,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ti.infoline:tabContentStart
+          @attr name ti.infonline:tabContentStart
         */
         public static int TabLayout_tabContentStart = 2;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#tabGravity}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#tabGravity}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -10095,11 +10095,11 @@ containing a value of this type.
 <tr><td><code>fill</code></td><td>0</td><td></td></tr>
 <tr><td><code>center</code></td><td>1</td><td></td></tr>
 </table>
-          @attr name ti.infoline:tabGravity
+          @attr name ti.infonline:tabGravity
         */
         public static int TabLayout_tabGravity = 5;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#tabIndicatorColor}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#tabIndicatorColor}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -10110,11 +10110,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ti.infoline:tabIndicatorColor
+          @attr name ti.infonline:tabIndicatorColor
         */
         public static int TabLayout_tabIndicatorColor = 0;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#tabIndicatorHeight}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#tabIndicatorHeight}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -10126,11 +10126,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ti.infoline:tabIndicatorHeight
+          @attr name ti.infonline:tabIndicatorHeight
         */
         public static int TabLayout_tabIndicatorHeight = 1;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#tabMaxWidth}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#tabMaxWidth}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -10142,11 +10142,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ti.infoline:tabMaxWidth
+          @attr name ti.infonline:tabMaxWidth
         */
         public static int TabLayout_tabMaxWidth = 7;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#tabMinWidth}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#tabMinWidth}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -10158,11 +10158,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ti.infoline:tabMinWidth
+          @attr name ti.infonline:tabMinWidth
         */
         public static int TabLayout_tabMinWidth = 6;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#tabMode}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#tabMode}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -10175,11 +10175,11 @@ containing a value of this type.
 <tr><td><code>scrollable</code></td><td>0</td><td></td></tr>
 <tr><td><code>fixed</code></td><td>1</td><td></td></tr>
 </table>
-          @attr name ti.infoline:tabMode
+          @attr name ti.infonline:tabMode
         */
         public static int TabLayout_tabMode = 4;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#tabPadding}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#tabPadding}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -10191,11 +10191,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ti.infoline:tabPadding
+          @attr name ti.infonline:tabPadding
         */
         public static int TabLayout_tabPadding = 15;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#tabPaddingBottom}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#tabPaddingBottom}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -10207,11 +10207,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ti.infoline:tabPaddingBottom
+          @attr name ti.infonline:tabPaddingBottom
         */
         public static int TabLayout_tabPaddingBottom = 14;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#tabPaddingEnd}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#tabPaddingEnd}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -10223,11 +10223,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ti.infoline:tabPaddingEnd
+          @attr name ti.infonline:tabPaddingEnd
         */
         public static int TabLayout_tabPaddingEnd = 13;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#tabPaddingStart}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#tabPaddingStart}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -10239,11 +10239,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ti.infoline:tabPaddingStart
+          @attr name ti.infonline:tabPaddingStart
         */
         public static int TabLayout_tabPaddingStart = 11;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#tabPaddingTop}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#tabPaddingTop}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -10255,11 +10255,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ti.infoline:tabPaddingTop
+          @attr name ti.infonline:tabPaddingTop
         */
         public static int TabLayout_tabPaddingTop = 12;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#tabSelectedTextColor}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#tabSelectedTextColor}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -10270,21 +10270,21 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ti.infoline:tabSelectedTextColor
+          @attr name ti.infonline:tabSelectedTextColor
         */
         public static int TabLayout_tabSelectedTextColor = 10;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#tabTextAppearance}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#tabTextAppearance}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ti.infoline:tabTextAppearance
+          @attr name ti.infonline:tabTextAppearance
         */
         public static int TabLayout_tabTextAppearance = 8;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#tabTextColor}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#tabTextColor}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -10295,7 +10295,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ti.infoline:tabTextColor
+          @attr name ti.infonline:tabTextColor
         */
         public static int TabLayout_tabTextColor = 9;
         /** Attributes that can be used with a TextAppearance.
@@ -10315,8 +10315,8 @@ containing a value of this type.
            <tr><td><code>{@link #TextAppearance_android_textSize android:textSize}</code></td><td></td></tr>
            <tr><td><code>{@link #TextAppearance_android_textStyle android:textStyle}</code></td><td></td></tr>
            <tr><td><code>{@link #TextAppearance_android_typeface android:typeface}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextAppearance_fontFamily ti.infoline:fontFamily}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextAppearance_textAllCaps ti.infoline:textAllCaps}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextAppearance_fontFamily ti.infonline:fontFamily}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextAppearance_textAllCaps ti.infonline:textAllCaps}</code></td><td></td></tr>
            </table>
            @see #TextAppearance_android_fontFamily
            @see #TextAppearance_android_shadowColor
@@ -10405,7 +10405,7 @@ containing a value of this type.
         */
         public static int TextAppearance_android_typeface = 1;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#fontFamily}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#fontFamily}
           attribute's value can be found in the {@link #TextAppearance} array.
 
 
@@ -10415,18 +10415,18 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ti.infoline:fontFamily
+          @attr name ti.infonline:fontFamily
         */
         public static int TextAppearance_fontFamily = 12;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#textAllCaps}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#textAllCaps}
           attribute's value can be found in the {@link #TextAppearance} array.
 
 
           <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a boolean value, either "<code>true</code>" or "<code>false</code>".
-          @attr name ti.infoline:textAllCaps
+          @attr name ti.infonline:textAllCaps
         */
         public static int TextAppearance_textAllCaps = 11;
         /** Attributes that can be used with a TextInputLayout.
@@ -10437,20 +10437,20 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #TextInputLayout_android_hint android:hint}</code></td><td></td></tr>
            <tr><td><code>{@link #TextInputLayout_android_textColorHint android:textColorHint}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_counterEnabled ti.infoline:counterEnabled}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_counterMaxLength ti.infoline:counterMaxLength}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_counterOverflowTextAppearance ti.infoline:counterOverflowTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_counterTextAppearance ti.infoline:counterTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_errorEnabled ti.infoline:errorEnabled}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_errorTextAppearance ti.infoline:errorTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_hintAnimationEnabled ti.infoline:hintAnimationEnabled}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_hintEnabled ti.infoline:hintEnabled}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_hintTextAppearance ti.infoline:hintTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_passwordToggleContentDescription ti.infoline:passwordToggleContentDescription}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_passwordToggleDrawable ti.infoline:passwordToggleDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_passwordToggleEnabled ti.infoline:passwordToggleEnabled}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_passwordToggleTint ti.infoline:passwordToggleTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_passwordToggleTintMode ti.infoline:passwordToggleTintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_counterEnabled ti.infonline:counterEnabled}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_counterMaxLength ti.infonline:counterMaxLength}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_counterOverflowTextAppearance ti.infonline:counterOverflowTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_counterTextAppearance ti.infonline:counterTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_errorEnabled ti.infonline:errorEnabled}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_errorTextAppearance ti.infonline:errorTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_hintAnimationEnabled ti.infonline:hintAnimationEnabled}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_hintEnabled ti.infonline:hintEnabled}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_hintTextAppearance ti.infonline:hintTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_passwordToggleContentDescription ti.infonline:passwordToggleContentDescription}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_passwordToggleDrawable ti.infonline:passwordToggleDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_passwordToggleEnabled ti.infonline:passwordToggleEnabled}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_passwordToggleTint ti.infonline:passwordToggleTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_passwordToggleTintMode ti.infonline:passwordToggleTintMode}</code></td><td></td></tr>
            </table>
            @see #TextInputLayout_android_hint
            @see #TextInputLayout_android_textColorHint
@@ -10488,7 +10488,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static int TextInputLayout_android_textColorHint = 0;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#counterEnabled}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#counterEnabled}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -10498,11 +10498,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ti.infoline:counterEnabled
+          @attr name ti.infonline:counterEnabled
         */
         public static int TextInputLayout_counterEnabled = 6;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#counterMaxLength}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#counterMaxLength}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -10512,31 +10512,31 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ti.infoline:counterMaxLength
+          @attr name ti.infonline:counterMaxLength
         */
         public static int TextInputLayout_counterMaxLength = 7;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#counterOverflowTextAppearance}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#counterOverflowTextAppearance}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ti.infoline:counterOverflowTextAppearance
+          @attr name ti.infonline:counterOverflowTextAppearance
         */
         public static int TextInputLayout_counterOverflowTextAppearance = 9;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#counterTextAppearance}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#counterTextAppearance}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ti.infoline:counterTextAppearance
+          @attr name ti.infonline:counterTextAppearance
         */
         public static int TextInputLayout_counterTextAppearance = 8;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#errorEnabled}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#errorEnabled}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -10546,21 +10546,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ti.infoline:errorEnabled
+          @attr name ti.infonline:errorEnabled
         */
         public static int TextInputLayout_errorEnabled = 4;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#errorTextAppearance}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#errorTextAppearance}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ti.infoline:errorTextAppearance
+          @attr name ti.infonline:errorTextAppearance
         */
         public static int TextInputLayout_errorTextAppearance = 5;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#hintAnimationEnabled}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#hintAnimationEnabled}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -10570,11 +10570,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ti.infoline:hintAnimationEnabled
+          @attr name ti.infonline:hintAnimationEnabled
         */
         public static int TextInputLayout_hintAnimationEnabled = 10;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#hintEnabled}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#hintEnabled}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -10584,21 +10584,21 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ti.infoline:hintEnabled
+          @attr name ti.infonline:hintEnabled
         */
         public static int TextInputLayout_hintEnabled = 3;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#hintTextAppearance}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#hintTextAppearance}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ti.infoline:hintTextAppearance
+          @attr name ti.infonline:hintTextAppearance
         */
         public static int TextInputLayout_hintTextAppearance = 2;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#passwordToggleContentDescription}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#passwordToggleContentDescription}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -10608,21 +10608,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ti.infoline:passwordToggleContentDescription
+          @attr name ti.infonline:passwordToggleContentDescription
         */
         public static int TextInputLayout_passwordToggleContentDescription = 13;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#passwordToggleDrawable}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#passwordToggleDrawable}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ti.infoline:passwordToggleDrawable
+          @attr name ti.infonline:passwordToggleDrawable
         */
         public static int TextInputLayout_passwordToggleDrawable = 12;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#passwordToggleEnabled}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#passwordToggleEnabled}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -10632,11 +10632,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ti.infoline:passwordToggleEnabled
+          @attr name ti.infonline:passwordToggleEnabled
         */
         public static int TextInputLayout_passwordToggleEnabled = 11;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#passwordToggleTint}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#passwordToggleTint}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -10647,11 +10647,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ti.infoline:passwordToggleTint
+          @attr name ti.infonline:passwordToggleTint
         */
         public static int TextInputLayout_passwordToggleTint = 14;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#passwordToggleTintMode}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#passwordToggleTintMode}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -10667,7 +10667,7 @@ containing a value of this type.
 <tr><td><code>multiply</code></td><td>14</td><td></td></tr>
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 </table>
-          @attr name ti.infoline:passwordToggleTintMode
+          @attr name ti.infonline:passwordToggleTintMode
         */
         public static int TextInputLayout_passwordToggleTintMode = 15;
         /** Attributes that can be used with a Toolbar.
@@ -10678,33 +10678,33 @@ containing a value of this type.
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #Toolbar_android_gravity android:gravity}</code></td><td></td></tr>
            <tr><td><code>{@link #Toolbar_android_minHeight android:minHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_buttonGravity ti.infoline:buttonGravity}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_collapseContentDescription ti.infoline:collapseContentDescription}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_collapseIcon ti.infoline:collapseIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetEnd ti.infoline:contentInsetEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetEndWithActions ti.infoline:contentInsetEndWithActions}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetLeft ti.infoline:contentInsetLeft}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetRight ti.infoline:contentInsetRight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetStart ti.infoline:contentInsetStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetStartWithNavigation ti.infoline:contentInsetStartWithNavigation}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_logo ti.infoline:logo}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_logoDescription ti.infoline:logoDescription}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_maxButtonHeight ti.infoline:maxButtonHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_navigationContentDescription ti.infoline:navigationContentDescription}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_navigationIcon ti.infoline:navigationIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_popupTheme ti.infoline:popupTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_subtitle ti.infoline:subtitle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_subtitleTextAppearance ti.infoline:subtitleTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_subtitleTextColor ti.infoline:subtitleTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_title ti.infoline:title}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMargin ti.infoline:titleMargin}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMarginBottom ti.infoline:titleMarginBottom}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMarginEnd ti.infoline:titleMarginEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMarginStart ti.infoline:titleMarginStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMarginTop ti.infoline:titleMarginTop}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMargins ti.infoline:titleMargins}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleTextAppearance ti.infoline:titleTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleTextColor ti.infoline:titleTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_buttonGravity ti.infonline:buttonGravity}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_collapseContentDescription ti.infonline:collapseContentDescription}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_collapseIcon ti.infonline:collapseIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetEnd ti.infonline:contentInsetEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetEndWithActions ti.infonline:contentInsetEndWithActions}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetLeft ti.infonline:contentInsetLeft}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetRight ti.infonline:contentInsetRight}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetStart ti.infonline:contentInsetStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetStartWithNavigation ti.infonline:contentInsetStartWithNavigation}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_logo ti.infonline:logo}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_logoDescription ti.infonline:logoDescription}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_maxButtonHeight ti.infonline:maxButtonHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_navigationContentDescription ti.infonline:navigationContentDescription}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_navigationIcon ti.infonline:navigationIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_popupTheme ti.infonline:popupTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_subtitle ti.infonline:subtitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_subtitleTextAppearance ti.infonline:subtitleTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_subtitleTextColor ti.infonline:subtitleTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_title ti.infonline:title}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMargin ti.infonline:titleMargin}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMarginBottom ti.infonline:titleMarginBottom}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMarginEnd ti.infonline:titleMarginEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMarginStart ti.infonline:titleMarginStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMarginTop ti.infonline:titleMarginTop}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMargins ti.infonline:titleMargins}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleTextAppearance ti.infonline:titleTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleTextColor ti.infonline:titleTextColor}</code></td><td></td></tr>
            </table>
            @see #Toolbar_android_gravity
            @see #Toolbar_android_minHeight
@@ -10759,7 +10759,7 @@ containing a value of this type.
         */
         public static int Toolbar_android_minHeight = 1;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#buttonGravity}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#buttonGravity}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -10772,11 +10772,11 @@ containing a value of this type.
 <tr><td><code>top</code></td><td>0x30</td><td></td></tr>
 <tr><td><code>bottom</code></td><td>0x50</td><td></td></tr>
 </table>
-          @attr name ti.infoline:buttonGravity
+          @attr name ti.infonline:buttonGravity
         */
         public static int Toolbar_buttonGravity = 20;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#collapseContentDescription}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#collapseContentDescription}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -10786,21 +10786,21 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ti.infoline:collapseContentDescription
+          @attr name ti.infonline:collapseContentDescription
         */
         public static int Toolbar_collapseContentDescription = 22;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#collapseIcon}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#collapseIcon}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ti.infoline:collapseIcon
+          @attr name ti.infonline:collapseIcon
         */
         public static int Toolbar_collapseIcon = 21;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#contentInsetEnd}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#contentInsetEnd}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -10812,11 +10812,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ti.infoline:contentInsetEnd
+          @attr name ti.infonline:contentInsetEnd
         */
         public static int Toolbar_contentInsetEnd = 5;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#contentInsetEndWithActions}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#contentInsetEndWithActions}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -10828,11 +10828,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ti.infoline:contentInsetEndWithActions
+          @attr name ti.infonline:contentInsetEndWithActions
         */
         public static int Toolbar_contentInsetEndWithActions = 9;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#contentInsetLeft}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#contentInsetLeft}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -10844,11 +10844,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ti.infoline:contentInsetLeft
+          @attr name ti.infonline:contentInsetLeft
         */
         public static int Toolbar_contentInsetLeft = 6;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#contentInsetRight}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#contentInsetRight}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -10860,11 +10860,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ti.infoline:contentInsetRight
+          @attr name ti.infonline:contentInsetRight
         */
         public static int Toolbar_contentInsetRight = 7;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#contentInsetStart}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#contentInsetStart}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -10876,11 +10876,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ti.infoline:contentInsetStart
+          @attr name ti.infonline:contentInsetStart
         */
         public static int Toolbar_contentInsetStart = 4;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#contentInsetStartWithNavigation}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#contentInsetStartWithNavigation}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -10892,21 +10892,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ti.infoline:contentInsetStartWithNavigation
+          @attr name ti.infonline:contentInsetStartWithNavigation
         */
         public static int Toolbar_contentInsetStartWithNavigation = 8;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#logo}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#logo}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ti.infoline:logo
+          @attr name ti.infonline:logo
         */
         public static int Toolbar_logo = 3;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#logoDescription}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#logoDescription}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -10916,11 +10916,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ti.infoline:logoDescription
+          @attr name ti.infonline:logoDescription
         */
         public static int Toolbar_logoDescription = 25;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#maxButtonHeight}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#maxButtonHeight}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -10932,11 +10932,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ti.infoline:maxButtonHeight
+          @attr name ti.infonline:maxButtonHeight
         */
         public static int Toolbar_maxButtonHeight = 19;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#navigationContentDescription}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#navigationContentDescription}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -10946,31 +10946,31 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ti.infoline:navigationContentDescription
+          @attr name ti.infonline:navigationContentDescription
         */
         public static int Toolbar_navigationContentDescription = 24;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#navigationIcon}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#navigationIcon}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ti.infoline:navigationIcon
+          @attr name ti.infonline:navigationIcon
         */
         public static int Toolbar_navigationIcon = 23;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#popupTheme}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#popupTheme}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ti.infoline:popupTheme
+          @attr name ti.infonline:popupTheme
         */
         public static int Toolbar_popupTheme = 10;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#subtitle}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#subtitle}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -10980,21 +10980,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ti.infoline:subtitle
+          @attr name ti.infonline:subtitle
         */
         public static int Toolbar_subtitle = 2;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#subtitleTextAppearance}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#subtitleTextAppearance}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ti.infoline:subtitleTextAppearance
+          @attr name ti.infonline:subtitleTextAppearance
         */
         public static int Toolbar_subtitleTextAppearance = 12;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#subtitleTextColor}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#subtitleTextColor}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -11005,11 +11005,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ti.infoline:subtitleTextColor
+          @attr name ti.infonline:subtitleTextColor
         */
         public static int Toolbar_subtitleTextColor = 27;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#title}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#title}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -11019,11 +11019,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ti.infoline:title
+          @attr name ti.infonline:title
         */
         public static int Toolbar_title = 28;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#titleMargin}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#titleMargin}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -11035,11 +11035,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ti.infoline:titleMargin
+          @attr name ti.infonline:titleMargin
         */
         public static int Toolbar_titleMargin = 13;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#titleMarginBottom}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#titleMarginBottom}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -11051,11 +11051,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ti.infoline:titleMarginBottom
+          @attr name ti.infonline:titleMarginBottom
         */
         public static int Toolbar_titleMarginBottom = 17;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#titleMarginEnd}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#titleMarginEnd}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -11067,11 +11067,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ti.infoline:titleMarginEnd
+          @attr name ti.infonline:titleMarginEnd
         */
         public static int Toolbar_titleMarginEnd = 15;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#titleMarginStart}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#titleMarginStart}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -11083,11 +11083,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ti.infoline:titleMarginStart
+          @attr name ti.infonline:titleMarginStart
         */
         public static int Toolbar_titleMarginStart = 14;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#titleMarginTop}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#titleMarginTop}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -11099,11 +11099,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ti.infoline:titleMarginTop
+          @attr name ti.infonline:titleMarginTop
         */
         public static int Toolbar_titleMarginTop = 16;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#titleMargins}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#titleMargins}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -11115,21 +11115,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ti.infoline:titleMargins
+          @attr name ti.infonline:titleMargins
         */
         public static int Toolbar_titleMargins = 18;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#titleTextAppearance}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#titleTextAppearance}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ti.infoline:titleTextAppearance
+          @attr name ti.infonline:titleTextAppearance
         */
         public static int Toolbar_titleTextAppearance = 11;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#titleTextColor}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#titleTextColor}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -11140,7 +11140,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ti.infoline:titleTextColor
+          @attr name ti.infonline:titleTextColor
         */
         public static int Toolbar_titleTextColor = 26;
         /** Attributes that can be used with a View.
@@ -11151,9 +11151,9 @@ containing a value of this type.
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #View_android_focusable android:focusable}</code></td><td></td></tr>
            <tr><td><code>{@link #View_android_theme android:theme}</code></td><td></td></tr>
-           <tr><td><code>{@link #View_paddingEnd ti.infoline:paddingEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #View_paddingStart ti.infoline:paddingStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #View_theme ti.infoline:theme}</code></td><td></td></tr>
+           <tr><td><code>{@link #View_paddingEnd ti.infonline:paddingEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #View_paddingStart ti.infonline:paddingStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #View_theme ti.infonline:theme}</code></td><td></td></tr>
            </table>
            @see #View_android_focusable
            @see #View_android_theme
@@ -11178,7 +11178,7 @@ containing a value of this type.
         */
         public static int View_android_theme = 0;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#paddingEnd}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#paddingEnd}
           attribute's value can be found in the {@link #View} array.
 
 
@@ -11190,11 +11190,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ti.infoline:paddingEnd
+          @attr name ti.infonline:paddingEnd
         */
         public static int View_paddingEnd = 3;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#paddingStart}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#paddingStart}
           attribute's value can be found in the {@link #View} array.
 
 
@@ -11206,17 +11206,17 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ti.infoline:paddingStart
+          @attr name ti.infonline:paddingStart
         */
         public static int View_paddingStart = 2;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#theme}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#theme}
           attribute's value can be found in the {@link #View} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ti.infoline:theme
+          @attr name ti.infonline:theme
         */
         public static int View_theme = 4;
         /** Attributes that can be used with a ViewBackgroundHelper.
@@ -11226,8 +11226,8 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #ViewBackgroundHelper_android_background android:background}</code></td><td></td></tr>
-           <tr><td><code>{@link #ViewBackgroundHelper_backgroundTint ti.infoline:backgroundTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #ViewBackgroundHelper_backgroundTintMode ti.infoline:backgroundTintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #ViewBackgroundHelper_backgroundTint ti.infonline:backgroundTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #ViewBackgroundHelper_backgroundTintMode ti.infonline:backgroundTintMode}</code></td><td></td></tr>
            </table>
            @see #ViewBackgroundHelper_android_background
            @see #ViewBackgroundHelper_backgroundTint
@@ -11243,7 +11243,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static int ViewBackgroundHelper_android_background = 0;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#backgroundTint}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#backgroundTint}
           attribute's value can be found in the {@link #ViewBackgroundHelper} array.
 
 
@@ -11254,11 +11254,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ti.infoline:backgroundTint
+          @attr name ti.infonline:backgroundTint
         */
         public static int ViewBackgroundHelper_backgroundTint = 1;
         /**
-          <p>This symbol is the offset where the {@link ti.infoline.R.attr#backgroundTintMode}
+          <p>This symbol is the offset where the {@link ti.infonline.R.attr#backgroundTintMode}
           attribute's value can be found in the {@link #ViewBackgroundHelper} array.
 
 
@@ -11274,7 +11274,7 @@ containing a value of this type.
 <tr><td><code>multiply</code></td><td>14</td><td></td></tr>
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 </table>
-          @attr name ti.infoline:backgroundTintMode
+          @attr name ti.infonline:backgroundTintMode
         */
         public static int ViewBackgroundHelper_backgroundTintMode = 2;
         /** Attributes that can be used with a ViewStubCompat.

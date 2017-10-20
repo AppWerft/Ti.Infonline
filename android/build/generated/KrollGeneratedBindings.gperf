@@ -6,7 +6,7 @@
 #include <v8.h>
 #include <KrollBindings.h>
 
-#include "ti.infoline.InfolineModule.h"
+#include "ti.infonline.InfolineModule.h"
 
 
 namespace titanium {
@@ -14,7 +14,7 @@ namespace bindings {
 %}
 struct BindEntry;
 %%
-ti.infoline.InfolineModule,::ti::infoline::InfolineModule::bindProxy,::ti::infoline::InfolineModule::dispose
+ti.infonline.InfolineModule,::ti::infonline::InfolineModule::bindProxy,::ti::infonline::InfolineModule::dispose
 %%
 }
 }

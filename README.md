@@ -2,7 +2,7 @@
 ![](http://www.ivw.eu/profiles/ivw_website/themes/ivw_theme/logo.png)
 ## Description
 
-Axway Titanium Module for INFOnline. Infoline is the solution for [IVW-tracking](http://www.ivw.eu/digital/digital). The developmenbt was sponsored by [4D Media GmbH](https://4dmedia.de/) in Düsseldorf.
+Axway Titanium Module for INFOnline. InfOnline is the solution for [IVW-tracking](http://www.ivw.eu/digital/digital). The developmenbt was sponsored by [4D Media GmbH](https://4dmedia.de/) in Düsseldorf.
 
 ## About IVW
 
@@ -21,7 +21,7 @@ Behind the system of circulation certification, digital measurement applications
 
 To access this module from JavaScript, you would do the following:
 
-    var Infonline = require("ti.infonline");
+    var InfOnline = require("ti.infonline");
 
 The infonline variable is a reference to the Module object.
 
@@ -32,94 +32,94 @@ The infonline variable is a reference to the Module object.
 Event categories with the following naming convention:
 
 ```
-Infoline.EVENT_VIEW
-Infoline.EVENT_IAP
-Infoline.EVENT_DATA
-Infoline.EVENT_GAME
-Infoline.EVENT_AUDIO
-Infoline.EVENT_VIDEO
-Infoline.EVENT_AD
-Infoline.EVENT_PUSH
-Infoline.EVENT_LOGIN
-Infoline.EVENT_DEVICE_ORIENTATION
-Infoline.EVENT_DOWNLOAD
-Infoline.EVENT_UPLOAD
-Infoline.EVENT_DOCUMENT
-Infoline.EVENT_HARDWARE_BUTTON
-Infoline.EVENT_GESTURE
+InfOnline.EVENT_VIEW
+InfOnline.EVENT_IAP
+InfOnline.EVENT_DATA
+InfOnline.EVENT_GAME
+InfOnline.EVENT_AUDIO
+InfOnline.EVENT_VIDEO
+InfOnline.EVENT_AD
+InfOnline.EVENT_PUSH
+InfOnline.EVENT_LOGIN
+InfOnline.EVENT_DEVICE_ORIENTATION
+InfOnline.EVENT_DOWNLOAD
+InfOnline.EVENT_UPLOAD
+InfOnline.EVENT_DOCUMENT
+InfOnline.EVENT_HARDWARE_BUTTON
+InfOnline.EVENT_GESTURE
 ```
 #### Event States
 Event Type specific states with the following naming convention
 
 ```
-Infoline.STATE_VIEW_APPEARED
-Infoline.STATE_VIEW_REFRESHED
-Infoline.STATE_VIEW_DISAPPEARED
+InfOnline.STATE_VIEW_APPEARED
+InfOnline.STATE_VIEW_REFRESHED
+InfOnline.STATE_VIEW_DISAPPEARED
 
-Infoline.STATE_DATA_CANCELLED
-Infoline.STATE_DATA_REFRESH
-Infoline.STATE_DATA_SUCCEEDED
-Infoline.STATE_DATA_FAILED
+InfOnline.STATE_DATA_CANCELLED
+InfOnline.STATE_DATA_REFRESH
+InfOnline.STATE_DATA_SUCCEEDED
+InfOnline.STATE_DATA_FAILED
 
-Infoline.STATE_DOCUMENT_OPEN
-Infoline.STATE_DOCUMENT_CLOSE
-Infoline.STATE_DOCUMENT_EDIT
+InfOnline.STATE_DOCUMENT_OPEN
+InfOnline.STATE_DOCUMENT_CLOSE
+InfOnline.STATE_DOCUMENT_EDIT
 
-Infoline.STATE_DOWNLOAD_CANCELLED
-Infoline.STATE_DOWNLOAD_START
-Infoline.STATE_DOWNLOAD_SUCCEEDED
-Infoline.STATE_DOWNLOAD_FAILED
+InfOnline.STATE_DOWNLOAD_CANCELLED
+InfOnline.STATE_DOWNLOAD_START
+InfOnline.STATE_DOWNLOAD_SUCCEEDED
+InfOnline.STATE_DOWNLOAD_FAILED
 
-Infoline.STATE_GAME_ACTION
-Infoline.STATE_GAME_STARTED
-Infoline.STATE_GAME_FINISHED
-Infoline.STATE_GAME_WON
-Infoline.STATE_GAME_LOST
-Infoline.STATE_GAME_NEW_HIGHSCORE
-Infoline.STATE_GAME_NEW_ACHIEVEMENT
+InfOnline.STATE_GAME_ACTION
+InfOnline.STATE_GAME_STARTED
+InfOnline.STATE_GAME_FINISHED
+InfOnline.STATE_GAME_WON
+InfOnline.STATE_GAME_LOST
+InfOnline.STATE_GAME_NEW_HIGHSCORE
+InfOnline.STATE_GAME_NEW_ACHIEVEMENT
 
-Infoline.STATE_GESTURE_SHAKE
+InfOnline.STATE_GESTURE_SHAKE
 
-Infoline.STATE_HARDWARE_BUTTON_PUSHED
+InfOnline.STATE_HARDWARE_BUTTON_PUSHED
 
-Infoline.STATE_IAP_STARTED
-Infoline.STATE_IAP_FINISHED
-Infoline.STATE_IAP_CANCELLED
+InfOnline.STATE_IAP_STARTED
+InfOnline.STATE_IAP_FINISHED
+InfOnline.STATE_IAP_CANCELLED
 
-Infoline.STATE_LOGIN_SUCCEEDED
-Infoline.STATE_LOGIN_FAILED
-Infoline.STATE_LOGIN_LOGOUT
+InfOnline.STATE_LOGIN_SUCCEEDED
+InfOnline.STATE_LOGIN_FAILED
+InfOnline.STATE_LOGIN_LOGOUT
 
-Infoline.STATE_AUDIO_PLAY
-Infoline.STATE_AUDIO_PAUSE
-Infoline.STATE_AUDIO_STOP
-Infoline.STATE_AUDIO_NEXT
-Infoline.STATE_AUDIO_PREVIOUS
-Infoline.STATE_AUDIO_REPLAY
-Infoline.STATE_AUDIO_SEEK_BACK
-Infoline.STATE_AUDIO_SEEK_FORWARD
+InfOnline.STATE_AUDIO_PLAY
+InfOnline.STATE_AUDIO_PAUSE
+InfOnline.STATE_AUDIO_STOP
+InfOnline.STATE_AUDIO_NEXT
+InfOnline.STATE_AUDIO_PREVIOUS
+InfOnline.STATE_AUDIO_REPLAY
+InfOnline.STATE_AUDIO_SEEK_BACK
+InfOnline.STATE_AUDIO_SEEK_FORWARD
 
-Infoline.STATE_VIDEO_PLAY
-Infoline.STATE_VIDEO_PAUSE
-Infoline.STATE_VIDEO_STOP
-Infoline.STATE_VIDEO_NEXT
-Infoline.STATE_VIDEO_PREVIOUS
-Infoline.STATE_VIDEO_REPLAY
-Infoline.STATE_VIDEO_SEEK_BACK
-Infoline.STATE_VIDEO_SEEK_FORWARD
+InfOnline.STATE_VIDEO_PLAY
+InfOnline.STATE_VIDEO_PAUSE
+InfOnline.STATE_VIDEO_STOP
+InfOnline.STATE_VIDEO_NEXT
+InfOnline.STATE_VIDEO_PREVIOUS
+InfOnline.STATE_VIDEO_REPLAY
+InfOnline.STATE_VIDEO_SEEK_BACK
+InfOnline.STATE_VIDEO_SEEK_FORWARD
 
-Infoline.STATE_PUSH_RECEIVED
+InfOnline.STATE_PUSH_RECEIVED
 
-Infoline.STATE_UPLOAD_START
-Infoline.STATE_UPLOAD_FAILED
-Infoline.STATE_UPLOAD_CANCELLED
-Infoline.STATE_UPLOAD_SUCCEEDED
+InfOnline.STATE_UPLOAD_START
+InfOnline.STATE_UPLOAD_FAILED
+InfOnline.STATE_UPLOAD_CANCELLED
+InfOnline.STATE_UPLOAD_SUCCEEDED
 
 
-Infoline.STATE_AD_OPEN
-Infoline.STATE_AD_CLOSE
+InfOnline.STATE_AD_OPEN
+InfOnline.STATE_AD_CLOSE
 
-Infoline.STATE_ORIENTATION_CHANGED
+InfOnline.STATE_ORIENTATION_CHANGED
 ```
 ## offerId
 The module  needs an offerId, you will get this id from IVW.

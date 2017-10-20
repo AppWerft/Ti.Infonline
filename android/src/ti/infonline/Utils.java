@@ -1,4 +1,4 @@
-package ti.infoline;
+package ti.infonline;
 
 
 import de.infonline.lib.*;

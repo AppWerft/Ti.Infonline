@@ -12,7 +12,7 @@
 #include "Proxy.h"
 
 namespace ti {
-namespace infoline {
+namespace infonline {
 
 class InfolineModule : public titanium::Proxy
 {
@@ -46,5 +46,5 @@ private:
 
 };
 
-} // infoline
+} // infonline
 } // ti

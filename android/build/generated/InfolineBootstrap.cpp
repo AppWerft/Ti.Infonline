@@ -18,7 +18,7 @@
 #include "BootstrapJS.cpp"
 #include "KrollGeneratedBindings.cpp"
 
-#define TAG "ti.infoline"
+#define TAG "ti.infonline"
 
 using namespace v8;
 
@@ -113,16 +113,16 @@ static void Infoline_dispose(Isolate* isolate)
 }
 
 static titanium::bindings::BindEntry InfolineBinding = {
-	"ti.infoline",
+	"ti.infonline",
 	Infoline_init,
 	Infoline_dispose
 };
 
 // Main module entry point
 extern "C" JNIEXPORT void JNICALL
-Java_ti_infoline_InfolineBootstrap_nativeBootstrap
+Java_ti_infonline_InfolineBootstrap_nativeBootstrap
 	(JNIEnv *env, jobject self)
 {
-	titanium::KrollBindings::addExternalBinding("ti.infoline", &InfolineBinding);
+	titanium::KrollBindings::addExternalBinding("ti.infonline", &InfolineBinding);
 	titanium::KrollBindings::addExternalLookup(&(titanium::bindings::InfolineBindings::lookupGeneratedInit));
 }

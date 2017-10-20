@@ -9,7 +9,7 @@
 #include <v8.h>
 #include <KrollBindings.h>
 
-#include "ti.infoline.InfolineModule.h"
+#include "ti.infonline.InfolineModule.h"
 
 
 namespace titanium {
@@ -39,19 +39,19 @@ InfolineBindings::lookupGeneratedInit (register const char *str, register unsign
   enum
     {
       TOTAL_KEYWORDS = 1,
-      MIN_WORD_LENGTH = 26,
-      MAX_WORD_LENGTH = 26,
-      MIN_HASH_VALUE = 26,
-      MAX_HASH_VALUE = 26
+      MIN_WORD_LENGTH = 27,
+      MAX_WORD_LENGTH = 27,
+      MIN_HASH_VALUE = 27,
+      MAX_HASH_VALUE = 27
     };
 
   static struct BindEntry wordlist[] =
     {
       {""}, {""}, {""}, {""}, {""}, {""}, {""}, {""}, {""},
       {""}, {""}, {""}, {""}, {""}, {""}, {""}, {""}, {""},
-      {""}, {""}, {""}, {""}, {""}, {""}, {""}, {""},
+      {""}, {""}, {""}, {""}, {""}, {""}, {""}, {""}, {""},
 #line 17 "/Users/fuerst/Documents/MLearning/Ti.Infoline/android/build/generated/KrollGeneratedBindings.gperf"
-      {"ti.infoline.InfolineModule",::ti::infoline::InfolineModule::bindProxy,::ti::infoline::InfolineModule::dispose}
+      {"ti.infonline.InfolineModule",::ti::infonline::InfolineModule::bindProxy,::ti::infonline::InfolineModule::dispose}
     };
 
   if (len <= MAX_WORD_LENGTH && len >= MIN_WORD_LENGTH)

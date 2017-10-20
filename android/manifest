@@ -2,17 +2,17 @@
 # this is your module manifest and used by Titanium
 # during compilation, packaging, distribution, etc.
 #
-version: 0.0.4
+version: 0.0.5
 apiversion: 3
 architectures: armeabi-v7a x86
-description: Infoline
+description: Infonline
 author: Rainer Knöterich
 license: Specify your license
 copyright: Copyright (c) 2017 by 
 
 # these should not be edited
 name: infoline
-moduleid: ti.infoline
+moduleid: ti.infonline
 guid: 0b6c46a7-780f-4a36-859b-7783d43c96e9
 platform: android
 minsdk: 6.0.0.

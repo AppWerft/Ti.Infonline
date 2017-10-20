@@ -1,4 +1,4 @@
-# Main NDK build script for ti.infoline
+# Main NDK build script for ti.infonline
 
 APP_BUILD_SCRIPT := jni/Android.mk
 TARGET_PLATFORM := android-19

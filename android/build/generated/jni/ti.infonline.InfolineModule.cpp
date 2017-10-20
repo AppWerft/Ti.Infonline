@@ -7,7 +7,7 @@
 
 /** This code is generated, do not edit by hand. **/
 
-#include "ti.infoline.InfolineModule.h"
+#include "ti.infonline.InfolineModule.h"
 
 #include "AndroidUtil.h"
 #include "EventEmitter.h"
@@ -28,7 +28,7 @@
 using namespace v8;
 
 namespace ti {
-namespace infoline {
+namespace infonline {
 
 
 Persistent<FunctionTemplate> InfolineModule::proxyTemplate;
@@ -67,7 +67,7 @@ Local<FunctionTemplate> InfolineModule::getProxyTemplate(Isolate* isolate)
 
 	LOGD(TAG, "GetProxyTemplate");
 
-	javaClass = titanium::JNIUtil::findClass("ti/infoline/InfolineModule");
+	javaClass = titanium::JNIUtil::findClass("ti/infonline/InfolineModule");
 	EscapableHandleScope scope(isolate);
 
 	// use symbol over string for efficiency
@@ -982,5 +982,5 @@ void InfolineModule::setter_costumerData(Local<Name> property, Local<Value> valu
 
 
 
-} // infoline
+} // infonline
 } // ti

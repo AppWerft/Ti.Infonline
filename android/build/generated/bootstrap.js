@@ -16,7 +16,7 @@ function moduleBootstrap(moduleBinding) {
 			name, namespace, moduleBinding.getBinding);
 	}
 
-	var module = moduleBinding.getBinding("ti.infoline.InfolineModule")["Infoline"];
+	var module = moduleBinding.getBinding("ti.infonline.InfolineModule")["Infoline"];
 	var invocationAPIs = module.invocationAPIs = [];
 	module.apiName = "Infoline";
 
