@@ -119,9 +119,7 @@ public class InfonlineModule extends KrollModule {
 		String KEY = "IVW_OFFER_ID_ANDROID";
 		TiProperties props = TiApplication.getInstance().getAppProperties();
 		if (props.hasProperty(KEY)) {
-			String offerIdentifier = props.getString(KEY, "");
-			Context ctx = app.getInstance().getApplicationContext();
-			IOLSession.initIOLSession(ctx, offerIdentifier, false);
+			IOLSession.initIOLSession(TiApplication.getInstance().getApplicationContext(), props.getString(KEY, ""), false);
 		} else
 			Log.e(LCAT,
 					"You need to add a property with name 'IVW_OFFER_ID_ANDROID'");
