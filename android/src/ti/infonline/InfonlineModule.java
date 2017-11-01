@@ -119,10 +119,17 @@ public class InfonlineModule extends KrollModule {
 		String KEY = "IVW_OFFER_ID_ANDROID";
 		TiProperties props = TiApplication.getInstance().getAppProperties();
 		if (props.hasProperty(KEY)) {
-			IOLSession.initIOLSession(TiApplication.getInstance().getApplicationContext(), props.getString(KEY, ""), false);
+			String offerId= props.getString(KEY, "");
+			IOLSession.initIOLSession(TiApplication.getInstance().getApplicationContext(), offerId, false);
+			Log.d(LCAT,
+					"****************************************************************"
+					+ "IOLSession started with: " + offerId +
+					"****************************************************************");
 		} else
 			Log.e(LCAT,
-					"You need to add a property with name 'IVW_OFFER_ID_ANDROID'");
+					"****************************************************************"
+					+ "You need to add a You need to add a property with name 'IVW_OFFER_ID_ANDROID'"+
+					"****************************************************************");
 	}
 
 	@Kroll.method
@@ -238,5 +245,4 @@ public class InfonlineModule extends KrollModule {
 		IOLSession.onActivityStop();
 		super.onStop(activity);
 	}
-
 }
