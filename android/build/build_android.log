@@ -1,5 +1,5 @@
 
-2017-11-1 12:12:42
+2017-11-1 12:20:23
 
 Operating System
   Name                        = Mac OS X
@@ -992,4 +992,4 @@ Compiling all java source files generated
 [INFO]   Packaging the module
 [INFO]   Creating module zip
 [INFO]   Writing module zip: /Users/fuerst/Documents/MLearning/Ti.Infoline/android/dist/ti.infonline-android-0.0.7.zip
-[INFO]   Project built successfully in 12s 19ms
+[INFO]   Project built successfully in 10s 21ms

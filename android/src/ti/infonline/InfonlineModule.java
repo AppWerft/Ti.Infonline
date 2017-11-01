@@ -127,9 +127,10 @@ public class InfonlineModule extends KrollModule {
 					"****************************************************************");
 		} else
 			Log.e(LCAT,
-					"****************************************************************"
-					+ "You need to add a You need to add a property with name 'IVW_OFFER_ID_ANDROID'"+
-					"****************************************************************");
+					"***************************************************************************\n"
+					+ "You need to add a property with name 'IVW_OFFER_ID_ANDROID' to.tiapp.xml"+
+					"   <property name=\"" + KEY + "\" type=\"string\">XXX</property>" +		
+					"\n***************************************************************************");
 	}
 
 	@Kroll.method
