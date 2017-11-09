@@ -15,8 +15,10 @@ import org.appcelerator.titanium.TiApplication;
 
 import android.app.Activity;
 import android.content.Context;
+import android.widget.Toast;
 import de.infonline.lib.IOLEventType;
 import de.infonline.lib.IOLSession;
+
 import org.appcelerator.titanium.TiProperties;
 
 @Kroll.module(name = "Infonline", id = "ti.infonline")
@@ -122,15 +124,18 @@ public class InfonlineModule extends KrollModule {
 			String offerId= props.getString(KEY, "");
 			IOLSession.initIOLSession(TiApplication.getInstance().getApplicationContext(), offerId, false);
 			Log.d(LCAT,
-					"****************************************************************"
+					"****************************************************************\n"
 					+ "IOLSession started with: " + offerId +
-					"****************************************************************");
-		} else
+					"\n****************************************************************");
+		} else {
+			Toast.makeText(app.getApplicationContext(), "The mandatory offerId is missing.\nPlease read log",
+		    Toast.LENGTH_LONG).show();
 			Log.e(LCAT,
 					"***************************************************************************\n"
-					+ "You need to add a property with name 'IVW_OFFER_ID_ANDROID' to.tiapp.xml"+
-					"   <property name=\"" + KEY + "\" type=\"string\">XXX</property>" +		
+					+ "You need to add a property with name 'IVW_OFFER_ID_ANDROID' to tiapp.xml"+
+					"  <property name=\"" + KEY + "\" type=\"string\">###YOUR_KEY###</property>" +		
 					"\n***************************************************************************");
+		}	
 	}
 
 	@Kroll.method
@@ -237,6 +242,16 @@ public class InfonlineModule extends KrollModule {
 		IOLSession.setCustomerData(data);
 	}
 
+	@Kroll.method
+	public void onStart() {
+		IOLSession.onActivityStart();
+	}
+	
+	@Kroll.method
+	public void onStop() {
+		IOLSession.onActivityStop();
+	}
+	
 	public void onStart(Activity activity) {
 		super.onStart(activity);
 		IOLSession.onActivityStart();

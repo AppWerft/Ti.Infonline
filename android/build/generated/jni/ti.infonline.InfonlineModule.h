@@ -30,16 +30,18 @@ private:
 
 	// Methods -----------------------------------------------------------
 	static void getVersion(const v8::FunctionCallbackInfo<v8::Value>&);
-	static void optOut(const v8::FunctionCallbackInfo<v8::Value>&);
 	static void sendLoggedEvents(const v8::FunctionCallbackInfo<v8::Value>&);
 	static void enableDebug(const v8::FunctionCallbackInfo<v8::Value>&);
-	static void disableDebug(const v8::FunctionCallbackInfo<v8::Value>&);
-	static void setDeviceIdEnabled(const v8::FunctionCallbackInfo<v8::Value>&);
 	static void setDbg(const v8::FunctionCallbackInfo<v8::Value>&);
 	static void optIn(const v8::FunctionCallbackInfo<v8::Value>&);
 	static void stopSession(const v8::FunctionCallbackInfo<v8::Value>&);
-	static void startSession(const v8::FunctionCallbackInfo<v8::Value>&);
 	static void logEvent(const v8::FunctionCallbackInfo<v8::Value>&);
+	static void optOut(const v8::FunctionCallbackInfo<v8::Value>&);
+	static void disableDebug(const v8::FunctionCallbackInfo<v8::Value>&);
+	static void setDeviceIdEnabled(const v8::FunctionCallbackInfo<v8::Value>&);
+	static void onStart(const v8::FunctionCallbackInfo<v8::Value>&);
+	static void startSession(const v8::FunctionCallbackInfo<v8::Value>&);
+	static void onStop(const v8::FunctionCallbackInfo<v8::Value>&);
 
 	// Dynamic property accessors ----------------------------------------
 	static void setter_costumerData(v8::Local<v8::Name> name, v8::Local<v8::Value> value, const v8::PropertyCallbackInfo<void>& info);
