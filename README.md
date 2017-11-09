@@ -181,8 +181,21 @@ Customer data according INFOnline SDK documentation
 	iol.startSession();
 	iol.logEvent(iol.EVENT_VIEW,iol.STATE_VIEW_APPEARED,"My code","My comment");
 
+## Special handling on Android
+
+Every activity must call these both methods:
+```
+var win = Ti.UI.createWindow({………}); // for tabgroup too"
+
+win.addEvent.activity.onStart=function() {iol.onStart();}
+win.addEvent.activity.onStop=function() {iol.onStop();}
+```
+Maybe it is a good idea to build a generic window.
+
 ## Potential pitfalls on Android
-Ab August 2014 muss gemäß den Bestimmungen der [Google Play Developer Program Policies](http://play.google.com/about/developer-content-policy.html) der AdvertisingIdentifier in Bezug auf AudienceMeasurement zum Einsatz kommenUm den AdvertisingIdentifier zu erfassen, muss die Google Play Services Bibliothek in das Projekt eingebunden werden, jedoch nur die Google Mobile Ads API. 
+Ab August 2014 muss gemäß den Bestimmungen der [Google Play Developer Program Policies](http://play.google.com/about/developer-content-policy.html) der AdvertisingIdentifier in Bezug auf AudienceMeasurement zum Einsatz kommen
+
+Um den AdvertisingIdentifier zu erfassen, muss die Google Play Services Bibliothek in das Projekt eingebunden werden, jedoch nur die Google Mobile Ads API. 
 
 HINWEIS Die Integration der Google Play Services Library muss auch für Apps erfolgen, welche nicht im Google Play Store veröffentlicht werden!
 
